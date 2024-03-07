@@ -1,0 +1,4 @@
+faction	unit	general_portrait	general_uniform
+#unit_general_details_tables;0;db/unit_general_details_tables/ovn_dread_king_only			
+ovn_tmb_dread_king	elo_dread_larenscheld_wright	ui/portraits/portholes/no_culture/elo_larenscheld.png	
+ovn_tmb_dread_king	elo_dread_larenscheld_wright_perfect	ui/portraits/portholes/no_culture/elo_larenscheld.png	

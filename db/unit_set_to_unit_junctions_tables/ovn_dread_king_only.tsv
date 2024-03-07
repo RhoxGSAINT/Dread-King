@@ -735,3 +735,5 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			wh2_dlc09_tmb_inf_tomb_guard_1	ovn_tmb_inf_tomb_guard_1	false
 			wh2_dlc09_tmb_inf_tomb_guard_0	ovn_vet_tmb_inf_tomb_guard_0	false
 			wh2_dlc09_tmb_inf_tomb_guard_1	ovn_vet_tmb_inf_tomb_guard_1	false
+			ovn_dk_inf_skeleton_pikemen	ovn_dk_inf_skeleton_pikemen_vet	false
+			nagash_ovn_dk_inf_skeleton_pikemen	ovn_dk_inf_skeleton_pikemen_vet	false

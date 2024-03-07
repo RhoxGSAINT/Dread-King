@@ -79,3 +79,9 @@ ovn_tmb_inf_tomb_guard_0	false	-1	-1
 ovn_tmb_inf_tomb_guard_1	false	-1	-1	
 ovn_vet_tmb_inf_tomb_guard_0	true	7	9	
 ovn_vet_tmb_inf_tomb_guard_1	true	7	9	
+dread_army_buff_vet_archer_ror	false	-1	-1	
+dread_army_buff_vet_cav_ror	false	-1	-1	
+dread_army_buff_vet_infantry_ror	false	-1	-1	
+dread_army_buff_vet_monsters_ror	false	-1	-1	
+ovn_dk_inf_skeleton_pikemen_vet	true	7	9	
+ovn_dk_vet_hoplites_ror	false	-1	-1	

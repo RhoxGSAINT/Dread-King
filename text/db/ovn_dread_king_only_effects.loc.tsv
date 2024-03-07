@@ -10,10 +10,6 @@ effects_description_wh2_dlc09_effect_melee_defence_tmb_all_melee_infantry	Melee 
 effects_description_wh2_dlc09_effect_armour_tmb_all_melee_infantry	Armour: %+n for all melee infantry units	true
 effects_description_wh2_dlc09_effect_melee_attack_tmb_all_melee_infantry	Melee attack: %+n for all melee infantry units	true
 effects_description_wh2_dlc09_effect_morale_tmb_all_melee_infantry	Leadership: %+n for all melee infantry units	true
-effects_description_wh2_dlc09_effect_leadership_tmb_vet_all_infantry	Leadership: %+n for all melee infantry units {{tr:rank7}}	true
-effects_description_wh2_dlc09_effect_missile_resistance_tmb_vet_all_infantry	Missile resistance: %+n% for all melee infantry units {{tr:rank7}}	true
-effects_description_wh2_dlc09_effect_speed_tmb_vet_all_infantry	Speed: %+n% for all melee infantry units {{tr:rank7}}	true
-effects_description_wh2_dlc09_effect_armour_tmb_vet_all_infantry	Armour: %+n for all melee infantry units {{tr:rank7}}	true
 effects_description_dread_legion_grail_knight_cap	Unit capacity: %+n\\nBlack Grail Knights	true
 effects_description_dread_legion_skellie_giant_cap	Unit capacity: %+n\\nSkeletal Giants	true
 effects_description_elo_dread_mummy	Unit capacity: %+n\\nMummies	true

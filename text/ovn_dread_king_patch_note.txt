@@ -1,3 +1,10 @@
+2024/MAR/7 Rhox
+- Fixed the scope of luthor_the_hunchback's ambush to agent_to_parent_army_own from general to force own
+- Fixed the issue of most veteran effects not affecting Dread King's RoRs
+- Fixed the issue of following effects affecting all units regardless of exp even though it stated it was a veteran skill
+-- ovn_dk_inf_skeleton_pikemen_morale
+-- ovn_dk_inf_skeleton_pikemen_phys_res
+
 2024/MAR/2 Rhox
 - Changed Hetairoi's deadly onsalught to Colossal Strike
 
