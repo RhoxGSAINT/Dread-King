@@ -1,0 +1,166 @@
+key	text	tooltip
+#Loc;1;text/db/ovn_dread_king_only_technologies.loc		
+technologies_onscreen_name_dread_king_tech_1_legion	Awaken the First Legion	true
+technologies_onscreen_name_dread_king_tech_2_legion	Awaken the Second Legion	true
+technologies_onscreen_name_dread_king_tech_3_legion	Awaken the Third Legion	true
+technologies_onscreen_name_dread_king_tech_4_legion	Awaken the Fourth Legion	true
+technologies_onscreen_name_dread_king_tech_5_legion	Awaken the Fifth Legion	true
+technologies_onscreen_name_dread_king_tech_6_legion	Awaken the Sixth Legion	true
+technologies_onscreen_name_dread_king_tech_7	Most Loyal Servants	true
+technologies_onscreen_name_dread_king_tech_8	Fragmented Memories	true
+technologies_onscreen_name_dread_king_tech_9	Coordinated Volleys	true
+technologies_onscreen_name_dread_king_tech_10	Timeless Craftsmenship	true
+technologies_onscreen_name_dread_king_tech_11	Undead Raiders	true
+technologies_onscreen_name_dread_king_tech_12	Feral Soldiers	true
+technologies_onscreen_name_dread_king_tech_13	Beasts of War	true
+technologies_onscreen_name_dread_king_tech_14	A Mighty Puppet	true
+technologies_onscreen_name_dread_king_tech_15	Nagashi Priest	true
+technologies_onscreen_name_dread_king_tech_16	Undead Labour	true
+technologies_onscreen_name_dread_king_tech_17	Nagash's Blessings	true
+technologies_onscreen_name_dread_king_tech_18	First Companion	true
+technologies_onscreen_name_dread_king_tech_19	Growth through Death	true
+technologies_onscreen_name_dread_king_tech_20	Martial Excellence	true
+technologies_onscreen_name_dread_king_tech_21	Tormented Souls	true
+technologies_onscreen_name_dread_king_tech_22	Dark Riders	true
+technologies_onscreen_name_dread_king_tech_23	Cursed Corpses	true
+technologies_onscreen_name_dread_king_tech_24	Doctrine of the First Legion	true
+technologies_onscreen_name_dread_king_tech_25	Bonecrafted Artillery	true
+technologies_onscreen_name_dread_king_tech_26	Noble Charioteers	true
+technologies_onscreen_name_dread_king_tech_27	Monster Hunters	true
+technologies_onscreen_name_dread_king_tech_28	Creed of the Second Legion	true
+technologies_onscreen_name_dread_king_tech_29	Hateful Spirit	true
+technologies_onscreen_name_dread_king_tech_30	Fallen Priest	true
+technologies_onscreen_name_dread_king_tech_31	Second Companion	true
+technologies_onscreen_name_dread_king_tech_32	Vengeful Haunting	true
+technologies_onscreen_name_dread_king_tech_33	Corrupted Liche	true
+technologies_onscreen_name_dread_king_tech_34	Spiteful Ghost	true
+technologies_onscreen_name_dread_king_tech_35	Third Companion	true
+technologies_onscreen_name_dread_king_tech_36	Necromantic Scholar	true
+technologies_onscreen_name_dread_king_tech_37	Murderous Apparition	true
+technologies_onscreen_name_dread_king_tech_38	Fourth Companion	true
+technologies_onscreen_name_dread_king_tech_39	Martial Discipline	true
+technologies_onscreen_name_dread_king_tech_40	Undead Lancers	true
+technologies_onscreen_name_dread_king_tech_41	Wall of Pikes	true
+technologies_onscreen_name_dread_king_tech_42	Immaterial Reapers	true
+technologies_onscreen_name_dread_king_tech_43	Corrupted Wealth	true
+technologies_onscreen_name_dread_king_tech_44	Manifest of the Third Legion	true
+technologies_onscreen_name_dread_king_tech_45	Undead Artillery	true
+technologies_onscreen_name_dread_king_tech_46	Labyrinthian Terrors	true
+technologies_onscreen_name_dread_king_tech_47	Weaponised Fauna	true
+technologies_onscreen_name_dread_king_tech_48	Ruthless Plunder	true
+technologies_onscreen_name_dread_king_tech_49	The Spirits Plaything	true
+technologies_onscreen_name_dread_king_tech_50	Agenda of the Fourth Legion	true
+technologies_onscreen_name_dread_king_tech_51	High Liche Priest of Mahrak	true
+technologies_onscreen_name_dread_king_tech_52	Elite Defenders	true
+technologies_onscreen_name_dread_king_tech_53	Weaponmasters	true
+technologies_onscreen_name_dread_king_tech_54	Fifth Companion	true
+technologies_onscreen_name_dread_king_tech_55	Ectoplasmic Horror	true
+technologies_onscreen_name_dread_king_tech_56	Ascended Necromancer	true
+technologies_onscreen_name_dread_king_tech_57	Traitor King of Mahrak	true
+technologies_onscreen_name_dread_king_tech_58	Traditions of the Fifth Legion	true
+technologies_onscreen_name_dread_king_tech_59	Monsterslayers	true
+technologies_onscreen_name_dread_king_tech_60	Many-headed Monstrosities	true
+technologies_onscreen_name_dread_king_tech_61	Traitorous Liche Priest	true
+technologies_onscreen_name_dread_king_tech_62	Enslaved Soul	true
+technologies_onscreen_name_dread_king_tech_63	Sixth Companion	true
+technologies_onscreen_name_dread_king_tech_64	Traitor King of Quatar	true
+technologies_onscreen_name_dread_king_tech_65	Dogma of the Sixth Legion	true
+technologies_onscreen_name_dread_king_tech_66	Cursed Engines	true
+technologies_onscreen_name_dread_king_tech_67	Soldiers of Legend	true
+technologies_onscreen_name_dread_king_tech_68	Feared Chariots	true
+technologies_onscreen_name_dread_king_tech_69	Revenant Knights	true
+technologies_onscreen_name_dread_king_tech_70	Enslaved Souls of Heroes	true
+technologies_onscreen_name_dread_king_tech_71	Spear Combat Tactics	true
+technologies_onscreen_name_dread_king_tech_72	Land of the Dead	true
+technologies_onscreen_name_dread_king_tech_73	Teachings of Nagash	false
+technologies_onscreen_name_dread_king_tech_74	Undead Masterpiece	false
+technologies_onscreen_name_dread_king_tech_75	Darkened Skies	false
+technologies_onscreen_name_dread_king_tech_76	Brutal Ferocity	false
+technologies_onscreen_name_dread_king_tech_77	Resurrected Nomads	false
+technologies_onscreen_name_dread_king_tech_78	Machines of Death	false
+technologies_onscreen_name_dread_king_tech_79	Unfathomable Monstrosities	false
+technologies_onscreen_name_dread_king_tech_80	Harbingers of Death	false
+technologies_onscreen_name_dread_king_tech_81	Nagash's Rule	false
+technologies_onscreen_name_dread_king_tech_hand	The Return of the Hand	false
+technologies_short_description_dread_king_tech_1_legion	The First Legion has never been known for their strategies or elites - instead they drown the enemies in untold numbers of expandable skeletons.	false
+technologies_short_description_dread_king_tech_2_legion	The Second Legion prefers mobility over all else, employing fast beasts, riders and chariots to terrorize vulnerable targets.	false
+technologies_short_description_dread_king_tech_3_legion	The Third Legion is better prefers combined arms tactics, fielding artillery, skirmishers, cavalry as well as binding souls from long forgotten tombs to hold the frontlines.	false
+technologies_short_description_dread_king_tech_4_legion	The Fourth Legion has been unremarkable in their employ of regular soldiers, however more exceptional individuals seem to arise from their ranks than in any other legion.	false
+technologies_short_description_dread_king_tech_5_legion	The Fifth Legion is infamous for their rows of disciplined infantry and their use of terrifying monstrosities.	false
+technologies_short_description_dread_king_tech_6_legion	As the personal legion of the Dread King, the Sixth Legion has access to the most terrifying undead creations at his disposal.	false
+technologies_short_description_dread_king_tech_7	Loyalty to Nagash transcends death and defeat. Cultists and undead minions gather under the Dread King's banner, leaving their forsaken hiding places to join his ranks once more.	false
+technologies_short_description_dread_king_tech_8	In life, the legions received extensive training, every single one a fearsome warrior. In death, some of these memories still persist.	false
+technologies_short_description_dread_king_tech_9	What they lack in accuracy, they make up in unnatural coordination and with sheer quantity.	false
+technologies_short_description_dread_king_tech_10	Enchantments keep the chariots from rotting beyond use. They remain in working condition for many centuries to come.	false
+technologies_short_description_dread_king_tech_11	This light cavalry has been feared as opportunistic raiders in life. Their tactics have not changed much in death.	false
+technologies_short_description_dread_king_tech_12	Ghouls are seen more as warbeasts than soldiers as they lack discipline, but they make up for it in sheer ferocity.	false
+technologies_short_description_dread_king_tech_13	The legions often make use of Dire Wolves and Bats to terrorize soft targets.	false
+technologies_short_description_dread_king_tech_14	Long ago a mighty warrior tried to slay a vile Medusa but paid with his life for the attempt. Now a spiteful ghost commands the corpse of the former hero.	false
+technologies_short_description_dread_king_tech_15	Only few mortals are foolish enough to worship Nagash as a god. All of them meet a terrible end eventually, but for some of them their service to Nagash does not end with death.	false
+technologies_short_description_dread_king_tech_16	Resurrected corpses are tireless workers. They need for nothing and will work until their husk fails them. But there are always more to acquire.	false
+technologies_short_description_dread_king_tech_17	What followers of Nagash call a blessing, most would call a curse. Undoubtly there is power to be gained for those willing to pay the price.	false
+technologies_short_description_dread_king_tech_18	The First Companion of the Dread King has followed him loyally and willingly into death - and beyond.	false
+technologies_short_description_dread_king_tech_19	To the undead, every death is a chance to grow their ranks and expand their lands.	false
+technologies_short_description_dread_king_tech_20	The intelligent undead hone their skills far beyond the physical limitations of the living.	false
+technologies_short_description_dread_king_tech_21	Even unwilling souls may be forced into a necromancers service. Spellbound, they are forced to turn their wrath towards the enemies of the necromancer who controls them.	false
+technologies_short_description_dread_king_tech_22	Long before the re-appearence of the Dread King, there were rumours of dark riders haunting the lands during Hexensnacht. Sometimes, such rumours are true.	false
+technologies_short_description_dread_king_tech_23	Unlike the Tomb Kings, these mummies have not been preserved with the intent to awaken in a utopian afterlife. Instead, they are cursed to eternally suffer as puppets, used to further the ambitions of their dark master.	false
+technologies_short_description_dread_king_tech_24	There is strength in numbers. Sheer unlimited numbers therefore equal almost unlimited strength.	false
+technologies_short_description_dread_king_tech_25	Even the artillery deployed by the legions is forged from cursed remains of unlucky beings, animated by the malicious intent of a necromancer.	false
+technologies_short_description_dread_king_tech_26	In ancient times, only nobles would ride into battle on a chariot. Now long dead, they still retain a fraction of their superior training.	false
+technologies_short_description_dread_king_tech_27	Long ago, these javelins were used to hunt Elephants or Giant Vultures of the deserts. 	false
+technologies_short_description_dread_king_tech_28	Those with superior speed and maneuverability dictate the time and place of engagements. This means being faster than your enemy is paramount for success.	false
+technologies_short_description_dread_king_tech_29	"How cruel life is that you breath while I must rot. Crueler still am I, for I shall rectify matters." - Marquis of Mullyn, Hellwraith	false
+technologies_short_description_dread_king_tech_30	Sometimes, those who venerate the gods of death have their path lead into the employ of Nagash himself. For he is the true master of death.	false
+technologies_short_description_dread_king_tech_31	Some say that this Companion has not willingly accepted his undeath. The choice however was not his to make and now he serves the Dread King anew in death.	false
+technologies_short_description_dread_king_tech_32	Wraiths harbour malicious intent against all living. This is deemed useful by most necromancers since this provides the spectres with additional motivation when facing the mage's mortal enemies.	false
+technologies_short_description_dread_king_tech_33	Not all liches of the mortuary cult oppose Nagash. Some see him as the greatest of their kind and serve him willingly in exchange for some of his secrets.	false
+technologies_short_description_dread_king_tech_34	Bound to the will of their master, most ghosts are completely mad. There is no reasoning with such a foe.	false
+technologies_short_description_dread_king_tech_35	Fallen in ancient times, his remains have been carefully preserved for the time when his king calls him to service once again.	false
+technologies_short_description_dread_king_tech_36	Curiosity for the dark arts inevitably leads down a dark path.	false
+technologies_short_description_dread_king_tech_37	Sometimes, when the purple wind blows strongly, wraiths will appear without the need for a necromancer to attack the living.	false
+technologies_short_description_dread_king_tech_38	Said to have achieved undeath even before his master, he loyally guarded the Dread King's tomb while his liege was regenerating.	false
+technologies_short_description_dread_king_tech_39	Shields linked, ranks closed and spears forward. Discipline and training made these Wights strong in life and now a terrifying opponent in death.	false
+technologies_short_description_dread_king_tech_40	The charge of this heavy cavalry brings fear to the enemies ranks.	false
+technologies_short_description_dread_king_tech_41	With the length of the pikes, enemies can be kept at a save distance.	false
+technologies_short_description_dread_king_tech_42	These ghostly apparitions only exist to reap the lifes of as many beings as they can.	false
+technologies_short_description_dread_king_tech_43	Ancient cursed treasures and the possessions of the recently diseased are used to further the Dread King's cause.	false
+technologies_short_description_dread_king_tech_44	Only a balanced army may be prepared for every possible threat.	false
+technologies_short_description_dread_king_tech_45	This artillery and its grotesque ammunition are meant to break both body and spirit of the opposition.	false
+technologies_short_description_dread_king_tech_46	It is said that in ancient times a long forgotten hero descencded in a labyrinth near Khemri inhabited by a clan of vicious minotaurs and slayed almost all of them before falling himself. This may just be a legend, but it may explain where the Legions get the grizzly supply of minotaur bones from.	false
+technologies_short_description_dread_king_tech_47	When an Elephant is dying, it has the habit to seek out a special place to die among the remains of its already diseased ancestors. Finding such a place gives a necromancer a convenient access to their bones.	false
+technologies_short_description_dread_king_tech_48	The walking dead will take everything from the living - even their chance for an afterlife.	false
+technologies_short_description_dread_king_tech_49	Once a famous hero entered a labyrinth to slay a small group of minotaurs. He very nearly succeeded, but the leader of the minotaurs struck him down. Now his corpse is puppeteered by a vengeful spirit.	false
+technologies_short_description_dread_king_tech_50	One champion can be worth hundreds of lesser soldiers. Therefore the talentless must serve as steppingstones to further the strength and development of the talented.	false
+technologies_short_description_dread_king_tech_51	Lured by dark promises Haptmose, the Liche High Priest, known as the Traitor of Mahrak has forsaken his fellow tomb kings to enter the service Nagash.	false
+technologies_short_description_dread_king_tech_52	The dead never retreat. Wherever they set foot, this land is now property of Nagash.	false
+technologies_short_description_dread_king_tech_53	The wicked Labrys is a fearsome weapon, especially when wielded by mercyless Wights.	false
+technologies_short_description_dread_king_tech_54	It is said that this Companion enjoyed nothing but fighting to such an extent that he sees his undead form as a blessing, for he may continue to fight indefinetly now.	false
+technologies_short_description_dread_king_tech_55	Many ghosts enjoy to frighten the living. However, this one tends to do a lot more harm than just frightening them.	false
+technologies_short_description_dread_king_tech_56	The endpoint of a successful necromancers journey is always the ascendence into an intelligent undead. The Dread King has use for such individuals.	false
+technologies_short_description_dread_king_tech_57	King Nebwaneph has been convinced by the traitor Haptmose to turn on his fellow tomb kings and swear loyalty to Nagash.	false
+technologies_short_description_dread_king_tech_58	Pikes and spears will hold the ground while monsters and artillery lay waste to our enemies. 	false
+technologies_short_description_dread_king_tech_59	Only the best javelineers may become royal peltasts. They are superior in both skill and equipment.	false
+technologies_short_description_dread_king_tech_60	Hydras prey on the Elephants and therefore can often be found near elephant graveyards. Once slain, they make a fine addition to the Dread King's legions.	false
+technologies_short_description_dread_king_tech_61	Some left the mortuary cult to side with Nagash when he first rose so many centuries ago. Others fall to temptation later when trying to unlock the secrets of his magic.	false
+technologies_short_description_dread_king_tech_62	Not all wraiths are corrupted when they are first bound, but malicious madness will inevitably follow.	false
+technologies_short_description_dread_king_tech_63	Fallen and unburied on a forgotten battlefield in the deserts, sand and heat have preserved this Companion until his king returned and raised him for unholy duty once more.	false
+technologies_short_description_dread_king_tech_64	King Omanhan III has been swayed by the honeyed words of the High Liche priest of Mahrak to join forces with the Dread King, in the name of Nagash.	false
+technologies_short_description_dread_king_tech_65	Only the best soldiers and darkest magic can gurantee victory.	false
+technologies_short_description_dread_king_tech_66	The mere presence of a Mortis Engine will drain the lifeforce from enemies around.	false
+technologies_short_description_dread_king_tech_67	The legions were infamous in their own right and have seen more battlefields than even most of the oldest elves.	false
+technologies_short_description_dread_king_tech_68	Chariots were once feared across the land and so it shall be again.	false
+technologies_short_description_dread_king_tech_69	Many knights fancy themselves as the best alive, but they all pale against the dead.	false
+technologies_short_description_dread_king_tech_70	Some souls hold greater powers than others, but all can be forced to serve with sufficient force.	false
+technologies_short_description_dread_king_tech_71	Stab them with the pointy end and keep them away from you. Simple, but brutally effective.	false
+technologies_short_description_dread_king_tech_72	These lands have been tainted beyond and shyish blows strongly here. Only the foolish or the desperate would dare to enter.	false
+technologies_short_description_dread_king_tech_73	Nagash's secrets are his own, but sometimes granting a few morselfs of power to a loyal servant can make them more useful.	false
+technologies_short_description_dread_king_tech_74	The colossal remains of a forgotten race of giants are difficult to reanimate and control, but their sheer power is worth it.	false
+technologies_short_description_dread_king_tech_75	The Accuracy of the undead is often not as good as the one of their living counterparts, however with enough projectiles they are basically guranteed to hit something.	false
+technologies_short_description_dread_king_tech_76	Ghouls and Beasts can swarm the enemy backlines and sow confusion and fear while more valuable troops make their move.	false
+technologies_short_description_dread_king_tech_77	Superior Horse Archers in life, nomads of the Arabyan Deserts make for great undead skirmishers too.	false
+technologies_short_description_dread_king_tech_78	The unholy artillery used by the legions is a horrifying sight to behold, each a cursed undead construct in their own right.	false
+technologies_short_description_dread_king_tech_79	Already feared in life, these reanimated remains of the monsters of the great deserts are no less terrifying.	false
+technologies_short_description_dread_king_tech_80	Where the servants of Nagash go, death and worse follows.	false
+technologies_short_description_dread_king_tech_81	Nagash will rule everything and everyone with supreme authority - in due time.	false
+technologies_short_description_dread_king_tech_hand	What is already dead cannot be killed permanently - another legendary servant of Nagash returns from defeat to serve his master once more.	false

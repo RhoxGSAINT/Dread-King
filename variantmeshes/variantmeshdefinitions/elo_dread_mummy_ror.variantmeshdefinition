@@ -1,0 +1,58 @@
+<VARIANT_MESH>
+	<SLOT name="torso" >
+		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hu1/tmb/loki/loki_mummy1/loki_mummy1.wsmodel" />
+		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hu1/tmb/loki/loki_mummy2/loki_mummy2.wsmodel" />
+	</SLOT>
+	
+	<SLOT name="dummy" >
+		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hu1/tmb/loki/loki_mummy1/dummy/dummy.wsmodel" />
+	</SLOT>
+	
+	<SLOT name="weapon 1" attach_point="be_prop_0" />
+	<SLOT name="weapon_2" attach_point="be_prop_1" >
+		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hu1/tmb/loki/atrezzo/mummy_mace1/mummy_mace1.wsmodel" >
+			<META_DATA>equipment</META_DATA>			<META_DATA>audio_melee_weapon_type:club</META_DATA></VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hu1/tmb/loki/atrezzo/mummy_mace2/mummy_mace2.wsmodel" >
+			<META_DATA>equipment</META_DATA>			<META_DATA>audio_melee_weapon_type:club</META_DATA></VARIANT_MESH>			
+	</SLOT>
+	<SLOT name="shield" attach_point="be_prop_2" >
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1\brt\brt_righteous_spear\shield\dread_round_shield.wsmodel" >
+			<META_DATA>audio_shield_type:metal</META_DATA></VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1\brt\brt_righteous_spear\shield\dread_round_shield_02.wsmodel" >
+			<META_DATA>audio_shield_type:metal</META_DATA></VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1\brt\brt_righteous_spear\shield\dread_round_shield_03.wsmodel" >
+			<META_DATA>audio_shield_type:metal</META_DATA></VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1\brt\brt_righteous_spear\shield\dread_round_shield_04.wsmodel" >
+			<META_DATA>audio_shield_type:metal</META_DATA></VARIANT_MESH>
+	</SLOT>
+	<SLOT name="weapon_3" attach_point="be_prop_3" />
+	<SLOT name="weapon_4" attach_point="be_prop_4" />
+	<SLOT name="weapon_5" attach_point="be_prop_5" />		
+	
+	<SLOT name="cabeza" >
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1\tmb\loki\atrezzo\mummy_cap\mummy_ror_helmet_01.wsmodel" />
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1\tmb\loki\atrezzo\mummy_cap\mummy_ror_helmet_02.wsmodel" />
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1\tmb\loki\atrezzo\mummy_cap\mummy_ror_helmet_03.wsmodel" />
+	</SLOT>
+	<SLOT name="torso" >
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1\tmb\loki\atrezzo\mummy_cap\mummy_ror_torso_01.wsmodel" />
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1\tmb\loki\atrezzo\mummy_cap\mummy_ror_torso_02.wsmodel" />
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1\tmb\loki\atrezzo\mummy_cap\mummy_ror_torso_03.wsmodel" />
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1\tmb\loki\atrezzo\mummy_cap\mummy_ror_torso_04.wsmodel" />
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1\tmb\loki\atrezzo\mummy_cap\mummy_ror_torso_05.wsmodel" />
+	</SLOT>
+	<SLOT name="belt" >
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1\tmb\loki\atrezzo\mummy_cap\mummy_ror_belt_01.wsmodel" />
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1\tmb\loki\atrezzo\mummy_cap\mummy_ror_belt_02.wsmodel" />
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1\tmb\loki\atrezzo\mummy_cap\mummy_ror_belt_03.wsmodel" />
+	</SLOT>
+	<SLOT name="belt_deco"  probability="0.8">
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1\tmb\loki\atrezzo\mummy_cap\mummy_ror_belt_decoration_01.wsmodel" />
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1\tmb\loki\atrezzo\mummy_cap\mummy_ror_belt_decoration_02.wsmodel" />
+	</SLOT>
+	<SLOT name="arms" >
+		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hu1/tmb/loki/atrezzo/mummy_armguards/mummy_armguards.wsmodel" />
+		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hu1/tmb/loki/atrezzo/mummy_armguardleft/mummy_armguardleft.wsmodel" />
+		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hu1/tmb/loki/atrezzo/mummy_armguardright/mummy_armguardright.wsmodel" />
+	</SLOT>
+</VARIANT_MESH>

@@ -1,0 +1,11 @@
+agent_subtype	campaign_type
+#campaign_to_agent_subtypes_tables;0;db/campaign_to_agent_subtypes_tables/ovn_dread_king	
+Dread_King	wh3_main_combi
+elo_dread_larenscheld	wh3_main_combi
+elo_hand_of_nagash	wh3_main_combi
+Dread_King	cr_combi_expanded
+elo_dread_larenscheld	cr_combi_expanded
+elo_hand_of_nagash	cr_combi_expanded
+Dread_King	cr_oldworld
+elo_dread_larenscheld	cr_oldworld
+elo_hand_of_nagash	cr_oldworld

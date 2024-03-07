@@ -1,0 +1,4 @@
+faction_key	faction_group_key
+#faction_to_faction_groups_junctions_tables;0;db/faction_to_faction_groups_junctions_tables/ovn_dread_king_only	
+ovn_tmb_dread_king	wh2_dlc09_fact_group_tomb_kings
+ovn_tmb_dread_king_battle_only	wh2_dlc09_fact_group_tomb_kings

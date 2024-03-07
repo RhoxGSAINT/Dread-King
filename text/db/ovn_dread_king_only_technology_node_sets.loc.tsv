@@ -1,0 +1,5 @@
+key	text	tooltip
+#Loc;1;text/db/ovn_dread_king_only_technology_node_sets.loc		
+technology_node_sets_localised_name_dread_mil	Dread King Tech	true
+technology_node_sets_tooltip_string_dread_mil	Dread King Tech	true
+technology_node_sets_encyclopaedia_string_dread_mil		true

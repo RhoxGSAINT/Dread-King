@@ -1,0 +1,24 @@
+faction_key	campaign_key	level	skill_key	subculture_key	image_path	unlocked_at_rank
+#character_skill_level_details_tables;1;db/character_skill_level_details_tables/dread_king						
+		1	dread_skeletal_steed		x	7
+		1	dread_pegasus		x	9
+		1	dread_zombie_dragon		x	17
+		1	Ancient_Necromancer		x	9
+		1	Mighty_Warrior_tmb		x	9
+		1	Lord_Of_The_Undead_tmb		x	9
+		1	Dark_Lord_Of_Nagash		x	9
+		1	Great_Summoner		x	9
+		1	Dread_Aura		x	9
+		1	Soulreaper		x	6
+		1	mount_skeletal_steed_hand_of_nagash		x	6
+		1	mount_chariot_hand_of_nagash		x	13
+		1	elo_hand_punished_one		x	11
+		1	elo_hungering_blade		x	6
+		1	elo_terror_land		x	9
+		1	elo_dark_charioteer		x	9
+		1	elo_undead_traveler		x	9
+		1	elo_undead_warrior		x	9
+		1	elo_hand_destroyer		x	9
+		1	elo_hand_vortex		x	9
+		1	dread_grimoire_necris		x	11
+		1	dread_black_jewel		x	11

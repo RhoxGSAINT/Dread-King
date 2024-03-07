@@ -1,0 +1,39 @@
+<model version="1">
+	<geometry>warmachines\chariot\bst_tuskgor_chariot\dread_hand_of_nagash_chariot_01.rigid_model_v2</geometry>
+		<materials>
+			<material lod_index="0" part_index="0">warmachines\chariot\bst_tuskgor_chariot\materials\piece01_destruct01_lod01_weighted2_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="1">warmachines\materials\bst_tuskgor_chariot_01_weighted2_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="2">warmachines\materials\bst_tuskgor_chariot_01_weighted2_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="3">variantmeshes\wh_variantmodels\hu12\dae\dae_khornataur\materials\dae_khornataur_body_01_weighted2_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="4">variantmeshes\wh_variantmodels\hu1\vmp\vmp_zombies\legs\materials\vmp_varghiest_01_weighted2_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="5">warmachines\chariot\bst_tuskgor_chariot\materials\dread_hand_of_nagash_banner_01_weighted2_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="6">warmachines\materials\chs_gorebeast_chariot_weighted2_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="7">variantmeshes\wh_variantmodels\hu17\skv\skv_queek_headtaker\materials\skv_queek_headtaker_trophyrack_01_weighted2_alpha_off.xml.material</material>
+
+			<material lod_index="1" part_index="0">warmachines\chariot\bst_tuskgor_chariot\materials\piece01_destruct01_lod01_weighted2_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="1">warmachines\materials\bst_tuskgor_chariot_01_weighted2_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="2">warmachines\materials\bst_tuskgor_chariot_01_weighted2_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="3">variantmeshes\wh_variantmodels\hu12\dae\dae_khornataur\materials\dae_khornataur_body_01_weighted2_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="4">variantmeshes\wh_variantmodels\hu1\vmp\vmp_zombies\legs\materials\vmp_varghiest_01_weighted2_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="5">warmachines\chariot\bst_tuskgor_chariot\materials\dread_hand_of_nagash_banner_01_weighted2_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="6">warmachines\materials\chs_gorebeast_chariot_weighted2_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="7">variantmeshes\wh_variantmodels\hu17\skv\skv_queek_headtaker\materials\skv_queek_headtaker_trophyrack_01_weighted2_alpha_off.xml.material</material>
+
+			<material lod_index="2" part_index="0">warmachines\chariot\bst_tuskgor_chariot\materials\piece01_destruct01_lod01_weighted2_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="1">warmachines\materials\bst_tuskgor_chariot_01_weighted2_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="2">variantmeshes\wh_variantmodels\hu12\dae\dae_khornataur\materials\dae_khornataur_body_01_weighted2_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="3">variantmeshes\wh_variantmodels\hu1\vmp\vmp_zombies\legs\materials\vmp_varghiest_01_weighted2_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="4">warmachines\chariot\bst_tuskgor_chariot\materials\dread_hand_of_nagash_banner_01_weighted2_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="5">warmachines\materials\chs_gorebeast_chariot_weighted2_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="6">variantmeshes\wh_variantmodels\hu17\skv\skv_queek_headtaker\materials\skv_queek_headtaker_trophyrack_01_weighted2_alpha_off.xml.material</material>
+
+			<material lod_index="3" part_index="0">warmachines\chariot\bst_tuskgor_chariot\materials\piece01_destruct01_lod01_weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="1">warmachines\materials\bst_tuskgor_chariot_01_weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="2">variantmeshes\wh_variantmodels\hu12\dae\dae_khornataur\materials\dae_khornataur_body_01_weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="3">variantmeshes\wh_variantmodels\hu1\vmp\vmp_zombies\legs\materials\vmp_varghiest_01_weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="4">warmachines\chariot\bst_tuskgor_chariot\materials\dread_hand_of_nagash_banner_01_weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="5">warmachines\materials\chs_gorebeast_chariot_weighted2_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="6">variantmeshes\wh_variantmodels\hu17\skv\skv_queek_headtaker\materials\skv_queek_headtaker_trophyrack_01_weighted2_alpha_off.xml.material</material>
+
+	</materials>
+</model>

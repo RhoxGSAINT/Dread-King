@@ -1,0 +1,13 @@
+<VARIANT_MESH>
+	<SLOT name="body" >
+		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hr1/tmb/tmb_skeleton_steed/tmb_skeleton_steed_body_mortis_01.wsmodel" >
+			<META_DATA>audio_armour_type:bone</META_DATA>			<META_DATA>audio_entity_type:wh2_tmb_skeletal_steed</META_DATA></VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hr1/tmb/tmb_skeleton_steed/tmb_skeleton_steed_body_mortis_02.wsmodel" >
+			<META_DATA>audio_armour_type:bone</META_DATA>			<META_DATA>audio_entity_type:wh2_tmb_skeletal_steed</META_DATA></VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hr1/tmb/tmb_skeleton_steed/tmb_skeleton_steed_body_mortis_03.wsmodel" >
+			<META_DATA>audio_armour_type:bone</META_DATA>			<META_DATA>audio_entity_type:wh2_tmb_skeletal_steed</META_DATA></VARIANT_MESH>
+	</SLOT>
+	<SLOT name="accessories" >
+		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hr1/tmb/tmb_skeleton_steed/dread_skeleton_steed_accessories_mortis_01.wsmodel" />
+	</SLOT>
+</VARIANT_MESH>

@@ -1,0 +1,91 @@
+key	text	tooltip
+#Loc;1;text/db/ovn_dread_king_only_unit_abilities.loc		
+unit_abilities_tooltip_text_spawn_ushabti_dread_king	Call upon the Minotaurs to fight for you.	true
+unit_abilities_tooltip_text_Dread_Aura	The Dread King's name was derived from a powerful aura that surrounded him at all times, only the mightiest of beings could face him without physically shaking or panicking, most would be frozen in fear or outright flee.	true
+unit_abilities_onscreen_name_Dread_Aura	Dread Aura	true
+unit_abilities_onscreen_name_spawn_ushabti_dread_king	Minotaur Summoner	true
+unit_abilities_tooltip_text_Summon_Black_Grail_Kinghts	The Black Grail Knights were the resurrected corpses of twelve long dead Grail Knights of Bretonnia.	true
+unit_abilities_onscreen_name_Summon_Black_Grail_Kinghts	Summon Black Grail Kinghts	true
+unit_abilities_tooltip_text_elo_hand_terror_past	An ancient scourge of the living has been unleashed and only the mindless can escape the creeping feeling of desperation and horror caused by the Hand of Nagash.	true
+unit_abilities_onscreen_name_elo_hand_terror_past	Ancient Horror	true
+unit_abilities_tooltip_text_elo_hand_judge_executioner	To be honest it is mostly executioner. Everyone who stands against Nagash is guilty by default.	false
+unit_abilities_onscreen_name_elo_hand_judge_executioner	Jury, Judge and Executioner	false
+unit_abilities_tooltip_text_elo_hand_vortex	Focussing the winds of death around him, the Hand of Nagash can unleash a devastating wave of destruction.	false
+unit_abilities_onscreen_name_elo_hand_vortex	Call of Death	false
+unit_abilities_tooltip_text_elo_hand_punished_one	The Hand of Nagash has strapped the torso of a most hated foe to his halberd. Though the name of this unlucky person is lost to time, it is said that the terror and pain of his last moments still radiates from his tortured remains.	false
+unit_abilities_onscreen_name_elo_hand_punished_one	The Punished One	false
+unit_abilities_tooltip_text_elo_hungering_blade	When the Hand of Nagash fades, the forbidden runes of this Blade activate, using the life of his enemies to preserve his unholy existence.	false
+unit_abilities_onscreen_name_elo_hungering_blade	The Hungering Blade	false
+unit_abilities_tooltip_text_elo_liche_land_of_nagash	The disciples of Nagash spread his influence wherever they go. And where the power of Nagash is on the rise, the dead won't find rest easily.	true
+unit_abilities_onscreen_name_elo_liche_land_of_nagash	Cursed Lands	true
+unit_abilities_tooltip_text_elo_liche_call_the_legions	Buried under the sands, countless forgotten legions wait for Nagash to call them to arms once again.	true
+unit_abilities_onscreen_name_elo_liche_call_the_legions	Call the Legions	true
+unit_abilities_tooltip_text_elo_necromantic_anchor	The towering frame of a skeletal giant can be seen far and wide on the battlefield. As such they are perfectly suited to serve as a conduit to channel the dark magic from the necromancer to his troops, anchoring them in the mortal world.	true
+unit_abilities_onscreen_name_elo_necromantic_anchor	Necromantic Anchor	true
+unit_abilities_onscreen_name_larenscheld_ghost_on_death	Lingering Essence	false
+unit_abilities_tooltip_text_larenscheld_ghost_on_death	Larenscheld resurrected the Dread King in exchange for immortality - and he received it, in a way. However, it came in a different form than he expected.	false
+unit_abilities_onscreen_name_larenscheld_bombardment	Skull Bombardment	false
+unit_abilities_tooltip_text_larenscheld_bombardment	Larenscheld has been granted the ability to call forth vengeful spirits in the shape of skulls from the realms beyond the mortal veil to torment the living.	false
+unit_abilities_onscreen_name_larenscheld_ghost_on_death_upgraded	Wraith Liche	false
+unit_abilities_tooltip_text_larenscheld_ghost_on_death_upgraded	Even if the body perishes, his mind and magic will persist to haunt those who bested him.	false
+unit_abilities_onscreen_name_larenscheld_change_at_will	Discard Body	false
+unit_abilities_tooltip_text_larenscheld_change_at_will	The mortal body is but a shell that holds back true greatness and may be discarded at will.	false
+unit_abilities_tooltip_text_dread_unit_abilities_hydra_breath	Just give the order and the Hydra's heads will spew forth their pestilent breath, each competing for the most noxious fumes.	true
+unit_abilities_onscreen_name_dread_unit_abilities_hydra_breath	Pestilential Breath	true
+unit_abilities_tooltip_text_dread_passive_blessing_black_grail	The twisted power of the Black Grail protects these dark creatures from any harm.	true
+unit_abilities_onscreen_name_dread_passive_blessing_black_grail	The Blessing of the Black Grail	true
+unit_abilities_tooltip_text_dread_passive_teb_stance	A solid pikeline attacked on the front is virtually unassailable, and it quickly tranforms in a spiky caterpillar of death.	true
+unit_abilities_onscreen_name_dread_passive_teb_stance	Push of Pikes	true
+unit_abilities_tooltip_text_dread_unit_formation_diamond	Unit forms into a diamond shape for immense penetration when charging, but very slow movement speed.	true
+unit_abilities_onscreen_name_dread_unit_formation_diamond	Diamond	true
+unit_abilities_tooltip_text_dread_passive_blessing_mimic_black_grail	The twisted power of the Black Grail protects these dark creatures from any harm.	true
+unit_abilities_onscreen_name_dread_passive_blessing_mimic_black_grail	The Blessing of the Black Grail	true
+special_ability_phases_onscreen_name_wh2_dlc09_army_passive_realm_of_souls_skeleminos_trigger		true
+unit_abilities_tooltip_text_wh2_dlc09_army_passive_realm_of_souls_skeleminos_trigger	By the might of Nagash and the power of the Dread King, a cohort of deadly Skeletal MInotaurs is summoned to assist your legions!	true
+unit_abilities_onscreen_name_wh2_dlc09_army_passive_realm_of_souls_skeleminos_trigger	Realm of Souls Skeletal Minotaurs Trigger	true
+unit_abilities_tooltip_text_wh2_dlc09_army_abilities_realm_of_souls_skeleminos	By the might of Nagash and the power of the Dread King, a cohort of deadly Skeletal MInotaurs is summoned to assist your legions!	true
+unit_abilities_onscreen_name_wh2_dlc09_army_abilities_realm_of_souls_skeleminos	Realm of Souls Skeletal Minotaurs	true
+unit_abilities_onscreen_name_dread_passive_phalanx	Phalanx	true
+unit_abilities_tooltip_text_dread_passive_phalanx	With shields locked together, the ranks of this formation are nigh unbreakable.	true
+unit_abilities_onscreen_name_ovn_unending_legions	Unending Legions	false
+unit_abilities_tooltip_text_ovn_unending_legions	Quantity over quality is a very viable tactic for the Legion of Terror. For every skeleton slain, another will be raised.	false
+unit_abilities_onscreen_name_ovn_unnerving_presence	Unnerving Presence	false
+unit_abilities_tooltip_text_ovn_unnerving_presence	These undead permeate an aura of constant dread, not unlike their leader, although at a much weaker level.	false
+unit_abilities_onscreen_name_dread_passive_inpenetrable_phalanx	Impenetrable Phalanx	false
+unit_abilities_tooltip_text_dread_passive_inpenetrable_phalanx	In life the Legions were famous for their impenetrable spear and pike formations. In death, their defence has become even more stalwart.	false
+unit_abilities_onscreen_name_ovn_preserved_ferocity	Preserved Ferocity	false
+unit_abilities_tooltip_text_ovn_preserved_ferocity	A small spark of the original creature is preserved in this animated corpse. In midst of battle, this spark may be ignited in a viscious fury against the enemy.	false
+unit_abilities_onscreen_name_ovn_undead_elite	Undead Elite	false
+unit_abilities_tooltip_text_ovn_undead_elite	Wights are superior fighters compared to regular skeletons and freed from the confines of the living, many became even more fearsome. 	false
+unit_abilities_onscreen_name_ovn_undead_discipline	Undead Discipline	false
+unit_abilities_tooltip_text_ovn_undead_discipline	The dead fear nothing, they will never flee and always maintain perfect formation. No army of the living can match their discipline and obedience.	false
+unit_abilities_onscreen_name_ovn_chariot_charge	Unholy Warmachines	false
+unit_abilities_tooltip_text_ovn_chariot_charge	Legion Chariots have been reinforced with unholy magic, making them even more deadly on the battlefield.	false
+unit_abilities_onscreen_name_ovn_undead_rider_elite	Death Knights	false
+unit_abilities_tooltip_text_ovn_undead_rider_elite	The mounted forces of the Legion are often used to counter the mobile units of the enemy and are well prepared for that task.	false
+unit_abilities_onscreen_name_ovn_ghost_barrier	Soul Siphoners	false
+unit_abilities_tooltip_text_ovn_ghost_barrier	The terrifying spectres risen by the Dread King are able to siphon off energy of the very soul of their enemies, using it to protect themselves from all harm.	false
+unit_abilities_onscreen_name_ovn_bestial_rage	Infectious Rage	false
+unit_abilities_tooltip_text_ovn_bestial_rage	The untempered rage of the more feral elements of the army can spread to nearby allies, causing them to fight with greater savagery.	false
+unit_abilities_onscreen_name_ovn_necromantic_gatherers	Miasma of Death	false
+unit_abilities_tooltip_text_ovn_necromantic_gatherers	The large amounts of Shyish needed to animate these monstrous undead will further grow through nearby deaths on the battlefield, increasingly sapping the strength from the enemies in the vicinity.	false
+unit_abilities_tooltip_text_dread_soulreaper	With each blow, the blade drains the opponent's life force and strengthens that of its wielder.	true
+unit_abilities_onscreen_name_dread_soulreaper	Soulreaper	true
+unit_abilities_tooltip_text_dread_active_grimoire_necris	With ancient knowledge in hand, the Winds of Magic themselves present little challenge.	true
+unit_abilities_onscreen_name_dread_active_grimoire_necris	Grimoire Necris	true
+unit_abilities_tooltip_text_dread_passive_black_jewel	The unholy power of the Dread King suppresses the magical abilities of all nearby enemies.	true
+unit_abilities_onscreen_name_dread_passive_black_jewel	Heart of Blackness	true
+unit_abilities_tooltip_text_dread_passive_catacomb_guardians	The unholy oaths they swore protect them from harm as long as they obey them and defend their lord.	true
+unit_abilities_onscreen_name_dread_passive_catacomb_guardians	Dark Oaths	true
+unit_abilities_tooltip_text_dread_passive_thessos	Should their comrades fall, the others will fight even harder to avenge them.	true
+unit_abilities_onscreen_name_dread_passive_thessos	Soul Avenger	true
+unit_abilities_tooltip_text_dread_passive_wights_ror	After the ancient axe blades have harvested enough souls, the dark magic within them comes to life.	true
+unit_abilities_onscreen_name_dread_passive_wights_ror	Wight Blade	true
+unit_abilities_tooltip_text_dread_active_kleruchoi	Even in death, the Kleruchoi remember they mustn’t fail their overlord.	true
+unit_abilities_onscreen_name_dread_active_kleruchoi	Unyielding	true
+unit_abilities_onscreen_name_ovn_hellwraith_magic_suppression	Magic Suppression	false
+unit_abilities_tooltip_text_ovn_hellwraith_magic_suppression	Sheer hatred towards the magic which binds the apparition to the world of the living is manifested in a magic suppressing aura, turning enchanted blades into ordinary weapons.	false
+unit_abilities_onscreen_name_ovn_unnerving_presence_character	Unnerving Presence	false
+unit_abilities_tooltip_text_ovn_unnerving_presence_character	This vengeful ghost permeates an aura of constant dread, not unlike their leader, although at a much weaker level.	false
+unit_abilities_onscreen_name_ovn_possesed_overdrive	Overdrive	false
+unit_abilities_tooltip_text_ovn_possesed_overdrive	When required the spirit will push its puppet far beyond its physical limitations. Performing at that level will continue to harm the corpse which only seems to amuse its puppeteer.	false

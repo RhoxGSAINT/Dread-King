@@ -1,0 +1,5 @@
+type	ui_icon
+#ancillary_types_tables;0;db/ancillary_types_tables/ovn_dread_king_only	
+wh_main_anc_mount_gaurgon	ui/campaign ui/mounts/mount_zombie_dragon.png
+wh_main_anc_mount_skeleton_pegasus	ui/campaign ui/mounts/mount_hellsteed.png
+wh_main_anc_mount_chariot_hand_of_nagash	ui/campaign ui/mounts/mount_skeleton_chariot.png

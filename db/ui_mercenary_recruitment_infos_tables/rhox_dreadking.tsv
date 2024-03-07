@@ -1,0 +1,3 @@
+mercenary_recruitment_category	hire_button_icon_path	hud_icon_path	hire_frame_state	ornament_icon_path	should_allow_empty_pool_access	should_show_mercenary_cap	should_show_casualties_label	is_renown_pool	button_order_index
+#ui_mercenary_recruitment_infos_tables;10;db/ui_mercenary_recruitment_infos_tables/rhox_dreadking									
+rhox_dk_raise_dead	ui\skins\default\button_square_large_text_	ui\skins\default\icon_raise_dead.png	default	ui\skins\default\hire_raise_dead_ornament.png	true	false	false	true	6

@@ -1,0 +1,35 @@
+art_set_id	agent_type	culture	subculture	faction	is_custom	is_male	agent_subtype	campaign_map_scale
+#campaign_character_art_sets_tables;6;db/campaign_character_art_sets_tables/ovn_dread_king_only								
+Dread_King	general				false	true	Dread_King	1.0000
+elo_hand_of_nagash	general				false	true	elo_hand_of_nagash	1.0000
+elo_dread_larenscheld	wizard				false	true	elo_dread_larenscheld	1.0000
+dread_liche_strategos_01_vampires	general				false	true	elo_liche_general_vampires	1.0000
+dread_liche_strategos_02_vampires	general				false	true	elo_liche_general_vampires	1.0000
+dread_liche_strategos_03_vampires	general				false	true	elo_liche_general_vampires	1.0000
+dread_liche_strategos_04_vampires	general				false	true	elo_liche_general_vampires	1.0000
+dread_liche_strategos_05_vampires	general				false	true	elo_liche_general_vampires	1.0000
+dread_liche_strategos_01_death	general				false	true	elo_liche_general_death	1.0000
+dread_liche_strategos_02_death	general				false	true	elo_liche_general_death	1.0000
+dread_liche_strategos_03_death	general				false	true	elo_liche_general_death	1.0000
+dread_liche_strategos_04_death	general				false	true	elo_liche_general_death	1.0000
+dread_liche_strategos_05_death	general				false	true	elo_liche_general_death	1.0000
+dread_hetairoi_01	champion				false	true	elo_dread_centurion	1.0000
+dread_hetairoi_02	champion				false	true	elo_dread_centurion	1.0000
+dread_hetairoi_03	champion				false	true	elo_dread_centurion	1.0000
+dread_corrupted_priest_01_death	wizard				false	true	dread_corrupted_priest_death	1.0000
+dread_corrupted_priest_02_death	wizard				false	true	dread_corrupted_priest_death	1.0000
+dread_corrupted_priest_03_death	wizard				false	true	dread_corrupted_priest_death	1.0000
+dread_corrupted_priest_01_shadow	wizard				false	true	dread_corrupted_priest_shadow	1.0000
+dread_corrupted_priest_02_shadow	wizard				false	true	dread_corrupted_priest_shadow	1.0000
+dread_corrupted_priest_03_shadow	wizard				false	true	dread_corrupted_priest_shadow	1.0000
+dread_corrupted_priest_01_vampires	wizard				false	true	dread_corrupted_priest_vampires	1.0000
+dread_corrupted_priest_02_vampires	wizard				false	true	dread_corrupted_priest_vampires	1.0000
+dread_corrupted_priest_03_vampires	wizard				false	true	dread_corrupted_priest_vampires	1.0000
+dread_hellwraith_01	engineer				false	true	dread_hellwraith	1.0000
+dread_hellwraith_02	engineer				false	true	dread_hellwraith	1.0000
+dread_hellwraith_03	engineer				false	true	dread_hellwraith	1.0000
+dread_traitor_tomb_king_nebwaneph	general				false	true	dread_traitor_tomb_king_nebwaneph	1.0000
+dread_traitor_tomb_king_omanhan_iii	general				false	true	dread_traitor_tomb_king_omanhan_iii	1.0000
+dread_traitor_tomb_king_haptmose	general				false	true	dread_traitor_tomb_king_haptmose	1.0000
+dread_possessed_hero_01	general				false	true	dread_possessed_hero_01	1.0000
+dread_possessed_hero_02	general				false	true	dread_possessed_hero_02	1.0000

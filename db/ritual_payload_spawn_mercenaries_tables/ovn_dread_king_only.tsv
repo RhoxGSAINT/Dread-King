@@ -1,0 +1,6 @@
+id	payload	spawnable_unit	add_mercenaries_to_performing_faction
+#ritual_payload_spawn_mercenaries_tables;0;db/ritual_payload_spawn_mercenaries_tables/ovn_dread_king_only			
+8745411	ovn_dk_cav_ephalian	ovn_dk_cav_ephalian_ror	false
+8745412	ovn_dk_art_polybolos	ovn_dk_art_polybolos_ror	false
+8745413	ovn_dk_inf_spartan	ovn_dk_inf_spartan_ror	false
+8745414	ovn_dk_inf_thessos	ovn_dk_inf_thessos_ror	false

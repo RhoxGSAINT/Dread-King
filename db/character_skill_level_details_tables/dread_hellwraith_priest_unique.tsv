@@ -1,0 +1,12 @@
+faction_key	campaign_key	level	skill_key	subculture_key	image_path	unlocked_at_rank
+#character_skill_level_details_tables;1;db/character_skill_level_details_tables/dread_hellwraith_priest_unique						
+		1	dread_hellwraith_magehunter		x	14
+		1	dread_wailing_specter		x	14
+		1	dread_poltergeist		x	14
+		1	dread_lifehunter		x	14
+		1	dread_packleader		x	14
+		1	dread_hellwraith_barrier		x	19
+		1	dread_untouchable		x	24
+		1	dread_eternally_bound		x	14
+		1	dread_nagash_magic		x	14
+		1	dread_suppressor		x	14

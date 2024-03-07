@@ -1,0 +1,8 @@
+agent_subtype	ancillary	rank	instant	is_quest_battle
+#character_ancillary_quest_ui_details_tables;2;db/character_ancillary_quest_ui_details_tables/rhox_dreadking				
+elo_dread_larenscheld	luthor_the_hunchback	7	true	false
+elo_dread_larenscheld	dread_grimoire_necris	12	true	false
+elo_hand_of_nagash	elo_hungering_blade	7	true	false
+elo_hand_of_nagash	elo_hand_punished_one	12	true	false
+Dread_King	Soulreaper	7	true	false
+Dread_King	dread_black_jewel	12	true	false

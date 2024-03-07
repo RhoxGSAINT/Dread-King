@@ -1,0 +1,16 @@
+2024/MAR/2 Rhox
+- Changed Hetairoi's deadly onsalught to Colossal Strike
+
+2024/FEB/23 Wolfremio
+- Update to 4.2
+
+2024/JAN/07 Rhox
+- Fixed the issue of Tier 4 building missing archer recruitment
+- Added 3 Legendary characters as Changeling candidates in TOW
+
+2023/12/23 Rhox
+- Fixed the issue of Hydra lair not allowing Elephant recruitment
+
+2023/12/18 Lingling
+- adjusted elephant balance to be in line with araby elephants
+- changed the melee and missile weapon building damage multipliers to be in line with current game rules

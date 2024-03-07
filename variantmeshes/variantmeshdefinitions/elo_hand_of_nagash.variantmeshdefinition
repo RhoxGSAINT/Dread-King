@@ -1,0 +1,20 @@
+<VARIANT_MESH>
+    <SLOT name="body" >
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1\vmp\vmp_black_knights\body\hand_of_nagash_body.wsmodel" />
+	</SLOT>
+	<SLOT name="weapon_1" attach_point="be_prop_0" />
+	<SLOT name="weapon_2" attach_point="be_prop_1" >
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1c\chs\chs_props\hand_of_nagash_sword_1h.wsmodel"  >
+			<META_DATA>audio_melee_weapon_type:sword</META_DATA></VARIANT_MESH>
+	</SLOT>
+	<SLOT name="shield" attach_point="be_prop_2" />
+	<SLOT name="weapon_3" attach_point="be_prop_3" />
+	<SLOT name="weapon_4" attach_point="be_prop_4" />
+	<SLOT name="staff" attach_point="be_prop_5" >
+		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/ce1/bst/bst_props/hand_of_nagash_glaive_2h_03.wsmodel"  >
+    	<SLOT name="skeleton_weapon" >
+                <VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu6\bst\bst_props\hand_of_nagash_skeleton.wsmodel" />
+        </SLOT>
+       		<META_DATA>audio_melee_weapon_type:halberd</META_DATA></VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

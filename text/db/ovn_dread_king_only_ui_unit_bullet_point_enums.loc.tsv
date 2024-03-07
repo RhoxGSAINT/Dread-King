@@ -1,0 +1,10 @@
+key	text	tooltip
+#Loc;1;text/db/ovn_dread_king_only_ui_unit_bullet_point_enums.loc		
+ui_unit_bullet_point_enums_onscreen_name_embalmed_bodies	Embalmed Bodies	false
+ui_unit_bullet_point_enums_tooltip_embalmed_bodies	These Mummies have been embalmed and reinforced with secret ointments and oils, making their bodies highly resistant to damage - but also highly flammable.	false
+ui_unit_bullet_point_enums_tooltip_curse_of_the_mummy	The mere touch of a Mummy curses their opponents, sapping their strength and reducing their ability to fight back.	false
+ui_unit_bullet_point_enums_onscreen_name_curse_of_the_mummy	Curse of the Mummy	false
+ui_unit_bullet_point_enums_onscreen_name_necromantic_anchor	Necromantic Anchor	true
+ui_unit_bullet_point_enums_tooltip_necromantic_anchor	The towering frame of a skeletal giant can be seen far and wide on the battlefield. As such they are perfectly suited to serve as a conduit to channel the dark magic from the necromancer to his troops, anchoring them in the mortal world.	true
+ui_unit_bullet_point_enums_onscreen_name_pestilent_breath_hydra	Pestilential Breath	true
+ui_unit_bullet_point_enums_tooltip_pestilent_breath_hydra	Just give the order and the Hydra's heads will spew forth their pestilent breath, each competing for the most noxious fumes.	true

@@ -1,0 +1,34 @@
+key	text	tooltip
+#Loc;1;text/db/ovn_dread_king_only_unit_description_short_texts.loc		
+unit_description_short_texts_text_Dread_King	One of the original Dark Lords of Nagash, the Dread King was a mighty Undead Liche of Nehekhara. A powerful warrior and practitioner of necromancy, he would become one of the most feared and mysterious beings to have ever existed.	true
+unit_description_short_texts_text_elo_hand_of_nagash	"I live to destroy once more!"	true
+unit_description_short_texts_text_elo_dread_larenscheld	Lured by promises of eternal unlife and power, Gunther Larenscheld has awoken the Dread King from his slumber and sworn loyalty to Nagash's cause.	true
+unit_description_short_texts_text_elo_liche_general	Liches are mighty necromancers who achieved immortality through undeath. These brilliant generals lead his forces to victory after victory.	true
+unit_description_short_texts_text_elo_dread_centurion	Brutally efficient warriors in life, these loyal followers of the Dread King are the spearhead of his army in death.	true
+unit_description_short_texts_text_ovn_dk_inf_skeleton_javelinmen	These Skeletons are able to hurl javelins true enough to blunt a charging foe.	true
+unit_description_short_texts_text_ovn_dk_inf_skeleton_hoplites	These undead soldiers fight with spear and shield in phalanx formation.	true
+unit_description_short_texts_text_ovn_dk_inf_skeleton_pikemen	No army could face them head on and think of victory.	true
+unit_description_short_texts_text_ovn_dk_inf_mummies	Using secret knowledge of the Mortuary Cult, the servants of Nagash can create mighty undead by mummification. They are slow but resilient and mighty warriors who must not be underestimated.	true
+unit_description_short_texts_text_ovn_dk_inf_tomb_guardian	Loyal in life and even more so in death, these mighty undead protected the tomb of the Dread King while he was waiting for his resurrection. Now they form the elite core of his infantry.	true
+unit_description_short_texts_text_ovn_dk_inf_tomb_guardian_great_weapons	Loyal in life and even more so in death, these mighty undead protected the tomb of the Dread King while he was waiting for his resurrection. Now they form the elite core of his infantry.	true
+unit_description_short_texts_text_ovn_dk_inf_tomb_guardian_peltasts	Loyal in life and even more so in death, these mighty undead protected the tomb of the Dread King while he was waiting for his resurrection. Now they form the elite core of his infantry.	true
+unit_description_short_texts_text_ovn_dk_cav_royal_guard_cavalry	Loyal in life and even more so in death, these mighty undead protected the tomb of the Dread King while he was waiting for his resurrection. Now they form the elite core of his cavalry.	true
+unit_description_short_texts_text_ovn_dk_cav_royal_guard_lancers	Loyal in life and even more so in death, these mighty undead protected the tomb of the Dread King while he was waiting for his resurrection. Now they form the elite core of his cavalry.	true
+unit_description_short_texts_text_ovn_dk_mon_skeleton_elephant	These powerful beasts plough through enemy lines with terrifying force.	true
+unit_description_short_texts_text_ovn_dk_mon_skeleton_giant	Through foul necromancy, the skeletal remains of long-dead giants are brought back to a shambling unlife.	true
+unit_description_short_texts_text_ovn_dk_mon_skeletal_minotaurs	Ferocious beasts feared throughout the Old World have been revived in undeath.	true
+unit_description_short_texts_text_ovn_dk_art_bone_throwers	Bolts of sharpened bone will bring down any beast.	true
+unit_description_short_texts_text_ovn_dk_inf_brigands_ror	These outlaws serve Gunther Larenscheld and follow him wherever he goes.	true
+unit_description_short_texts_text_ovn_dk_inf_wights_ror	Powerful undead patrolling the labyrinths of the Dread King's pyramid.	true
+unit_description_short_texts_text_ovn_dk_inf_catacomb_guardians_ror	These mighty Wights are the eternal guards of the Catacombs of Terror. 	true
+unit_description_short_texts_text_ovn_dk_inf_mummies_ror	Nehekharan soldiers who joined the Dread King for the promise of land. Not that they would still need it....	true
+unit_description_short_texts_text_ovn_dk_cav_black_grail_knights_ror	The resurrected corpses of twelve long-dead Grail Knights of Bretonnia. Greater and more infamous than even the Blood Dragons of the time, they were among the mightiest Undead to have ever walked the Old World.	true
+unit_description_short_texts_text_ovn_dk_mon_skeleton_elephant_ror	This ancient scholar was known throughout all of the Black Peninsula for his prophetic abilities. Now he uses them to lead the armies of the Dread King to victory.	true
+unit_description_short_texts_text_dread_corrupted_priest	These animated husks were the scholars and priests of an ancient civilization.	true
+unit_description_short_texts_text_dread_hellwraith	A Hellwraith is a terrifying prospect that has no corporeal form, making it extremely difficult to kill with conventional weaponry.	true
+unit_description_short_texts_text_ovn_dk_mon_bone_hydra	Only the most powerful wielders of necromancy can bring such a vile creature back to unlife.	true
+unit_description_short_texts_text_ovn_dk_inf_spartan_ror	They died to the last man fighting against impossible odds. Now they will do it again and again.	true
+unit_description_short_texts_text_ovn_dk_inf_thessos_ror	A famous unit whose soldiers were connected by a special band that binds them even in death.	true
+unit_description_short_texts_text_ovn_dk_cav_ephalian_ror	Superb heavy horsemen who can smash through most opposition on their first charge.	true
+unit_description_short_texts_text_ovn_dk_art_polybolos_ror	There is wicked cunning in a machine that can fire so many bolts so quickly.	true
+unit_description_short_texts_text_dread_cha_possessed_hero	Once a great hero, now a mere puppet of a malicious spirit.	false

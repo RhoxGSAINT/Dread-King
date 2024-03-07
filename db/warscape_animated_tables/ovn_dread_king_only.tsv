@@ -1,0 +1,14 @@
+key	texture_filename_base	category
+#warscape_animated_tables;2;db/warscape_animated_tables/ovn_dread_king_only		
+dread_legion_basic_chariot	warmachines\tex	animation
+dread_legion_basic_chariot_destruct	warmachines\tex	animation
+dread_legion_general_chariot	warmachines\tex	animation
+dread_legion_general_chariot_destruct	warmachines\tex	animation
+hand_of_nagash_chariot	warmachines\tex	animation
+hand_of_nagash_chariot_destruct	warmachines\tex	animation
+dread_bone_thrower	warmachines\tex	animation
+dread_bone_thrower_destruct	warmachines\tex	animation
+dread_polybolos	warmachines\tex	animation
+dread_polybolos_destruct	warmachines\tex	animation
+dread_screaming_skull_ballista	warmachines\tex	animation
+dread_screaming_skull_ballista_destruct	warmachines\tex	animation

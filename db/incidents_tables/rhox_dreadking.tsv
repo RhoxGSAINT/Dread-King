@@ -1,0 +1,8 @@
+key	generate	ui_image	prioritised	event_category	override_icon	is_large_incident	additional_sound_event	sepia_fade
+#incidents_tables;6;db/incidents_tables/rhox_dreadking								
+rhox_dk_after_battle	false	post_battle_event	false	Event		false		0.0000
+rhox_dk_unlocked_dread_awakening	false	civilisation_up	false	Event	event_rite_positive.png	false		0.0000
+rhox_dk_unlocked_dread_legions	false	civilisation_up	false	Event	event_rite_positive.png	false		0.0000
+rhox_dk_unlocked_dread_conquest	false	civilisation_up	false	Event	event_rite_positive.png	false		0.0000
+rhox_dk_unlocked_dread_necromancy	false	civilisation_up	false	Event	event_rite_positive.png	false		0.0000
+rhox_dk_defeated_nagash	false	post_battle_event	false	Event		true		0.0000

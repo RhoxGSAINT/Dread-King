@@ -1,0 +1,46 @@
+<VARIANT_MESH>
+	<META_DATA>equipment</META_DATA>	<SLOT name="body" >
+		<VARIANT_MESH_REFERENCE definition="VariantMeshes/VariantMeshDefinitions/dread_grave_skeleton_base_hu1d.VariantMeshDefinition" />
+	</SLOT>
+	<SLOT name="head" >
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1d\vmp\vmp_wight_king\head\dread_grave_guard_helmet_01.wsmodel" />
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1d\vmp\vmp_wight_king\head\dread_grave_guard_helmet_02.wsmodel" />
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1d\vmp\vmp_wight_king\head\dread_grave_guard_helmet_03.wsmodel" />
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1d\vmp\vmp_wight_king\head\dread_grave_guard_helmet_04.wsmodel" />
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1d\vmp\vmp_wight_king\head\dread_grave_guard_helmet_05.wsmodel" />
+	</SLOT>
+	<SLOT name="head" >
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1d\vmp\vmp_wight_king\head\dread_grave_guard_helmet_crest_01.wsmodel" />
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1d\vmp\vmp_wight_king\head\dread_grave_guard_helmet_crest_02.wsmodel" />
+	</SLOT>
+	<SLOT name="body" >
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1d\vmp\vmp_black_knights\body\dread_grave_guard_torso_01.wsmodel" >
+			<META_DATA>audio_armour_type:plate</META_DATA>			<META_DATA>audio_entity_type:wh_skeleton</META_DATA></VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1d\vmp\vmp_black_knights\body\dread_grave_guard_torso_02.wsmodel" >
+			<META_DATA>audio_armour_type:plate</META_DATA>			<META_DATA>audio_entity_type:wh_skeleton</META_DATA></VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1d\vmp\vmp_black_knights\body\dread_grave_guard_torso_03.wsmodel" >
+			<META_DATA>audio_armour_type:plate</META_DATA>			<META_DATA>audio_entity_type:wh_skeleton</META_DATA></VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1d\vmp\vmp_black_knights\body\dread_grave_guard_torso_04.wsmodel" >
+			<META_DATA>audio_armour_type:plate</META_DATA>			<META_DATA>audio_entity_type:wh_skeleton</META_DATA></VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1d\vmp\vmp_black_knights\body\dread_grave_guard_torso_05.wsmodel" >
+			<META_DATA>audio_armour_type:plate</META_DATA>			<META_DATA>audio_entity_type:wh_skeleton</META_DATA></VARIANT_MESH>
+	</SLOT>
+	<SLOT name="tunic" >
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1d\vmp\vmp_black_knights\body\dread_grave_guard_tunic_01.wsmodel" />
+	</SLOT>
+	<SLOT name="arm_guard"  probability="0.9">
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1d\vmp\vmp_black_knights\body\dread_grave_guard_armguard_01.wsmodel" />
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1d\vmp\vmp_black_knights\body\dread_grave_guard_armguard_02.wsmodel" />
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1d\vmp\vmp_black_knights\body\dread_grave_guard_armguard_03.wsmodel" />
+	</SLOT>
+	<SLOT name="tunic_legs" >
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1d\vmp\vmp_black_knights\legs\dread_grave_guard_tunic_legs_01.wsmodel" />
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1d\vmp\vmp_black_knights\legs\dread_grave_guard_tunic_legs_02.wsmodel" />
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1d\vmp\vmp_black_knights\legs\dread_grave_guard_tunic_legs_03.wsmodel" />
+	</SLOT>
+	<SLOT name="leg_guard"  probability="0.9">
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1d\vmp\vmp_skeleton_warriors\legs\dread_leg_armour_01.wsmodel" />
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1d\vmp\vmp_skeleton_warriors\legs\dread_leg_armour_02.wsmodel" />
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1d\vmp\vmp_skeleton_warriors\legs\dread_leg_armour_03.wsmodel" />
+	</SLOT>
+</VARIANT_MESH>

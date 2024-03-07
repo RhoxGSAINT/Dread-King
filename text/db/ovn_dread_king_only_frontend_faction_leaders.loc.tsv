@@ -1,0 +1,7 @@
+key	text	tooltip
+#Loc;1;text/db/ovn_dread_king_only_frontend_faction_leaders.loc		
+frontend_faction_leaders_localised_description_wh2_main_political_party_tmb_the_sentinels	frontend_faction_leaders_localised_description_wh2_main_political_party_tmb_the_sentinels	true
+frontend_faction_leaders_localised_action_points_wh2_main_political_party_tmb_the_sentinels		true
+frontend_faction_leaders_loading_screen_text_wh2_main_political_party_tmb_the_sentinels		true
+frontend_faction_leaders_frontend_description_mixer_ovn_tmb_dread_king	The Dread King marches again! Amassing an army of ancient undead warriors at the Pools of Despair, he sets off to reconquer Nehekhara and Araby in the name of the Great Necromancer...	false
+frontend_faction_leaders_loading_screen_text_mixer_ovn_tmb_dread_king	{{tr:ie_loading_screen_theatre_nehekhara}}	false

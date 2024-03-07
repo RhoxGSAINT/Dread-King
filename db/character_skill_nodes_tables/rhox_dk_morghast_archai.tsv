@@ -1,0 +1,19 @@
+key	campaign_key	character_skill_key	faction_key	indent	tier	subculture	points_on_creation	required_num_parents	visible_in_ui
+#character_skill_nodes_tables;6;db/character_skill_nodes_tables/rhox_dk_morghast_archai									
+ovn_dk_skill_node_archai_champion_innate_01		ovn_dk_skill_archai_innate	ovn_tmb_dread_king	6	0		0	0	false
+ovn_dk_skill_node_archai_champion_innate_02		ovn_dk_skill_archai_innate	ovn_tmb_dread_king	6	1		0	0	false
+ovn_dk_skill_node_archai_champion_innate_03		ovn_dk_skill_archai_innate	ovn_tmb_dread_king	6	2		0	0	false
+ovn_dk_skill_node_archai_champion_innate_05		ovn_dk_skill_archai_innate	ovn_tmb_dread_king	6	4		0	0	false
+ovn_dk_skill_node_archai_champion_innate_06		ovn_dk_skill_archai_innate	ovn_tmb_dread_king	6	4		0	0	false
+ovn_dk_skill_node_archai_champion_innate_07		ovn_dk_skill_archai_innate	ovn_tmb_dread_king	6	6		0	0	false
+ovn_dk_skill_node_archai_champion_innate_08		ovn_dk_skill_archai_innate	ovn_tmb_dread_king	6	7		0	0	false
+ovn_dk_skill_node_archai_champion_innate_09		ovn_dk_skill_archai_innate	ovn_tmb_dread_king	6	8		0	0	false
+ovn_dk_skill_node_archai_champion_innate_10		ovn_dk_skill_archai_innate	ovn_tmb_dread_king	6	9		0	0	false
+ovn_dk_skill_node_archai_champion_innate_11		ovn_dk_skill_archai_innate	ovn_tmb_dread_king	6	10		0	0	false
+ovn_dk_skill_node_archai_champion_innate_12		ovn_dk_skill_archai_innate	ovn_tmb_dread_king	6	12		0	0	false
+ovn_dk_skill_node_archai_champion_innate_13		ovn_dk_skill_archai_innate	ovn_tmb_dread_king	6	13		0	0	false
+ovn_dk_skill_node_archai_champion_innate_14		ovn_dk_skill_archai_innate	ovn_tmb_dread_king	6	14		0	0	false
+ovn_dk_skill_node_archai_champion_innate_15		ovn_dk_skill_archai_innate	ovn_tmb_dread_king	6	15		0	0	false
+ovn_dk_skill_node_archai_champion_innate_16		ovn_dk_skill_archai_innate	ovn_tmb_dread_king	6	16		0	0	false
+ovn_dk_skill_node_archai_champion_innate_17		ovn_dk_skill_archai_innate	ovn_tmb_dread_king	6	17		0	0	false
+ovn_dk_skill_node_archai_champion_unique_03		wh_main_skill_all_magic_all_06_evasion	ovn_tmb_dread_king	0	2		0	0	true

@@ -1,0 +1,6 @@
+pooled_resource_factor	resource_cost	amount	context	ui_resource_transaction_pooled_resource
+#resource_cost_pooled_resource_junctions_tables;1;db/resource_cost_pooled_resource_junctions_tables/ovn_dread_king_only				
+canopic_jars_mortuary_cult	ovn_dk_cav_ephalian_cost	-100	absolute	default
+canopic_jars_mortuary_cult	ovn_dk_art_polybolos_cost	-100	absolute	default
+canopic_jars_mortuary_cult	ovn_dk_inf_spartan_cost	-100	absolute	default
+canopic_jars_mortuary_cult	ovn_dk_inf_thessos_cost	-100	absolute	default

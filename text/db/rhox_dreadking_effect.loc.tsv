@@ -1,0 +1,4 @@
+key	text	tooltip
+#Loc;1;text/db/rhox_dreadking_effect.loc		
+effects_description_rhox_dk_faction_political_diplomacy_mod_araby	Diplomatic relations: %+n with Araby	false
+effects_description_rhox_dk_army_ability_enabler_hidden	PLACEHOLDER	false

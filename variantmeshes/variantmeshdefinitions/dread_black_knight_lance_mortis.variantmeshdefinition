@@ -1,0 +1,59 @@
+<VARIANT_MESH>
+	<SLOT name="body" >
+		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hu1/tmb/tmb_skeleton_warriors/body/dread_skeleton_warriors_body_mortis_01.wsmodel" >
+			<META_DATA>audio_entity_type:wh2_tmb_skeleton</META_DATA>			<META_DATA>audio_armour_type:bone</META_DATA></VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hu1/tmb/tmb_skeleton_warriors/body/dread_skeleton_warriors_body_mortis_02.wsmodel" >
+			<META_DATA>audio_entity_type:wh2_tmb_skeleton</META_DATA>			<META_DATA>audio_armour_type:bone</META_DATA></VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hu1/tmb/tmb_skeleton_warriors/body/dread_skeleton_warriors_body_mortis_03.wsmodel" >
+			<META_DATA>audio_entity_type:wh2_tmb_skeleton</META_DATA>			<META_DATA>audio_armour_type:bone</META_DATA></VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hu1/tmb/tmb_skeleton_warriors/body/dread_skeleton_warriors_body_mortis_04.wsmodel" >
+			<META_DATA>audio_entity_type:wh2_tmb_skeleton</META_DATA>			<META_DATA>audio_armour_type:bone</META_DATA></VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hu1/tmb/tmb_skeleton_warriors/body/dread_skeleton_warriors_body_mortis_05.wsmodel" >
+			<META_DATA>audio_entity_type:wh2_tmb_skeleton</META_DATA>			<META_DATA>audio_armour_type:bone</META_DATA></VARIANT_MESH>
+	</SLOT>
+	<SLOT name="head" >
+		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hu1/tmb/tmb_skeleton_warriors/head/dread_skeleton_warriors_head_mortis_01.wsmodel" />
+		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hu1/tmb/tmb_skeleton_warriors/head/dread_skeleton_warriors_head_mortis_02.wsmodel" />
+		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hu1/tmb/tmb_skeleton_warriors/head/dread_skeleton_warriors_head_mortis_03.wsmodel" />
+		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hu1/tmb/tmb_skeleton_warriors/head/dread_skeleton_warriors_head_mortis_04.wsmodel" />
+		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hu1/tmb/tmb_skeleton_warriors/head/dread_skeleton_warriors_head_mortis_05.wsmodel" />
+	</SLOT>
+	<SLOT name="legs" >
+		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hu1/tmb/tmb_skeleton_warriors/legs/dread_skeleton_warriors_legs_mortis_01.wsmodel" />
+		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hu1/tmb/tmb_skeleton_warriors/legs/dread_skeleton_warriors_legs_mortis_02.wsmodel" />
+		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hu1/tmb/tmb_skeleton_warriors/legs/dread_skeleton_warriors_legs_mortis_03.wsmodel" />
+		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hu1/tmb/tmb_skeleton_warriors/legs/dread_skeleton_warriors_legs_mortis_04.wsmodel" />
+		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hu1/tmb/tmb_skeleton_warriors/legs/dread_skeleton_warriors_legs_mortis_05.wsmodel" />
+	</SLOT>
+	<SLOT name="helmet"  probability="0.75">
+		<VARIANT_MESH_REFERENCE definition="VariantMeshes/VariantMeshDefinitions/dread_tmb_skeleton_phrygian_helmets_mortis.VariantMeshDefinition" />
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1\vmp\vmp_skeleton_warriors\head\dread_skeleton_helmet_mortis_04.wsmodel" />
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1\vmp\vmp_skeleton_warriors\head\dread_skeleton_helmet_mortis_05.wsmodel" />		
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1\vmp\vmp_skeleton_warriors\head\dread_skeleton_helmet_mortis_06.wsmodel" />
+	</SLOT>
+	<SLOT name="armour"  probability="0.6">
+		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hu1/vmp/vmp_skeleton_warriors/torso/dread_skeleton_torso_mortis_01.wsmodel" />
+		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hu1/vmp/vmp_skeleton_warriors/torso/dread_skeleton_torso_mortis_02.wsmodel" />
+		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hu1/vmp/vmp_skeleton_warriors/torso/dread_skeleton_torso_mortis_03.wsmodel" />
+	</SLOT>
+	<SLOT name="weapon_1" attach_point="be_prop_0" >
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1\tmb\tmb_props\dread_skeleton_warriors_spear_mortis_1h_01.wsmodel" >
+			<META_DATA>audio_melee_weapon_type:spear</META_DATA></VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1\tmb\tmb_props\dread_skeleton_warriors_spear_mortis_1h_02.wsmodel" >
+			<META_DATA>audio_melee_weapon_type:spear</META_DATA></VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1\tmb\tmb_props\dread_skeleton_warriors_spear_mortis_1h_03.wsmodel" >
+			<META_DATA>audio_melee_weapon_type:spear</META_DATA></VARIANT_MESH>
+	</SLOT>
+	<SLOT name="weapon_2" attach_point="be_prop_1" />
+	<SLOT name="shield" attach_point="be_prop_2" >
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1\vmp\vmp_props\vmp_skeleton_warriors_shield_mortis_01.wsmodel" >
+			<META_DATA>audio_shield_type:metal</META_DATA></VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1\vmp\vmp_props\vmp_skeleton_warriors_shield_mortis_03.wsmodel" >
+			<META_DATA>audio_shield_type:metal</META_DATA></VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hu1/vmp/vmp_props/dread_skeleton_warriors_shield_mortis_06.wsmodel"  >
+			<META_DATA>audio_shield_type:metal</META_DATA></VARIANT_MESH>
+	</SLOT>
+	<SLOT name="weapon_3" attach_point="be_prop_3" />
+	<SLOT name="weapon_4" attach_point="be_prop_4" />
+	<SLOT name="weapon_5" attach_point="be_prop_5" />
+</VARIANT_MESH>

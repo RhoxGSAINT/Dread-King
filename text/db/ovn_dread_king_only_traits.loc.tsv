@@ -1,0 +1,5 @@
+key	text	tooltip
+#Loc;1;text/db/ovn_dread_king_only_traits.loc		
+character_trait_levels_onscreen_name_ovn_Dread_King_defeat_trait	King No More	true
+character_trait_levels_colour_text_ovn_Dread_King_defeat_trait		true
+character_trait_levels_explanation_text_ovn_Dread_King_defeat_trait	Defeated The Dread King	true

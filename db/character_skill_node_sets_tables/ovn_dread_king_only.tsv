@@ -1,0 +1,17 @@
+key	agent_key	for_army	for_navy	faction_key	campaign_key	subculture	agent_subtype_key
+#character_skill_node_sets_tables;0;db/character_skill_node_sets_tables/ovn_dread_king_only							
+node_set_elo_dread_larenscheld	wizard	false	false				elo_dread_larenscheld
+wh2_main_skill_node_set_tmb_Dread_King	general	false	false				Dread_King
+elo_hand_of_nagash	general	false	false				elo_hand_of_nagash
+node_set_dread_centurion	champion	false	false				elo_dread_centurion
+elo_liche_general_vampires	general	false	false				elo_liche_general_vampires
+elo_liche_general_death	general	false	false				elo_liche_general_death
+dread_corrupted_priest_death	wizard	false	false				dread_corrupted_priest_death
+dread_corrupted_priest_shadow	wizard	false	false				dread_corrupted_priest_shadow
+dread_corrupted_priest_vampires	wizard	false	false				dread_corrupted_priest_vampires
+dread_hellwraith	engineer	false	false				dread_hellwraith
+dread_traitor_tomb_king_nebwaneph	general	false	false				dread_traitor_tomb_king_nebwaneph
+dread_traitor_tomb_king_omanhan_iii	general	false	false				dread_traitor_tomb_king_omanhan_iii
+dread_traitor_tomb_king_haptmose	general	false	false				dread_traitor_tomb_king_haptmose
+dread_possessed_hero_01	general	false	false				dread_possessed_hero_01
+dread_possessed_hero_02	general	false	false				dread_possessed_hero_02

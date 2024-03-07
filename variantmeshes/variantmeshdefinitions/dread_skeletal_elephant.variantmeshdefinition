@@ -1,0 +1,11 @@
+<VARIANT_MESH>
+	<SLOT name="body" >
+		<VARIANT_MESH model="variantmeshes/wh_variantmodels/el1/dread_king/skeletal_elephant/skeletal_elephant_body_01.wsmodel" >
+			<META_DATA>audio_entity_type:wh_dlc_nor_mammoth</META_DATA>
+			<META_DATA>audio_armour_type:body</META_DATA>
+		</VARIANT_MESH>
+	</SLOT>
+	<SLOT name="howdah" >
+		<VARIANT_MESH model="variantmeshes/wh_variantmodels/el1/dread_king/skeletal_elephant/skeletal_elephant_basic_howdah_01.wsmodel" />
+	</SLOT>
+</VARIANT_MESH>

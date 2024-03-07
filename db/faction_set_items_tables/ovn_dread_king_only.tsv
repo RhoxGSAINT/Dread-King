@@ -1,0 +1,4 @@
+id	culture	faction	remove	set	subculture
+#faction_set_items_tables;1;db/faction_set_items_tables/ovn_dread_king_only					
+191035		ovn_tmb_dread_king	true	FavouredCorruptionNone	
+191036		ovn_tmb_dread_king	false	FavouredCorruptionVampiric	

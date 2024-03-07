@@ -1,0 +1,4 @@
+faction	mercenary_set
+#faction_to_mercenary_set_junctions_tables;0;db/faction_to_mercenary_set_junctions_tables/ovn_dread_king_only	
+ovn_tmb_dread_king	wh2_dlc09_tmb_units_of_renown_pool
+ovn_tmb_dread_king	rhox_dk_raise_dead_pool

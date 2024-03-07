@@ -1,0 +1,76 @@
+variant_name	tech_folder	variant_filename	low_poly_filename	mount_scale	scale	scale_variation	super_low_poly_filename
+#variants_tables;6;db/variants_tables/ovn_dread_king_only							
+Dread_King		dread_king		1.0000	1.2000	0.0000	
+elo_hand_of_nagash		elo_hand_of_nagash		1.0000	1.2000	0.0000	
+elo_dread_larenscheld		elo_dread_larenscheld		1.0000	1.1500	0.0000	
+elo_dread_larenscheld_wright		vmp_ghost_cairnwraith		1.0000	1.1500	0.0000	
+elo_dread_larenscheld_wright_perfect		elo_dread_ghost_larenscheld		1.0000	1.1500	0.0000	
+dread_liche_strategos_01		dread_liche_strategos_01		1.0000	1.2000	0.0500	
+dread_liche_strategos_02		dread_liche_strategos_02		1.0000	1.2000	0.0500	
+dread_liche_strategos_03		dread_liche_strategos_03		1.0000	1.2000	0.0500	
+dread_liche_strategos_04		dread_liche_strategos_04		1.0000	1.2000	0.0500	
+dread_liche_strategos_05		dread_liche_strategos_05		1.0000	1.2000	0.0500	
+dread_hetairoi_01		dread_hetairoi_01		1.0000	1.1000	0.0500	
+dread_hetairoi_02		dread_hetairoi_02		1.0000	1.1000	0.0500	
+dread_hetairoi_03		dread_hetairoi_03		1.0000	1.1000	0.0500	
+dread_wh2_dlc09_tmb_skeleton_sword_shield		dread_tmb_skeleton_sword_shield		1.0000	1.0000	0.0500	hu1\imposter\humanoid_imposter
+dread_wh2_dlc09_tmb_skeleton_spear_shield		dread_tmb_skeleton_spear_shield		1.0000	1.0000	0.0500	hu1\imposter\humanoid_imposter
+dread_wh2_dlc09_tmb_skeleton_sword_bow		dread_tmb_skeleton_sword_bow		1.0000	1.0000	0.0500	hu1\imposter\humanoid_imposter
+dread_wh2_dlc09_tmb_skeleton_halberd		dread_tmb_skeleton_halberd		1.0000	1.0000	0.0500	hu1\imposter\humanoid_imposter
+dread_wh2_dlc09_tmb_skeleton_sword		dread_tmb_skeleton_sword		1.0000	1.0000	0.0500	hu1\imposter\humanoid_imposter
+dread_wh2_dlc09_tmb_skeleton_charioteer_whip		dread_tmb_skeleton_charioteer_whip		1.0000	1.0000	0.0500	
+dread_tmb_skeleton_hand_charioteer_whip		dread_tmb_skeleton_hand_charioteer_whip		1.0000	1.0000	0.0500	
+dread_hoplites		dread_hoplites		1.0000	1.0000	0.0500	hu1\imposter\humanoid_imposter
+dread_pikemen		dread_pikemen		1.0000	1.0000	0.0500	hu1\imposter\humanoid_imposter
+elo_dread_mummy		elo_dread_mummy		1.0000	1.0000	0.0500	
+dread_javelinmen		dread_javelinmen		1.0000	1.0000	0.0500	hu1\imposter\humanoid_imposter
+elo_tomb_guardian		elo_tomb_guardian		1.0000	1.1000	0.0500	hu1\imposter\humanoid_imposter
+elo_tomb_guardian_2h_waepons		elo_tomb_guardian_2h_waepons		1.0000	1.1000	0.0500	hu1\imposter\humanoid_imposter
+elo_tomb_guardian_peltasts		elo_tomb_guardian_peltasts		1.0000	1.1000	0.0500	hu1\imposter\humanoid_imposter
+black_grail_knights		black_grail_knights		1.0000	1.0000	0.0500	hu1\imposter\humanoid_imposter
+black_grail_knights_horse		black_grail_knights_horse		1.0000	1.0000	0.0500	
+elo_tomb_guardian_cavalry		elo_tomb_guardian_cavalry		1.0000	1.1000	0.0500	hu1\imposter\humanoid_imposter
+elo_tomb_guardian_lancers		elo_tomb_guardian_lancers		1.0000	1.1000	0.0500	hu1\imposter\humanoid_imposter
+ovn_dkl_skeleton_giant		dkl_skeleton_giant		1.0000	1.0000	0.0000	
+dread_skeletal_steed	VariantMeshes\wh_variantmodels\hr1\emp\emp_warbeast_horse\tech	dread_skeletal_steed		1.0000	1.0000	0.0500	
+dread_skeletal_steed_chariot		dread_skeletal_steed_chariot		1.0000	1.0000	0.0500	
+dread_skeletal_steed_hand	VariantMeshes\wh_variantmodels\hr1\emp\emp_warbeast_horse\tech	dread_skeletal_steed_hand		1.0000	1.0000	0.0500	
+dread_skeletal_steed_hand_chariot		dread_skeletal_steed_hand_chariot		1.0000	1.0000	0.0500	
+dread_skeletal_steed_guard	VariantMeshes\wh_variantmodels\hr1\emp\emp_warbeast_horse\tech	dread_skeletal_steed_guard		1.0000	1.0000	0.0500	
+dread_skeletal_steed_hero	VariantMeshes\wh_variantmodels\hr1\emp\emp_warbeast_horse\tech	dread_skeletal_steed_hero		1.0000	1.0000	0.0500	
+dread_barded_skeletal_steed_mortis		dread_barded_skeletal_steed_mortis		1.0000	1.0000	0.0500	
+dread_black_knight_lance_mortis		dread_black_knight_lance_mortis		1.0000	1.0000	0.0500	
+dread_skeleton_spearmen_mortis		dread_skeleton_spearmen_mortis		1.0000	1.0000	0.0500	
+dread_skeleton_mortis		dread_skeleton_mortis		1.0000	1.0000	0.0500	
+dread_skeletal_elephant	variantmeshes/wh_variantmodels/el1/arb/arb_war_elephant/tech	dread_skeletal_elephant		1.3500	1.3500	0.0000	
+dread_skeletal_elephant_general_cam	variantmeshes/wh_variantmodels/el1/dread_king/skeletal_elephant_lord/tech	dread_skeletal_elephant_general		1.4000	1.4000	0.0000	
+dread_skeletal_elephant_general	variantmeshes/wh_variantmodels/el1/arb/arb_war_elephant/tech	dread_skeletal_elephant_general		1.4000	1.4000	0.0000	
+ovn_campaign_dkl_ship_agent		campaign_dkl_ship_agent		1.0000	0.5500	0.0000	
+ovn_campaign_dkl_ship_transport		campaign_dkl_ship_lord		1.0000	0.7500	0.0000	
+ovn_campaign_dkl_ship_dread_king		campaign_dkl_ship_lord_dread_king		1.0000	0.8000	0.0000	
+ovn_dk_inf_brigands_ror		dread_brigand_ror		1.0000	1.0000	0.0500	hu1\imposter\humanoid_imposter
+ovn_dk_inf_wights_ror		dread_wight_ror		1.0000	1.1000	0.0500	hu1\imposter\humanoid_imposter
+ovn_dk_inf_catacomb_guardians_ror		dread_catacomb_guardian_ror		1.0000	1.1000	0.0500	hu1\imposter\humanoid_imposter
+ovn_dk_inf_mummies_ror		elo_dread_mummy_ror		1.0000	1.0000	0.0500	
+ovn_dk_mon_skeleton_elephant_ror	variantmeshes/wh_variantmodels/el1/dread_king/skeletal_elephant/tech	dread_skeletal_elephant_ror		1.3500	1.3500	0.0000	
+dread_skeletal_pegasus_hero	VariantMeshes\wh_variantmodels\hr1\emp\emp_warbeast_horse\tech	dread_skeletal_pegasus_hero		1.0000	1.0000	0.0500	
+dread_hellwraith		dread_hellwraith		1.0000	1.0000	0.0500	
+dread_hellwraith_01		dread_hellwraith_01		1.0000	1.1500	0.0500	
+dread_hellwraith_02		dread_hellwraith_02		1.0000	1.1500	0.0500	
+dread_hellwraith_03		dread_hellwraith_03		1.0000	1.1500	0.0500	
+dread_corrupted_priest_01		dread_corrupted_priest_01		1.0000	1.1000	0.0500	
+dread_corrupted_priest_02		dread_corrupted_priest_02		1.0000	1.1000	0.0500	
+dread_corrupted_priest_03		dread_corrupted_priest_03		1.0000	1.1000	0.0500	
+dread_bone_hydra		dread_bone_hydra		1.0000	1.2000	0.0000	
+ovn_dk_inf_spartan_ror		dread_spartan_ror		1.0000	1.0000	0.0500	hu1\imposter\humanoid_imposter
+ovn_dk_inf_thessos_ror		dread_thessos_ror		1.0000	1.0000	0.0500	hu1\imposter\humanoid_imposter
+ovn_dk_cav_ephalian_ror		dread_ephalian_ror		1.0000	1.0000	0.0500	hu1\imposter\humanoid_imposter
+ovn_dk_mon_skeletal_minotaurs		dread_skeleton_mino		1.0000	1.1500	0.0000	
+dread_king_zombie_dragon	VariantMeshes\wh_variantmodels\dr1\vmp\vmp_zombie_dragon\tech	dread_king_zombie_dragon		1.0000	1.0000	0.0000	
+dread_traitor_tomb_king_nebwaneph		dread_traitor_tomb_king_nebwaneph		1.0000	1.2000	0.0500	
+dread_traitor_tomb_king_omanhan_iii		dread_traitor_tomb_king_omanhan_iii		1.0000	1.2000	0.0500	
+dread_traitor_tomb_king_haptmose		dread_traitor_tomb_king_haptmose		1.0000	1.1000	0.0500	
+dread_possessed_hero_01		dread_possessed_hero_01		1.0000	1.0500	0.0000	
+dread_possessed_hero_02		dread_possessed_hero_02		1.0000	1.0500	0.0000	
+dread_skeletal_steed_chariot_campaign	art\campaign\chariots\cam_tmch1\tmb_tomb_chariot\tech	campaign_dk_general_chariot		1.0000	0.9000	0.0500	
+dread_skeletal_steed_hand_chariot_campaign	art\campaign\chariots\cam_tmch1\tmb_tomb_chariot\tech	campaign_dk_hand_of_nagash_chariot		1.0000	1.0000	0.0000	

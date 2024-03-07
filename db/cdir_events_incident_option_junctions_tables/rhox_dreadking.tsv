@@ -1,0 +1,4 @@
+id	incident_key	option_key	value	target
+#cdir_events_incident_option_junctions_tables;1;db/cdir_events_incident_option_junctions_tables/rhox_dreadking				
+1829252304	rhox_dk_after_battle	VAR_CHANCE	100	default
+1829252305	rhox_dk_after_battle	GEN_TARGET_MODEL	100	default

@@ -1,0 +1,12 @@
+key	image_path	localised_description	localised_name	unlocked_at_rank	is_background_skill	is_female_only_background_skill	is_male_only_background_skill	background_weighting	influence_cost
+#character_skills_tables;5;db/character_skills_tables/ovn_hellwraith_priest_unique									
+dread_hellwraith_magehunter	wh2_dlc15_skill_grn_dont_even_try_it.png			15	false	false	false	0.0000	0
+dread_hellwraith_barrier	tzeench_barrier_skill_char.png			20	false	false	false	0.0000	0
+dread_poltergeist	wh3_main_lord_passive_whisper_of_glory.png			15	false	false	false	0.0000	0
+dread_lifehunter	wh3_main_lord_passive_allure_of_slaanesh.png			15	false	false	false	0.0000	0
+dread_packleader	wh2_dlc11_lord_passive_honour_or_death.png			10	false	false	false	0.0000	0
+dread_wailing_specter	wh2_main_lord_passive_strength_through_spite.png			15	false	false	false	0.0000	0
+dread_untouchable	character_ward_save.png			25	false	false	false	0.0000	0
+dread_suppressor	battle_magic.png			15	false	false	false	0.0000	0
+dread_nagash_magic	character_magic.png			15	false	false	false	0.0000	0
+dread_eternally_bound	character_defence.png			15	false	false	false	0.0000	0

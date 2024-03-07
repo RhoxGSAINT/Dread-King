@@ -1,0 +1,38 @@
+<VARIANT_MESH>
+	<SLOT name="helmet" >
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1\vmp\vmp_black_knights\head\dread_catacomb_guardians_ror_head_01.wsmodel" />
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1\vmp\vmp_black_knights\head\dread_catacomb_guardians_ror_head_02.wsmodel" />
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1\vmp\vmp_black_knights\head\dread_catacomb_guardians_ror_head_03.wsmodel" />
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1\vmp\vmp_black_knights\head\dread_catacomb_guardians_ror_head_04.wsmodel" />
+	</SLOT>
+	<SLOT name="head" >
+		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hu1/vmp/vmp_skeleton_warriors/head/skeleton_head_01.wsmodel"  />
+		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hu1/vmp/vmp_skeleton_warriors/head/skeleton_head_03.wsmodel"  />
+		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hu1/vmp/vmp_skeleton_warriors/head/skeleton_head_05.wsmodel"  />
+	</SLOT>
+	<SLOT name="body" >
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1\vmp\vmp_black_knights\body\dread_catacomb_guardians_ror_torso_01.wsmodel" >
+			<META_DATA>audio_armour_type:plate</META_DATA>			<META_DATA>audio_entity_type:wh_skeleton</META_DATA></VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1\vmp\vmp_black_knights\body\dread_catacomb_guardians_ror_torso_02.wsmodel" >
+			<META_DATA>audio_armour_type:plate</META_DATA>			<META_DATA>audio_entity_type:wh_skeleton</META_DATA></VARIANT_MESH>
+	</SLOT>	
+	<SLOT name="decoration"  probability="0.5">
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1\vmp\vmp_black_knights\body\dread_catacomb_guardians_ror_torso_decoration_01.wsmodel" />
+	</SLOT>	
+	<SLOT name="arm_decoration"  probability="0.8">
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1\vmp\vmp_black_knights\body\dread_catacomb_guardians_ror_arm_decoration_01.wsmodel" />
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1\vmp\vmp_black_knights\body\dread_catacomb_guardians_ror_arm_decoration_02.wsmodel" />
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1\vmp\vmp_black_knights\body\dread_catacomb_guardians_ror_arm_decoration_03.wsmodel" />
+	</SLOT>		
+	<SLOT name="legs" >
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1\vmp\vmp_black_knights\legs\dread_catacomb_guardians_ror_legs_01.wsmodel" />
+	</SLOT>	
+	<SLOT attach_point="be_prop_0" name="weapon_1">
+		<VARIANT_MESH_REFERENCE definition="VariantMeshes/VariantMeshDefinitions/cst_depth_guard_2h_halberd_set.VariantMeshDefinition" />
+	</SLOT>
+	<SLOT attach_point="be_prop_1" name="weapon_2" />
+	<SLOT attach_point="be_prop_2" name="shield" />
+	<SLOT attach_point="be_prop_3" name="weapon_3" />
+	<SLOT attach_point="be_prop_4" name="weapon_4" />
+	<SLOT attach_point="be_prop_5" name="weapon_5" />
+</VARIANT_MESH>

@@ -1,0 +1,134 @@
+key	text	tooltip
+#Loc;1;text/db/ovn_dread_king_only_character_skills.loc		
+character_skills_localised_description_Ancient_Necromancer	A powerful practitioner of Necromancy, writing the book known as the Grimoire Necris, which allowed his ascension to undeath	true
+character_skills_localised_name_Ancient_Necromancer	Ancient  Necromancer	true
+character_skills_localised_description_Mighty_Warrior_tmb	The Dread King was a mighty warrior, giant in stature, armed with a massive sword and covered in ancient heavy armour. He could cut down his enemies in their droves.	true
+character_skills_localised_name_Mighty_Warrior_tmb	Mighty Warrior	true
+character_skills_localised_description_Lord_Of_The_Undead_tmb	A master in the lore of dark magic, able to summon vast armies of undead to fight for him.	true
+character_skills_localised_name_Lord_Of_The_Undead_tmb	Lord of the Undead	true
+character_skills_localised_description_Dark_Lord_Of_Nagash	The being known as the Dread King was known to have been one of Nagash's most powerful followers, aiding him in his early attempts to bring undeath to the world, he served Nagash well	true
+character_skills_localised_name_Dark_Lord_Of_Nagash	Dark Lord of Nagash	true
+character_skills_localised_description_Great_Summoner	His vast knowledge of Necromancy allows him to effortlessly sustain his thralls.	true
+character_skills_localised_name_Great_Summoner	Great Summoner	true
+character_skills_localised_name_Dread_Aura	Dread Aura	true
+character_skills_localised_description_Dread_Aura	The Dread King's name was derived from a powerful aura that surrounded him at all times, only the mightiest of beings could face him without physically shaking or panicking, most would be frozen in fear or outright flee	true
+character_skills_localised_name_dread_barded_nightmare	Skeletal Steed	true
+character_skills_localised_description_dread_barded_nightmare	Long-dead destriers, awakened to serve their Unliving masters far beyond death.	true
+character_skills_localised_name_dread_zombie_dragon	Gaurgon	true
+character_skills_localised_description_dread_zombie_dragon	The Dragon Gaurgon, also called the Blazefang, was gifted to the Dread King by Nagash. The beast still faithfully serves its master in Undeath.	true
+character_skills_localised_name_Soulreaper	Soulreaper	true
+character_skills_localised_description_Soulreaper	This ancient sword, imbued with dark magic, steals the souls of all those it strikes down.	true
+character_skills_localised_name_dread_black_jewel	Heart of Blackness	true
+character_skills_localised_description_dread_black_jewel	The Black Jewel of the Dread King contains his very soul. Embedded in his rib cage, it beats like an obscene, black and glistening heart.	true
+character_skills_localised_name_dread_grimoire_necris	Grimoire Necris	true
+character_skills_localised_description_dread_grimoire_necris	Written by the Dread King himself during the reign of Nagash, its entire contents are committed to his ancient memory. Centuries later it fell into the hands of Larenscheld, from whom he learned about the the Dread King’s legend.	true
+character_skills_localised_name_wh2_dlc09_skill_innate_tmb_dynasty_nebwaneph	Traitor King of Mahrak	true
+character_skills_localised_description_wh2_dlc09_skill_innate_tmb_dynasty_nebwaneph	Through his necromantic powers and whisperings on the Wind of Shyish, Nagash was able to turn this proud King.	true
+character_skills_localised_name_wh2_dlc09_skill_innate_tmb_dynasty_omanhan_iii	Traitor King of Quatar	true
+character_skills_localised_description_wh2_dlc09_skill_innate_tmb_dynasty_omanhan_iii	Through his necromantic powers and whisperings on the Wind of Shyish, Nagash was able to turn this proud King.	true
+character_skills_localised_name_wh2_dlc09_skill_innate_tmb_dynasty_haptmose	The Traitor of Mahrak	true
+character_skills_localised_description_wh2_dlc09_skill_innate_tmb_dynasty_haptmose	Liche High Priest and leader of the traitors that turned to Nagash.	true
+character_skills_localised_name_wh2_dlc09_skill_innate_tmb_dynasty_possessed_hero_01	Fallen Hero of Mycanes	true
+character_skills_localised_description_wh2_dlc09_skill_innate_tmb_dynasty_possessed_hero_01	A tragic hero that got killed by a wicked Medusa. Now he's possessed by a spiteful spirit.	true
+character_skills_localised_name_wh2_dlc09_skill_innate_tmb_dynasty_possessed_hero_02	Fallen Hero of Athanes	true
+character_skills_localised_description_wh2_dlc09_skill_innate_tmb_dynasty_possessed_hero_02	An ancient hero that couldn't prevail against a mighty Minotaur. Now he's possessed by a spiteful spirit.	true
+character_skills_localised_name_dread_mount_haptmose_casket_of_souls	Casket of Souls	true
+character_skills_localised_description_dread_mount_haptmose_casket_of_souls	When the souls are released they endeavour not to return without new victims to torment for eternity.	true
+character_skills_localised_name_dread_mount_haptmose_skeletal_steed	Skeletal Steed	true
+character_skills_localised_description_dread_mount_haptmose_skeletal_steed	Long-dead destriers, awakened to serve their Unliving masters far beyond death.	true
+character_skills_localised_name_dread_mount_haptmose_skeleton_chariot	Skeleton Chariot	true
+character_skills_localised_description_dread_mount_haptmose_skeleton_chariot	The pride of Nehekharan armies, impacting enemy lines with bone-shattering force and grinding the corpses beneath their heavy wheels.	true
+character_skills_localised_description_dread_haptmose_mortuary_cult_scholar	Only those who display the correct degree of diligence and reverence may learn the secrets of Unlife.	true
+character_skills_localised_description_dread_haptmose_soul_binding	By which the very souls of the Undead can be harnessed, so their physical forms can be controlled.	true
+character_skills_localised_name_dread_haptmose_mortuary_cult_scholar	Corrupted Cult Scholar	true
+character_skills_localised_name_dread_haptmose_soul_binding	Soul Binding	true
+character_skills_localised_description_dread_nagash_blessing_0	Nagash is darkness and unreasoning hatred given form, the father and creator of the foul art of necromancy and lord of all Vampires.	true
+character_skills_localised_name_dread_nagash_blessing_0	Nagash the Great Necromancer	true
+character_skills_localised_description_dread_army_buff_basic_archers	Missile combat isn't always about attacking; knowing how to defend also pays dividends.	false
+character_skills_localised_name_dread_army_buff_basic_archers	Bow Master	false
+character_skills_localised_description_dread_army_buff_basic_infantry	Death isn't necessarily the end; those who have pledged service must rise to fight again another day.	false
+character_skills_localised_name_dread_army_buff_basic_infantry	Sun-Scorched Bones	false
+character_skills_localised_description_dread_army_buff_cav	Formed by long campaigns and bloody slaughter in the stifling desert heat, the bond between steed and rider cannot be broken, even when death tries to intervene.	false
+character_skills_localised_name_dread_army_buff_cav	Elite Cavalrymen	false
+character_skills_localised_description_dread_army_buff_chariot	"The swift charioteers of the king. They who pursue the sovereign's foes on the day of his awakening."	false
+character_skills_localised_name_dread_army_buff_chariot	Master Charioteers	false
+character_skills_localised_description_dread_army_buff_vampiric_creatures	Such evil creatures are desperate to spill mortal blood, and will speed along until they find some flesh to carve.	false
+character_skills_localised_name_dread_army_buff_vampiric_creatures	Evil Creatures	false
+character_skills_localised_description_dread_army_buff_monsters	The Dark Magic-user can reanimate fearsome beasts to do his bidding.	false
+character_skills_localised_name_dread_army_buff_monsters	Undead Horrors	false
+character_skills_localised_description_dread_army_buff_vet_archer	The many ranks of archers and artillery batteries will darken the sky and reap many souls.	false
+character_skills_localised_name_dread_army_buff_vet_archer	Darkened Skies	false
+character_skills_localised_description_dread_army_buff_vet_cav	The desert itself is his steed.	false
+character_skills_localised_name_dread_army_buff_vet_cav	Dune Rider	false
+character_skills_localised_description_dread_army_buff_vet_infantry	A dream of glory attained through conquest great rages still, despite the dying of the light.	false
+character_skills_localised_name_dread_army_buff_vet_infantry	Unfading Memory	false
+character_skills_localised_description_dread_army_buff_vet_monsters	The power of death cannot be denied.	false
+character_skills_localised_name_dread_army_buff_vet_monsters	Deadly Power	false
+character_skills_localised_description_dread_hellwraith_magehunter	This spectre has been called back and bound to the world of the living against their will. This lead to such great hatred against everything and everyone magical that the sheer presence of the ghost is enough to disturb enchantments.	false
+character_skills_localised_name_dread_hellwraith_magehunter	Mage Hunter	false
+character_skills_localised_description_dread_hellwraith_barrier	Many attacks directed against this creature are unexpectedly missing or deflected by a mysterious force.	false
+character_skills_localised_name_dread_hellwraith_barrier	Ectoplasmic Barrier	false
+character_skills_localised_description_dread_poltergeist	Poltergeists move unseen, creating chaos and destruction behind enemy lines.	false
+character_skills_localised_name_dread_poltergeist	Poltergeist	false
+character_skills_localised_description_dread_lifehunter	Sustained by the very life force of others, this creature is always on the prowl.	false
+character_skills_localised_name_dread_lifehunter	Life Essence Hunter	false
+character_skills_localised_description_dread_packleader	The essence of this apparition is so strong that it empowers  lesser ghosts by its very presence.	false
+character_skills_localised_name_dread_packleader	Packleader	false
+character_skills_localised_description_dread_wailing_specter	Constant mourning, moaning and wailing is draining the fighting spirit of its enemies.	false
+character_skills_localised_name_dread_wailing_specter	Wailing Spectre	false
+character_skills_localised_description_dread_untouchable	Most mundane afflictions are unable to afflict a being which thrives between life and death.	false
+character_skills_localised_name_dread_untouchable	Otherworldly Resilience	false
+character_skills_localised_description_dread_nagash_magic	The secret teaching of Nagash provide unparralleled magical prowess. 	false
+character_skills_localised_name_dread_nagash_magic	Acolythe of Nagash	false
+character_skills_localised_description_dread_eternally_bound	Bolstered by ancient curses and unholy magic, this entity is very difficult to destroy.	false
+character_skills_localised_name_dread_eternally_bound	Eternally Bound	false
+character_skills_localised_description_dread_suppressor	Instead of strengthening their own magical powers they invest a portion of it to sabotage enemy spellcasters.	false
+character_skills_localised_name_dread_suppressor	Magic Saboteur	false
+character_skills_localised_description_ovn_dk_possesed_tormented_puppet	There is enough left of the heroes soul to occasionally cause outburst of desperate pain and torment, unsettling enemies who witness it.	false
+character_skills_localised_name_ovn_dk_possesed_tormented_puppet	Tormented Puppet	false
+character_skills_localised_description_ovn_dk_possesed_mycanes_defender	The legendary defender of Mycanes would hold his ground against almost anyone and anything. Pity it neither saved him nor his city.	false
+character_skills_localised_name_ovn_dk_possesed_mycanes_defender	Defender of Mycanes	false
+character_skills_localised_description_ovn_dk_possesed_mycanes_warband	Both Mycanas and its defenders have fallen long ago, yet its elite still marches to war.	false
+character_skills_localised_name_ovn_dk_possesed_mycanes_warband	Persemius' Warband	false
+character_skills_localised_description_ovn_dk_possesed_athanas_minos	In a cruel twist of  irony the reanimated corpses of the minotaurs slain by Thesops are now forming his most elite retinue.	false
+character_skills_localised_name_ovn_dk_possesed_athanas_minos	Risen Enemies	false
+character_skills_localised_description_ovn_dk_possesed_athanas_monster_hunter	Once long ago Thesops was famous for hunting and slaying monsters. Neither his legend nor his home town endured, but an echo of his old skills still lingers in his corpse.	false
+character_skills_localised_name_ovn_dk_possesed_athanas_monster_hunter	Monster Hunter	false
+character_skills_localised_description_ovn_dk_possesed_hatred_delfs_mycanas	Even in undeath and without free will, Persemius will fight harder against the hated medusae and those who dare to harbour them.	false
+character_skills_localised_name_ovn_dk_possesed_hatred_delfs_mycanas	Hatred for Dark Elves	false
+character_skills_localised_description_ovn_dk_possesed_hatred_bm_athanas	Thesops died by specifically by a minotaur's hand, but his blind hatred extends to all Beastmen.	false
+character_skills_localised_name_ovn_dk_possesed_hatred_bm_athanas	Hatred for Beastmen	false
+character_skills_localised_description_ovn_dk_possesed_possesion	The spirit binds the pitiful former hero to its undead form and will prevent him from falling apart until his corpse has been hacked to pieces. Not even that will grant the fallen peace though. Their tormentor will use their magic to reconstruct the skeleton, regardless of the damage it suffered and force it to march against the living once again.	false
+character_skills_localised_name_ovn_dk_possesed_possesion	Possessed	false
+character_skills_localised_description_ovn_possesed_mycanas_shieldbearer	Persemius was renowned for his skilled use of shields. Even in death seems not have changed that.	false
+character_skills_localised_name_ovn_possesed_mycanas_shieldbearer	Legendary Shieldbearer	false
+character_skills_localised_description_ovn_possesed_overdrive	The possessed corpse is infused with foul magic by its master, driven far beyond its physical limitations. Such powerful magic damages the corpse, but the malicious apparition controlling it does not care.	false
+character_skills_localised_name_ovn_possesed_overdrive	Overdrive	false
+character_skills_localised_description_ovn_dk_possessed_swordsman	Thesops was the famous spellblade of Athanas. His legend died with his city, but an echo of his skill still endures, now serving a much darker master.	false
+character_skills_localised_name_ovn_dk_possessed_swordsman	Legendary Swordsman	false
+character_skills_localised_name_ovn_dk_traitor_king_warrior_king	Warrior King of Nehekara	false
+character_skills_localised_description_ovn_dk_traitor_king_warrior_king	Traitors they may be, but in the distant past they too have been kings of Nehekara. Their skills still reflect that.	false
+character_skills_localised_name_ovn_dk_traitor_king_ushabti	Mastercrafted Statues	false
+character_skills_localised_description_ovn_dk_traitor_king_ushabti	Some Ushabtis are just of higher quality than others.	false
+character_skills_localised_name_ovn_dk_traitor_king_nagash_boon	Nagash's Boon	false
+character_skills_localised_description_ovn_dk_traitor_king_nagash_boon	There is much power to be gained by following Nagash.	false
+character_skills_localised_name_ovn_dk_traitor_king_willingly_damned	Willingly Damned	false
+character_skills_localised_description_ovn_dk_traitor_king_willingly_damned	It was their own decision to serve Nagash. Not that he cares, he will make use of his servants either way.	false
+character_skills_localised_name_ovn_dk_traitor_king_dark_glory	Dark Glory	false
+character_skills_localised_description_ovn_dk_traitor_king_dark_glory	Even in undead servitude of the greatest necromancer they remain inspiring to their soldiers. Or to what is left of them.	false
+character_skills_localised_name_ovn_dk_traitor_king_ushabti_artisan_king	Artisan King	false
+character_skills_localised_description_ovn_dk_traitor_king_ushabti_artisan_king	When the Tomb King turned traitor, he took his beloved retinue of famous Ushabti with him. Without Necrotects, the king himself must conduct the maintenance - which he does begrudgingly.	false
+character_skills_localised_name_ovn_dk_traitor_king_tomb_guard	Royal Retinue	false
+character_skills_localised_description_ovn_dk_traitor_king_tomb_guard	The Traitor King brought his personal guard with him when he turned to Nagash and they still protect him to this day.	false
+character_skills_localised_name_ovn_dk_traitor_king_tomb_guard_elite	Warlord	false
+character_skills_localised_description_ovn_dk_traitor_king_tomb_guard_elite	Their skills honed by endless war in life and death, the personal guard of the king is a formidable foe.	false
+character_skills_localised_name_ovn_dk_hierophant_silver_tongue	Silver-Tongued Traitor	false
+character_skills_localised_description_ovn_dk_hierophant_silver_tongue	It was Hierophant Haptmose who first defected to Nagash and it was Haptmose who convinced the other two to follow.	false
+character_skills_localised_name_ovn_dk_hierophant_mortuary	Hierophant of the Mortuary Cult	false
+character_skills_localised_description_ovn_dk_hierophant_mortuary	Highly skilled and knowledgable in the secrets of the Mortuary Cult, Haptmose has long worked on their perfection.	false
+character_skills_localised_name_ovn_dk_hierophant_gifts	Nagash's Gifts	false
+character_skills_localised_description_ovn_dk_hierophant_gifts	There is power to be gained in the service of Nagash, that much is undeniable.	false
+character_skills_localised_name_ovn_dk_hierophant_undeath_ascendant	Skilled Animater	false
+character_skills_localised_description_ovn_dk_hierophant_undeath_ascendant	So skilled is the traitorous Hierophant when awakening his legions that they move more fluently than most other undead.	false
+character_skills_localised_name_ovn_dk_hierophant_liche	Ascendant Liche	false
+character_skills_localised_description_ovn_dk_hierophant_liche	The better one serves Nagash, the more power he may bestow upon his servant. As long as they do never displease the great necromancer, their powers may never stop to grow.	false

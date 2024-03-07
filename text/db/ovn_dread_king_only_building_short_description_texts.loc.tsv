@@ -1,0 +1,28 @@
+key	text	tooltip
+#Loc;1;text/db/ovn_dread_king_only_building_short_description_texts.loc		
+building_short_description_texts_short_description_dread_pyramid_omanhan_landmark	This monument, much like the man himself, is defiant against the foes of Nagash.	true
+building_short_description_texts_short_description_dread_pyramid_nebwaneph_landmark	The Traitor King commanded his pyramid constructed, so that in life and beyond, all will know his might and dedication.	true
+building_short_description_texts_short_description_dread_pyramid_dread_king_landmark	Deep within the halls of the Twisted Spire, the ruined pyramid tomb of the Dread King, lie the Catacombs of Terror with its throne room.	true
+building_short_description_texts_short_description_dread_palace_myrmidens_landmark	This ancient palace was the Dread King’s original seat of power before he set out to conquer Nehekhara. After he was slain in the War of the Dead, the palace was abandoned as it was a ghastly and cursed place. But now the evil has returned.	true
+building_short_description_texts_short_description_dread_temple_of_doom_landmark	A huge temple complex built during the first reign of the Dread King. After his resurrection, he set up his court here and regathered his strength.	true
+building_short_description_texts_short_description_dread_colossus_1	The ancient colossi were revered and sometimes served in human armies. Their bones are brought back to Unlife to continue their service.	true
+building_short_description_texts_short_description_dread_elephants_1	Noble animals in life, the elephants of the Southlands serve their masters even in death.	true
+building_short_description_texts_short_description_dread_ghosts_1	Restless souls are lured by Necromancers into arcane wells and tethered to others for ever more.	true
+building_short_description_texts_short_description_dread_ghosts_2	An unholy font of dark dreams and trapped spirits, used by Undead Lords to bolster their legions.	true
+building_short_description_texts_short_description_dread_hydras_1	The foul beasts that roam the Old World have been slain and revived to reinforce the armies of darkness.	true
+building_short_description_texts_short_description_dread_infantry_4	Only the best of the best may serve in the Dread King's Royal Guard.	true
+building_short_description_texts_short_description_dread_mortis_1	The true masters of Necromancy have uncovered the secret of the creation of these Arcance machines.	true
+building_short_description_texts_short_description_dread_settlement_major_1	The original inhabitants of this small settlement have long left this cursed place, however the dead still roam it.	false
+building_short_description_texts_short_description_dread_settlement_major_2	Nowadays a town of the undead, this place was once an important settlement for trade.	false
+building_short_description_texts_short_description_dread_settlement_major_3	An outpost of a forgotten civilication, used by the Dreadking's servants for their nefarious means.	false
+building_short_description_texts_short_description_dread_settlement_major_4	Many centuries ago this city was filled with the sounds of bustling activity of the living. Now the undead carry out their tasks in eerie silence.	false
+building_short_description_texts_short_description_dread_settlement_major_5	A mighty city-state of the past has now turned into the centre of the machinations of the undead.	false
+building_short_description_texts_short_description_dread_citadel_1	The haunted citadel serves as arsenal and deterrent for attackers alike.	false
+building_short_description_texts_short_description_dread_estate_1	Under Nagash's influence the dead do not rest easily, no matter how well they have been laid to rest.	false
+building_short_description_texts_short_description_dread_income_1	A ruined Stoa hinting to long lost glory.	false
+building_short_description_texts_short_description_dread_income_2	Formerly a place of commerce for the living, now the dead gather their resources here.	false
+building_short_description_texts_short_description_dread_income_3	A treasure house dedicated to Nagash. Woe to those who lay their hands on these cursed riches!	false
+building_short_description_texts_short_description_dread_public_order_1	An upright stone slab dedicated to Nagash's many achievements.	false
+building_short_description_texts_short_description_dread_public_order_2	A reminder of Nagash's superiority to his more sapient servants.	false
+building_short_description_texts_short_description_dread_public_order_3	There is only one master of this world and all will serve Nagash in due time.	false
+building_short_description_texts_short_description_dread_special_nagashizzar_dread_king	The Dread King went into the chamber alone to gaze upon the husk of Nagash...	false

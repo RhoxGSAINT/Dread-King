@@ -1,0 +1,14 @@
+key	cast_time	completion_payload	cooldown_time	category	slave_cost	global_cooldown_time	start_payload	icon	failure_cooldown_time	required_resources	expended_resources	target	target_expended_resources	target_required_resources	target_cooldown	target_category_cooldown	effects_while_performing	custom_cost_id	on_trigger_vo_event	flags	self_payload
+#rituals_tables;0;db/rituals_tables/ovn_dread_king_only																					
+ovn_dk_cav_ephalian	0	ovn_dk_cav_ephalian	9999	CRAFTING_RITUAL	0	0			0		ovn_dk_cav_ephalian_cost				0	0				default	
+ovn_dk_art_polybolos	0	ovn_dk_art_polybolos	9999	CRAFTING_RITUAL	0	0			0		ovn_dk_art_polybolos_cost				0	0				default	
+ovn_dk_inf_spartan	0	ovn_dk_inf_spartan	9999	CRAFTING_RITUAL	0	0			0		ovn_dk_inf_spartan_cost				0	0				default	
+ovn_dk_inf_thessos	0	ovn_dk_inf_thessos	9999	CRAFTING_RITUAL	0	0			0		ovn_dk_inf_thessos_cost				0	0				default	
+dread_ritual_tmb_awakening	0	dread_ritual_tmb_awakening	25	STANDARD_RITUAL	0	5		UI\skins\warhammer2\rites_tmb_geheb.png	0		dread_ritual_tmb_awakening				0	0				default	
+dread_ritual_tmb_legions	0	dread_ritual_tmb_legions	15	STANDARD_RITUAL	0	5		UI\skins\warhammer2\rites_tmb_khsar.png	0		dread_ritual_tmb_legions				0	0				default	
+dread_ritual_tmb_conquest	0	dread_ritual_tmb_conquest	15	STANDARD_RITUAL	0	5		UI\skins\warhammer2\rites_tmb_ptra.png	0		dread_ritual_tmb_conquest				0	0				default	
+dread_ritual_tmb_necromancy	0	dread_ritual_tmb_necromancy	20	STANDARD_RITUAL	0	5		UI\skins\warhammer2\rites_tmb_tahoth.png	0		dread_ritual_tmb_necromancy				0	0				default	
+dread_ritual_crafting_tmb_army_capacity	0	dread_ritual_crafting_tmb_army_capacity	0	CRAFTING_RITUAL	0	0		UI\skins\default\crafting_ritual_army_capacity.png	0		wh2_dlc09_ritual_crafting_tmb_army_capacity				0	0				default	
+dread_ritual_crafting_tmb_liche_priest_capacity	0	dread_ritual_crafting_tmb_liche_priest_capacity	0	CRAFTING_RITUAL	0	0		ui/portraits/units/no_culture/dread_corrupted_priest_01.png	0		wh3_main_ritual_crafting_tmb_liche_priest_capacity				0	0				default	
+dread_ritual_crafting_tmb_necrotect_capacity	0	dread_ritual_crafting_tmb_necrotect_capacity	0	CRAFTING_RITUAL	0	0		ui/portraits/units/no_culture/dread_hellwraith_01.png	0		wh3_main_ritual_crafting_tmb_necrotect_capacity				0	0				default	
+dread_ritual_crafting_tmb_prince_capacity	0	dread_ritual_crafting_tmb_prince_capacity	0	CRAFTING_RITUAL	0	0		ui/portraits/units/no_culture/dread_hetairoi_01.png	0		wh3_main_ritual_crafting_tmb_prince_capacity				0	0				default	

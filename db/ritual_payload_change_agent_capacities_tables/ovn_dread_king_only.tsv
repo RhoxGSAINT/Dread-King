@@ -1,0 +1,5 @@
+agent_record	payload	capacity
+#ritual_payload_change_agent_capacities_tables;0;db/ritual_payload_change_agent_capacities_tables/ovn_dread_king_only		
+wizard	dread_ritual_crafting_tmb_liche_priest_capacity	1
+engineer	dread_ritual_crafting_tmb_necrotect_capacity	1
+champion	dread_ritual_crafting_tmb_prince_capacity	1

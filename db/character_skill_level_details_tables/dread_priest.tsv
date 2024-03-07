@@ -1,0 +1,5 @@
+faction_key	campaign_key	level	skill_key	subculture_key	image_path	unlocked_at_rank
+#character_skill_level_details_tables;1;db/character_skill_level_details_tables/dread_priest						
+		1	dread_skeletal_steed_priest_death		x	6
+		1	dread_skeletal_steed_priest_shadow		x	6
+		1	dread_skeletal_steed_priest_vampires		x	6

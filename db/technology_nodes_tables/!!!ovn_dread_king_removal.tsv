@@ -1,0 +1,64 @@
+key	campaign_key	faction_key	indent	technology_key	technology_node_set	tier	research_points_required	cost_per_round	food_cost	optional_ui_group	resource_cost	required_parents	pixel_offset_x	pixel_offset_y
+#technology_nodes_tables;0;db/technology_nodes_tables/!!!ovn_dread_king_removal														
+dread_king_dummy_01		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_campaign_bonus_1_1	tmb_mil	0	200	0	0			0	0	0
+dread_king_dummy_02		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_campaign_bonus_1_2	tmb_mil	0	200	0	0			0	0	0
+dread_king_dummy_03		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_campaign_bonus_1_3	tmb_mil	0	200	0	0			0	0	0
+dread_king_dummy_04		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_campaign_bonus_2_1	tmb_mil	0	200	0	0			0	0	0
+dread_king_dummy_05		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_campaign_bonus_2_2	tmb_mil	0	200	0	0			0	0	0
+dread_king_dummy_06		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_campaign_bonus_2_3	tmb_mil	0	200	0	0			0	0	0
+dread_king_dummy_07		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_campaign_bonus_3_1	tmb_mil	0	200	0	0			0	0	0
+dread_king_dummy_08		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_campaign_bonus_3_2	tmb_mil	0	200	0	0			0	0	0
+dread_king_dummy_09		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_campaign_bonus_3_3	tmb_mil	0	200	0	0			0	0	0
+dread_king_dummy_10		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_campaign_bonus_4_1	tmb_mil	0	200	0	0			0	0	0
+dread_king_dummy_11		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_campaign_bonus_4_2	tmb_mil	0	200	0	0			0	0	0
+dread_king_dummy_12		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_campaign_bonus_4_3	tmb_mil	0	200	0	0			0	0	0
+dread_king_dummy_13		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_campaign_bonus_5_1	tmb_mil	0	200	0	0			0	0	0
+dread_king_dummy_14		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_campaign_bonus_5_2	tmb_mil	0	200	0	0			0	0	0
+dread_king_dummy_15		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_campaign_bonus_5_3	tmb_mil	0	200	0	0			0	0	0
+dread_king_dummy_16		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_campaign_bonus_6_1	tmb_mil	0	200	0	0			0	0	0
+dread_king_dummy_17		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_campaign_bonus_6_2	tmb_mil	0	200	0	0			0	0	0
+dread_king_dummy_18		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_campaign_bonus_6_3	tmb_mil	0	200	0	0			0	0	0
+dread_king_dummy_19		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_dynasty_1	tmb_mil	0	1500	0	0	tmb_1		0	0	0
+dread_king_dummy_20		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_dynasty_2	tmb_mil	0	1500	0	0	tmb_2		0	0	0
+dread_king_dummy_21		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_dynasty_3	tmb_mil	0	1500	0	0	tmb_3		0	0	0
+dread_king_dummy_22		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_dynasty_4	tmb_mil	0	1500	0	0	tmb_4		0	0	0
+dread_king_dummy_23		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_dynasty_5	tmb_mil	0	1500	0	0	tmb_5		0	0	0
+dread_king_dummy_24		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_dynasty_6	tmb_mil	0	1500	0	0	tmb_6		0	0	0
+dread_king_dummy_25		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_extra_army_1	tmb_mil	0	1	0	0	tmb_7	wh2_dlc09_tmb_tech_follower_unlock	0	0	0
+dread_king_dummy_26		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_extra_army_2	tmb_mil	0	1	0	0		wh2_dlc09_tmb_tech_follower_unlock	0	0	0
+dread_king_dummy_27		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_extra_army_3	tmb_mil	0	1	0	0		wh2_dlc09_tmb_tech_follower_unlock	0	0	0
+dread_king_dummy_28		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_extra_army_4	tmb_mil	0	1	0	0		wh2_dlc09_tmb_tech_follower_unlock	0	0	0
+dread_king_dummy_29		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_extra_army_5	tmb_mil	0	1	0	0		wh2_dlc09_tmb_tech_follower_unlock	0	0	0
+dread_king_dummy_30		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_extra_army_6	tmb_mil	0	1	0	0		wh2_dlc09_tmb_tech_follower_unlock	0	0	0
+dread_king_dummy_31		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_extra_army_7	tmb_mil	0	1	0	0		wh2_dlc09_tmb_tech_follower_unlock	0	0	0
+dread_king_dummy_32		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_faction_target_1	tmb_mil	0	1	5000	0			0	0	0
+dread_king_dummy_33		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_faction_target_2	tmb_mil	0	1	5000	0			0	0	0
+dread_king_dummy_34		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_faction_target_3	tmb_mil	0	1	5000	0			0	0	0
+dread_king_dummy_35		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_faction_target_4	tmb_mil	0	1	5000	0			0	0	0
+dread_king_dummy_36		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_faction_target_5	tmb_mil	0	1	5000	0			0	0	0
+dread_king_dummy_37		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_faction_target_6	tmb_mil	0	1	5000	0			0	0	0
+dread_king_dummy_38		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_legions_of_legend	tmb_mil	0	500	0	0			0	0	0
+dread_king_dummy_39		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_liche_priest_1	tmb_mil	0	1	0	0		wh2_dlc09_tmb_tech_agent_unlock	0	0	0
+dread_king_dummy_40		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_liche_priest_2	tmb_mil	0	1	1000	0			0	0	0
+dread_king_dummy_41		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_liche_priest_3	tmb_mil	0	1	2500	0			0	0	0
+dread_king_dummy_42		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_liche_priest_4	tmb_mil	0	1	2500	0			0	0	0
+dread_king_dummy_43		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_liche_priest_5	tmb_mil	0	1	0	0		wh2_dlc09_tmb_tech_agent_unlock	0	0	0
+dread_king_dummy_44		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_liche_priest_6	tmb_mil	0	1	1000	0			0	0	0
+dread_king_dummy_45		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_necrotect_1	tmb_mil	0	1	2500	0			0	0	0
+dread_king_dummy_46		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_necrotect_2	tmb_mil	0	1	0	0		wh2_dlc09_tmb_tech_agent_unlock	0	0	0
+dread_king_dummy_47		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_necrotect_3	tmb_mil	0	1	1000	0			0	0	0
+dread_king_dummy_48		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_necrotect_4	tmb_mil	0	1	0	0		wh2_dlc09_tmb_tech_agent_unlock	0	0	0
+dread_king_dummy_49		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_necrotect_5	tmb_mil	0	1	1000	0			0	0	0
+dread_king_dummy_50		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_necrotect_6	tmb_mil	0	1	2500	0			0	0	0
+dread_king_dummy_51		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_tomb_king_1	tmb_mil	0	1	0	0		wh2_dlc09_tmb_tech_tomb_king_unlock	0	0	0
+dread_king_dummy_52		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_tomb_king_2	tmb_mil	0	1	0	0		wh2_dlc09_tmb_tech_tomb_king_unlock	0	0	0
+dread_king_dummy_53		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_tomb_king_3	tmb_mil	0	1	0	0		wh2_dlc09_tmb_tech_tomb_king_unlock	0	0	0
+dread_king_dummy_54		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_tomb_king_4	tmb_mil	0	1	0	0		wh2_dlc09_tmb_tech_tomb_king_unlock	0	0	0
+dread_king_dummy_55		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_tomb_king_5	tmb_mil	0	1	0	0		wh2_dlc09_tmb_tech_tomb_king_unlock	0	0	0
+dread_king_dummy_56		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_tomb_king_6	tmb_mil	0	1	0	0		wh2_dlc09_tmb_tech_tomb_king_unlock	0	0	0
+dread_king_dummy_57		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_tomb_prince_1	tmb_mil	0	1	1000	0			0	0	0
+dread_king_dummy_58		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_tomb_prince_2	tmb_mil	0	1	2500	0			0	0	0
+dread_king_dummy_59		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_tomb_prince_3	tmb_mil	0	1	0	0		wh2_dlc09_tmb_tech_agent_unlock	0	0	0
+dread_king_dummy_60		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_tomb_prince_4	tmb_mil	0	1	1000	0			0	0	0
+dread_king_dummy_61		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_tomb_prince_5	tmb_mil	0	1	2500	0			0	0	0
+dread_king_dummy_62		ovn_tmb_dread_king	40	wh2_dlc09_tech_tmb_tomb_prince_6	tmb_mil	0	1	0	0		wh2_dlc09_tmb_tech_agent_unlock	0	0	0

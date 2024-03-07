@@ -1,0 +1,10 @@
+key	text	tooltip
+#Loc;1;text/db/ovn_dread_king_only_unit_abilities_additional_ui_effects_tables.loc		
+unit_abilities_additional_ui_effects_localised_text_larenscheld_ghost_on_death	[[col:green]][[img:icon_arrow_up]][[/img]] Summons a mighty wraith when the unit dies[[/col]]	true
+unit_abilities_additional_ui_effects_localised_text_larenscheld_ghost_on_death_upgraded	[[col:green]][[img:icon_arrow_up]][[/img]] Transforms into an etheral version of himself when health is low[[/col]]	true
+unit_abilities_additional_ui_effects_localised_text_larenscheld_change_at_will	[[col:green]][[img:icon_arrow_up]][[/img]] Transforms into an etheral version of himself when activated [[/col]]	true
+unit_abilities_additional_ui_effects_localised_text_larenscheld_bombardment	PLACEHOLDER	true
+unit_abilities_additional_ui_effects_localised_text_dead_rise_liche	Summons a unit of Zombies	true
+unit_abilities_additional_ui_effects_localised_text_raise_legion	Summons a unit of Royal Guards	true
+unit_abilities_additional_ui_effects_localised_text_raise_legion_greatswords	Summons a unit of Royal Guards (Great Weapons)	true
+unit_abilities_additional_ui_effects_localised_text_dread_all_summon_minotaus	Summons a unit of Skeletal Minotaurs	true

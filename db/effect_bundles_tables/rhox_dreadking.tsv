@@ -1,0 +1,8 @@
+key	localised_description	localised_title	bundle_target	priority	ui_icon	is_global_effect	show_in_3d_space	owner_only
+#effect_bundles_tables;4;db/effect_bundles_tables/rhox_dreadking								
+rhox_dk_servants_in_undeath_elephant			faction	1	diplomacy.png	true	false	true
+rhox_dk_servants_in_undeath_minotaur			faction	1	diplomacy.png	true	false	true
+rhox_dk_servants_in_undeath_hydra			faction	1	diplomacy.png	true	false	true
+rhox_dk_servants_in_undeath_colossus			faction	1	diplomacy.png	true	false	true
+rhox_dk_nagash_defeated_reward			faction	1	res_nag_nagash.png	true	false	true
+rhox_dk_nagash_follower_reward			faction	1	res_nag_nagash.png	true	false	true

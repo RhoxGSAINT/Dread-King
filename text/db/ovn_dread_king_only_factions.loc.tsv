@@ -1,0 +1,12 @@
+key	text	tooltip
+#Loc;1;text/db/ovn_dread_king_only_factions.loc		
+factions_screen_name_ovn_tmb_dread_king	Legion of Terror	true
+factions_screen_name_when_rebels_ovn_tmb_dread_king	Nehekharan Rebels	true
+factions_screen_adjective_ovn_tmb_dread_king	Legion of Terror	true
+factions_attack_desc_ovn_tmb_dread_king	You are attacking the Legion of Terror!	true
+factions_defend_desc_ovn_tmb_dread_king	You are defending against the Legion of Terror!	true
+factions_screen_name_ovn_tmb_dread_king_battle_only	Legion of Terror	true
+factions_screen_name_when_rebels_ovn_tmb_dread_king_battle_only	Nehekharan Rebels	true
+factions_screen_adjective_ovn_tmb_dread_king_battle_only	Legion of Terror	true
+factions_attack_desc_ovn_tmb_dread_king_battle_only	You are attacking the Legion of Terror!	true
+factions_defend_desc_ovn_tmb_dread_king_battle_only	You are defending against the Legion of Terror!	true

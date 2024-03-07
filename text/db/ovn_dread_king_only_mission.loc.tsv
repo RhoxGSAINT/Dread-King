@@ -1,0 +1,9 @@
+key	text	tooltip
+#Loc;1;text/db/ovn_dread_king_only_mission.loc		
+missions_localised_title_ovn_dk_me_take_morgheim	Hand of Nagash	true
+missions_localised_description_ovn_dk_me_take_morgheim	Our agents have recovered the corpse of the Hand of Nagash from Kislev, very little remains after he was slain by the magical sword Grudgebringer. If we were to retake Morgheim and recover certain artifacts we may be able to resurrect the Hand.	true
+missions_localised_title_ovn_dk_vortex_take_morgheim	Hand of Nagash	true
+missions_localised_description_ovn_dk_vortex_take_morgheim	Our agents have recovered the corpse of the Hand of Nagash from Kislev, very little remains after he was slain by the magical sword Grudgebringer. If we were to retake Morgheim and recover certain artifacts we may be able to resurrect the Hand.	true
+effects_description_dk_hon_spawn	Hand of Nagash available in the lord recruitment pool	false
+effect_bundles_localised_description_dk_hon_spawn	We may have failed once but we will not fail again in bringing our fellow disciple back from the grave.	true
+effect_bundles_localised_title_dk_hon_spawn	Resurrection of the Hand	true

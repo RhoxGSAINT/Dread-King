@@ -1,0 +1,14 @@
+key	human_only	payload_base
+#ritual_payloads_tables;0;db/ritual_payloads_tables/ovn_dread_king_only		
+ovn_dk_cav_ephalian	false	
+ovn_dk_art_polybolos	false	
+ovn_dk_inf_spartan	false	
+ovn_dk_inf_thessos	false	
+dread_ritual_tmb_awakening	false	
+dread_ritual_tmb_legions	false	
+dread_ritual_tmb_conquest	false	
+dread_ritual_tmb_necromancy	false	
+dread_ritual_crafting_tmb_liche_priest_capacity	false	
+dread_ritual_crafting_tmb_necrotect_capacity	false	
+dread_ritual_crafting_tmb_prince_capacity	false	
+dread_ritual_crafting_tmb_army_capacity	false	

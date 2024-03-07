@@ -1,0 +1,24 @@
+key	tech_category_tab	tech_category_position	chain_category	in_encyclopedia	building_superchain	optional_tier_icon	optional_sort_order	optional_required_horde_commander	can_be_dismantled
+#building_chains_tables;9;db/building_chains_tables/ovn_dread_king_only									
+dread_pyramid_omanhan_landmark			money	false	dread_pyramid_omanhan_landmark		0		true
+dread_pyramid_nebwaneph_landmark			money	false	dread_pyramid_nebwaneph_landmark		0		true
+dread_pyramid_dread_king_landmark			money	false	dread_pyramid_dread_king_landmark		0		true
+dread_palace_myrmidens_landmark			money	false	dread_palace_myrmidens_landmark		0		true
+dread_temple_of_doom_landmark			money	false	dread_temple_of_doom_landmark		0		true
+ovn_dkl_special_settlement_pools_of_despair			money	true	wh_main_sch_main_settlement	UI\Buildings\tier_icons\tier_tmb_city.png	0		true
+dread_infantry			military	false	wh2_main_sch_military1_barracks		0		true
+dread_cavalry			military	false	wh2_main_sch_military2_stables		1		true
+dread_burial_mound			military	false	wh2_main_sch_military4_monsters		2		true
+dread_ghosts			military	false	wh2_main_sch_support2_worship		3		true
+dread_hydras			military	false	wh2_main_sch_military5		5		true
+dread_colossus			military	false	wh2_main_sch_support4_other		6		true
+dread_mortis			military	false	wh2_main_sch_support3_wizards_tmb		7		true
+dread_chariots			military	false	wh2_main_sch_military3_warmachines		0		true
+dread_citadel			military	false	wh2_main_sch_infrastructure8_major		4		true
+dread_estate			money	false	wh2_main_sch_infrastructure6_other		14		true
+dread_growth			money	false	wh2_main_sch_infrastructure1_farm		11		true
+dread_income			money	false	wh2_main_sch_infrastructure2_industry		12		true
+dread_public_order			money	false	wh2_main_sch_infrastructure3_order		10		true
+dread_special_nagashizzar_dread_king			money	false	wh2_dlc14_special_nagashizzar		0		true
+dread_special_the_great_desert_dread_king			money	false	wh3_main_special_the_great_desert		0		true
+dread_special_galbaraz_mourkain_tmb			military	false	wh2_main_sch_special_galbaraz_mourkain		0		true

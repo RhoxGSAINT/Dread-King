@@ -1,0 +1,85 @@
+key	campaign_key	faction_key	indent	technology_key	technology_node_set	tier	research_points_required	cost_per_round	food_cost	optional_ui_group	resource_cost	required_parents	pixel_offset_x	pixel_offset_y
+#technology_nodes_tables;0;db/technology_nodes_tables/!!!ovn_dread_king														
+dread_king_tech_1_legion		ovn_tmb_dread_king	15	dread_king_tech_1_legion	tmb_mil	8	1400	0	0			0	0	0
+dread_king_tech_2_legion		ovn_tmb_dread_king	17	dread_king_tech_2_legion	tmb_mil	8	1400	0	0			1	0	0
+dread_king_tech_3_legion		ovn_tmb_dread_king	19	dread_king_tech_3_legion	tmb_mil	8	1400	0	0			1	0	0
+dread_king_tech_4_legion		ovn_tmb_dread_king	20	dread_king_tech_4_legion	tmb_mil	8	1400	0	0			1	0	0
+dread_king_tech_5_legion		ovn_tmb_dread_king	21	dread_king_tech_5_legion	tmb_mil	8	1400	0	0			1	0	0
+dread_king_tech_6_legion		ovn_tmb_dread_king	23	dread_king_tech_6_legion	tmb_mil	8	1400	0	0			1	0	0
+dread_king_tech_7		ovn_tmb_dread_king	16	dread_king_tech_7	tmb_mil	8	75	0	0			1	0	0
+dread_king_tech_8		ovn_tmb_dread_king	16	dread_king_tech_8	tmb_mil	7	75	0	0			1	0	0
+dread_king_tech_9		ovn_tmb_dread_king	16	dread_king_tech_9	tmb_mil	9	75	0	0			1	0	0
+dread_king_tech_10		ovn_tmb_dread_king	17	dread_king_tech_10	tmb_mil	7	75	0	0			1	0	0
+dread_king_tech_11		ovn_tmb_dread_king	17	dread_king_tech_11	tmb_mil	6	75	0	0			1	0	0
+dread_king_tech_12		ovn_tmb_dread_king	17	dread_king_tech_12	tmb_mil	9	75	0	0			1	0	0
+dread_king_tech_13		ovn_tmb_dread_king	17	dread_king_tech_13	tmb_mil	10	75	0	0			1	0	0
+dread_king_tech_14		ovn_tmb_dread_king	18	dread_king_tech_14	tmb_mil	8	100	0	0			1	0	0
+dread_king_tech_15		ovn_tmb_dread_king	18	dread_king_tech_15	tmb_mil	7	1	1000	0			1	0	0
+dread_king_tech_16		ovn_tmb_dread_king	18	dread_king_tech_16	tmb_mil	6	100	0	0			1	0	0
+dread_king_tech_17		ovn_tmb_dread_king	18	dread_king_tech_17	tmb_mil	5	200	0	0			1	0	0
+dread_king_tech_18		ovn_tmb_dread_king	18	dread_king_tech_18	tmb_mil	9	1	0	0		wh2_dlc09_tmb_tech_agent_unlock	1	0	0
+dread_king_tech_19		ovn_tmb_dread_king	18	dread_king_tech_19	tmb_mil	10	100	0	0			1	0	0
+dread_king_tech_20		ovn_tmb_dread_king	18	dread_king_tech_20	tmb_mil	11	200	0	0			1	0	0
+dread_king_tech_21		ovn_tmb_dread_king	19	dread_king_tech_21	tmb_mil	7	100	0	0			1	0	0
+dread_king_tech_22		ovn_tmb_dread_king	19	dread_king_tech_22	tmb_mil	6	100	0	0			1	0	0
+dread_king_tech_23		ovn_tmb_dread_king	19	dread_king_tech_23	tmb_mil	5	100	0	0			1	0	0
+dread_king_tech_24		ovn_tmb_dread_king	19	dread_king_tech_24	tmb_mil	4	200	0	0			1	0	0
+dread_king_tech_25		ovn_tmb_dread_king	19	dread_king_tech_25	tmb_mil	9	100	0	0			1	0	0
+dread_king_tech_26		ovn_tmb_dread_king	19	dread_king_tech_26	tmb_mil	10	100	0	0			1	0	0
+dread_king_tech_27		ovn_tmb_dread_king	19	dread_king_tech_27	tmb_mil	11	100	0	0			1	0	0
+dread_king_tech_28		ovn_tmb_dread_king	19	dread_king_tech_28	tmb_mil	12	100	0	0			1	0	0
+dread_king_tech_29		ovn_tmb_dread_king	20	dread_king_tech_29	tmb_mil	7	1	1000	0			1	0	0
+dread_king_tech_30		ovn_tmb_dread_king	20	dread_king_tech_30	tmb_mil	6	1	1000	0			1	0	0
+dread_king_tech_31		ovn_tmb_dread_king	20	dread_king_tech_31	tmb_mil	5	1	1500	0			1	0	0
+dread_king_tech_32		ovn_tmb_dread_king	20	dread_king_tech_32	tmb_mil	4	1	1500	0			1	0	0
+dread_king_tech_33		ovn_tmb_dread_king	20	dread_king_tech_33	tmb_mil	3	1	2000	0			1	0	0
+dread_king_tech_34		ovn_tmb_dread_king	20	dread_king_tech_34	tmb_mil	9	1	0	0		wh2_dlc09_tmb_tech_agent_unlock	1	0	0
+dread_king_tech_35		ovn_tmb_dread_king	20	dread_king_tech_35	tmb_mil	10	1	0	0		wh2_dlc09_tmb_tech_agent_unlock	1	0	0
+dread_king_tech_36		ovn_tmb_dread_king	20	dread_king_tech_36	tmb_mil	11	1	0	0		wh2_dlc09_tmb_tech_follower_unlock	1	0	0
+dread_king_tech_37		ovn_tmb_dread_king	20	dread_king_tech_37	tmb_mil	12	1	0	0		wh2_dlc09_tmb_tech_follower_unlock	1	0	0
+dread_king_tech_38		ovn_tmb_dread_king	20	dread_king_tech_38	tmb_mil	13	1	0	0		wh2_dlc09_tmb_tech_tomb_king_unlock	1	0	0
+dread_king_tech_39		ovn_tmb_dread_king	21	dread_king_tech_39	tmb_mil	7	100	0	0			1	0	0
+dread_king_tech_40		ovn_tmb_dread_king	21	dread_king_tech_40	tmb_mil	6	100	0	0			1	0	0
+dread_king_tech_41		ovn_tmb_dread_king	21	dread_king_tech_41	tmb_mil	5	100	0	0			1	0	0
+dread_king_tech_42		ovn_tmb_dread_king	21	dread_king_tech_42	tmb_mil	4	100	0	0			1	0	0
+dread_king_tech_43		ovn_tmb_dread_king	21	dread_king_tech_43	tmb_mil	3	100	0	0			1	0	0
+dread_king_tech_44		ovn_tmb_dread_king	21	dread_king_tech_44	tmb_mil	2	200	0	0			1	0	0
+dread_king_tech_45		ovn_tmb_dread_king	21	dread_king_tech_45	tmb_mil	9	100	0	0			1	0	0
+dread_king_tech_46		ovn_tmb_dread_king	21	dread_king_tech_46	tmb_mil	10	100	0	0			1	0	0
+dread_king_tech_47		ovn_tmb_dread_king	21	dread_king_tech_47	tmb_mil	11	100	0	0			1	0	0
+dread_king_tech_48		ovn_tmb_dread_king	21	dread_king_tech_48	tmb_mil	12	100	0	0			1	0	0
+dread_king_tech_49		ovn_tmb_dread_king	21	dread_king_tech_49	tmb_mil	13	100	0	0			1	0	0
+dread_king_tech_50		ovn_tmb_dread_king	21	dread_king_tech_50	tmb_mil	14	200	0	0			1	0	0
+dread_king_tech_51		ovn_tmb_dread_king	22	dread_king_tech_51	tmb_mil	8	1	1500	0		wh2_dlc09_tmb_tech_agent_unlock	1	0	0
+dread_king_tech_52		ovn_tmb_dread_king	22	dread_king_tech_52	tmb_mil	7	100	0	0			1	0	0
+dread_king_tech_53		ovn_tmb_dread_king	22	dread_king_tech_53	tmb_mil	6	100	0	0			1	0	0
+dread_king_tech_54		ovn_tmb_dread_king	22	dread_king_tech_54	tmb_mil	5	1	1000	0			1	0	0
+dread_king_tech_55		ovn_tmb_dread_king	22	dread_king_tech_55	tmb_mil	4	1	1500	0			1	0	0
+dread_king_tech_56		ovn_tmb_dread_king	22	dread_king_tech_56	tmb_mil	3	1	1500	0			1	0	0
+dread_king_tech_57		ovn_tmb_dread_king	22	dread_king_tech_57	tmb_mil	2	1	2000	0			1	0	0
+dread_king_tech_58		ovn_tmb_dread_king	22	dread_king_tech_58	tmb_mil	1	200	0	0			1	0	0
+dread_king_tech_59		ovn_tmb_dread_king	22	dread_king_tech_59	tmb_mil	9	100	0	0			1	0	0
+dread_king_tech_60		ovn_tmb_dread_king	22	dread_king_tech_60	tmb_mil	10	100	0	0			1	0	0
+dread_king_tech_61		ovn_tmb_dread_king	22	dread_king_tech_61	tmb_mil	11	1	0	0		wh2_dlc09_tmb_tech_agent_unlock	1	0	0
+dread_king_tech_62		ovn_tmb_dread_king	22	dread_king_tech_62	tmb_mil	12	1	0	0		wh2_dlc09_tmb_tech_agent_unlock	1	0	0
+dread_king_tech_63		ovn_tmb_dread_king	22	dread_king_tech_63	tmb_mil	13	1	0	0		wh2_dlc09_tmb_tech_follower_unlock	1	0	0
+dread_king_tech_64		ovn_tmb_dread_king	22	dread_king_tech_64	tmb_mil	14	1	0	0		wh2_dlc09_tmb_tech_tomb_king_unlock	1	0	0
+dread_king_tech_65		ovn_tmb_dread_king	22	dread_king_tech_65	tmb_mil	15	200	0	0			1	0	0
+dread_king_tech_66		ovn_tmb_dread_king	23	dread_king_tech_66	tmb_mil	7	100	0	0			1	0	0
+dread_king_tech_67		ovn_tmb_dread_king	23	dread_king_tech_67	tmb_mil	6	100	0	0			1	0	0
+dread_king_tech_68		ovn_tmb_dread_king	23	dread_king_tech_68	tmb_mil	5	100	0	0			1	0	0
+dread_king_tech_69		ovn_tmb_dread_king	23	dread_king_tech_69	tmb_mil	4	100	0	0			1	0	0
+dread_king_tech_70		ovn_tmb_dread_king	23	dread_king_tech_70	tmb_mil	3	100	0	0			1	0	0
+dread_king_tech_71		ovn_tmb_dread_king	23	dread_king_tech_71	tmb_mil	2	100	0	0			1	0	0
+dread_king_tech_72		ovn_tmb_dread_king	23	dread_king_tech_72	tmb_mil	1	100	0	0			1	0	0
+dread_king_tech_73		ovn_tmb_dread_king	23	dread_king_tech_73	tmb_mil	0	200	0	0			1	0	0
+dread_king_tech_74		ovn_tmb_dread_king	23	dread_king_tech_74	tmb_mil	9	100	0	0			1	0	0
+dread_king_tech_75		ovn_tmb_dread_king	23	dread_king_tech_75	tmb_mil	10	100	0	0			1	0	0
+dread_king_tech_76		ovn_tmb_dread_king	23	dread_king_tech_76	tmb_mil	11	100	0	0			1	0	0
+dread_king_tech_77		ovn_tmb_dread_king	23	dread_king_tech_77	tmb_mil	12	100	0	0			1	0	0
+dread_king_tech_78		ovn_tmb_dread_king	23	dread_king_tech_78	tmb_mil	13	100	0	0			1	0	0
+dread_king_tech_79		ovn_tmb_dread_king	23	dread_king_tech_79	tmb_mil	14	100	0	0			1	0	0
+dread_king_tech_80		ovn_tmb_dread_king	23	dread_king_tech_80	tmb_mil	15	100	0	0			1	0	0
+dread_king_tech_81		ovn_tmb_dread_king	23	dread_king_tech_81	tmb_mil	16	200	0	0			1	0	0
+dread_dummy		ovn_tmb_dread_king	6	dread_dummy	tmb_mil	0	999999999	999999999	0			1	0	0
+dread_king_tech_hand		ovn_tmb_dread_king	24	dread_king_tech_hand	tmb_mil	8	1	2000	0		wh2_dlc09_tmb_tech_tomb_king_unlock	1	0	0

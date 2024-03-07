@@ -1,0 +1,19 @@
+<model version="1">
+	<geometry>variantmeshes\wh_variantmodels\hu1\vmp\vmp_skeleton_warriors\head\dread_skeleton_ror_helmet_05_green.rigid_model_v2</geometry>
+		<materials>
+			<material lod_index="0" part_index="0">variantmeshes\wh_variantmodels\hu1\vmp\vmp_skeleton_warriors\head\materials\vmp_skeleton_warriors_01_head_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="1">variantmeshes\wh_variantmodels\hu1\vmp\vmp_skeleton_warriors\head\materials\ephalian_ror_crest_02_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="2">variantmeshes\wh_variantmodels\hu1\vmp\vmp_skeleton_warriors\head\materials\ephalian_ror_crest_02_1_weighted4_alpha_on.xml.material</material>
+
+			<material lod_index="1" part_index="0">variantmeshes\wh_variantmodels\hu1\vmp\vmp_skeleton_warriors\head\materials\vmp_skeleton_warriors_01_head_weighted4_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="1">variantmeshes\wh_variantmodels\hu1\vmp\vmp_skeleton_warriors\head\materials\ephalian_ror_crest_02_weighted4_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="2">variantmeshes\wh_variantmodels\hu1\vmp\vmp_skeleton_warriors\head\materials\ephalian_ror_crest_02_1_weighted4_alpha_on.xml.material</material>
+
+			<material lod_index="2" part_index="0">variantmeshes\wh_variantmodels\hu1\vmp\vmp_skeleton_warriors\head\materials\vmp_skeleton_warriors_01_head_weighted2_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="1">variantmeshes\wh_variantmodels\hu1\vmp\vmp_skeleton_warriors\head\materials\ephalian_ror_crest_02_weighted2_alpha_off.xml.material</material>
+
+			<material lod_index="3" part_index="0">variantmeshes\wh_variantmodels\hu1\vmp\vmp_skeleton_warriors\head\materials\vmp_skeleton_warriors_01_head_weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="1">variantmeshes\wh_variantmodels\hu1\vmp\vmp_skeleton_warriors\head\materials\ephalian_ror_crest_02_weighted2_alpha_off.xml.material</material>
+
+	</materials>
+</model>

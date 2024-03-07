@@ -1,0 +1,4 @@
+ability	default_amount	max_amount	inverse	intensity_source	intensity_type
+#special_ability_intensity_settings_tables;2;db/special_ability_intensity_settings_tables/!!!ovn_dread_king_tech					
+ovn_preserved_ferocity	0.0000	200.0000	false	kills_made	linear_multiplier
+ovn_necromantic_gatherers	0.0000	500.0000	false	nearby_all_deaths	linear_multiplier

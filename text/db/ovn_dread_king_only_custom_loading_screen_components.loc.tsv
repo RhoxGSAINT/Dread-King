@@ -1,0 +1,4 @@
+key	text	tooltip
+#Loc;1;text/db/ovn_dread_king_only_custom_loading_screen_components.loc		
+custom_loading_screen_components_localised_text_ovn_tmb_dread_kingbackground		false
+custom_loading_screen_components_localised_text_ovn_tmb_dread_kingcustom_quote	{{tr:ie_loading_screen_theatre_nehekhara}}	false

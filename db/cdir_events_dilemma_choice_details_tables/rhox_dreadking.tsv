@@ -1,0 +1,12 @@
+choice_key	dilemma_key	associated_audio_trigger
+#cdir_events_dilemma_choice_details_tables;3;db/cdir_events_dilemma_choice_details_tables/rhox_dreadking		
+FIRST	rhox_dk_servants_in_undeath_elephant	
+FIRST	rhox_dk_servants_in_undeath_minotaur	
+FIRST	rhox_dk_servants_in_undeath_hydra	
+FIRST	rhox_dk_servants_in_undeath_colossus	
+SECOND	rhox_dk_servants_in_undeath_elephant	
+SECOND	rhox_dk_servants_in_undeath_minotaur	
+SECOND	rhox_dk_servants_in_undeath_hydra	
+SECOND	rhox_dk_servants_in_undeath_colossus	
+FIRST	rhox_dk_nagash_dilemma	
+SECOND	rhox_dk_nagash_dilemma	

@@ -1,0 +1,9 @@
+bonus_value_id	effect	missile_weapon_junction
+#effect_bonus_value_missile_weapon_junctions_tables;0;db/effect_bonus_value_missile_weapon_junctions_tables/!!!ovn_dread_king_tech		
+enable	ovn_dread_archer_poison	7771110
+enable	ovn_dread_hunter_javelin	7771111
+enable	ovn_royal_hunter_javelin	7771112
+enable	ovn_horse_archer_arrows_poison	7771113
+enable	ovn_chariot_explosive_arrows	7771114
+enable	ovn_splitting_skulls	7771115
+enable	ovn_monster_slaying_bolts	7771116

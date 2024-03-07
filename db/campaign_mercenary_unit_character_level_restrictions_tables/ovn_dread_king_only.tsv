@@ -1,0 +1,8 @@
+unit	faction_override	character_level
+#campaign_mercenary_unit_character_level_restrictions_tables;1;db/campaign_mercenary_unit_character_level_restrictions_tables/ovn_dread_king_only		
+ovn_dk_inf_brigands_ror		10
+ovn_dk_inf_mummies_ror		13
+ovn_dk_inf_wights_ror		16
+ovn_dk_inf_catacomb_guardians_ror		20
+ovn_dk_cav_black_grail_knights_ror		23
+ovn_dk_mon_skeleton_elephant_ror		30

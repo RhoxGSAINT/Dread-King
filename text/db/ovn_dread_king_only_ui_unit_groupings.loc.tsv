@@ -1,0 +1,8 @@
+key	text	tooltip
+#Loc;1;text/db/ovn_dread_king_only_ui_unit_groupings.loc		
+ui_unit_groupings_onscreen_ovn_elephant	Elephant	true
+ui_unit_groupings_tooltip_ovn_elephant		true
+ui_unit_groupings_onscreen_black_grail_knights	Shock Cavalry	true
+ui_unit_groupings_tooltip_black_grail_knights		true
+ui_unit_groupings_onscreen_infantry_pike	Pike Infantry	true
+ui_unit_groupings_tooltip_infantry_pike	Long pikes usually prevent the use of shields, but compensate with both offensive and defensive potential.	true

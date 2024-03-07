@@ -1,0 +1,6 @@
+ritual	ritual_check_type	logical_operator
+#cai_ritual_ritual_check_type_junctions_tables;1;db/cai_ritual_ritual_check_type_junctions_tables/ovn_dread_king_only		
+dread_ritual_tmb_awakening	check_is_not_needed	and
+dread_ritual_tmb_legions	check_is_not_needed	and
+dread_ritual_tmb_conquest	check_is_not_needed	and
+dread_ritual_tmb_necromancy	check_is_not_needed	and

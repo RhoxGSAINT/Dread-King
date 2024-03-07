@@ -1,0 +1,6 @@
+<VARIANT_MESH>
+	<SLOT name="helmet" >
+		<VARIANT_MESH_REFERENCE definition="VariantMeshes/VariantMeshDefinitions/dread_ephalian_ror_thracian_helmets_1.VariantMeshDefinition" />
+		<VARIANT_MESH_REFERENCE definition="VariantMeshes/VariantMeshDefinitions/dread_ephalian_ror_thracian_helmets_2.VariantMeshDefinition" />
+	</SLOT>
+</VARIANT_MESH>

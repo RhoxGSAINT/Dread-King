@@ -1,0 +1,38 @@
+key	text	tooltip
+#Loc;1;text/db/ovn_dread_king_only_loadingscreenquotes.loc		
+loading_screen_quotes_title_ovn_dk_dread_king	Dread King	false
+loading_screen_quotes_bulletpoints_ovn_dk_dread_king		false
+loading_screen_quotes_description_ovn_dk_dread_king	The Dread King was a Dark Lord of Nagash, one of the most powerful followers of the Great Necromancer. Not much is known about his past before serving Nagash, originating somehere in the southern Old World, he conquered the fertile lands around the Mortis Delta in the name of his master, and was rewarded with an aura of dread and an undead Dragon. Eventually he was killed and buried in a pyramid in Nehekhara. Centuries later, he returned to this world, causing the dead to rise from their graves across the Old World.	false
+loading_screen_quotes_title_ovn_dk_hand	The Hand of Nagash	false
+loading_screen_quotes_bulletpoints_ovn_dk_hand		false
+loading_screen_quotes_description_ovn_dk_hand	His name long lost to time, the being known as the Hand of Nagash was once a mortal necromancer, eventually rising up to become one of the Dark Lords, the most trusted servants of the Grand Necromancer, Nagash. Such was the devastaton and ruin he caused in the name of his master that his victims eventually came to dread him as the 'Hand of Nagash', and he's had no other name ever since. Long thought defeated and entrapped in an ice tomb in the Troll Country, the Dread King's Hosts recently found and resurrected him, and once again, he rides on his chariot across the Old World, to cause more destruction and evil in the name of Nagash.	false
+loading_screen_quotes_title_ovn_dk_larenscheld	Gunther Larenscheld	false
+loading_screen_quotes_bulletpoints_ovn_dk_larenscheld		false
+loading_screen_quotes_description_ovn_dk_larenscheld	Gunther Larenscheld is a former wizard of the Celestial College at Altdorf. He discovered the Grimoire Necris, an ancient tome written by the necromancer Van Damneg, and became obsessed with its power. His experiments in secret led him to develop his power and progress to reincarnate the life force within a human corpse. Larenscheld's obsession led him to break into the sealed vault within the Temple of Sigmar in Altdorf, attempting to steal the books of Nagash and the Liber Mortis. He now seeks the resting place of the Dread King in his quest for eternal life and unlimited power, believing the Dark Lord of Nagash will grant him perfect unlife should Gunther pledge to his service.	false
+loading_screen_quotes_title_ovn_dk_hoplite	Skeleton Hoplites	false
+loading_screen_quotes_bulletpoints_ovn_dk_hoplite	[[img:ui/skins/default/modifier_icon_shield.png]][[/img]]Shielded||[[img:ui/skins/default/modifier_icon_bonus_vs_large.png]][[/img]]Anti-large||[[img:ui/battle ui/ability_icons/charge_defense_vs_large.png]][[/img]]Charge defence against large foes	false
+loading_screen_quotes_description_ovn_dk_hoplite	Undead soldiers that make up the majority of the hosts of the Legion of Terror. These soldiers fight in a similar manner to an ancient civilization of the Black Peninsula. They are equipped with large round shields and spears, dressed in bronze armor. In battle, they form tight formations that are difficult to overcome and march forward unflinchingly, tirelessly thrusting their spears into their foes.	false
+loading_screen_quotes_title_ovn_dk_elephant	Skeletal Elephant	false
+loading_screen_quotes_bulletpoints_ovn_dk_elephant	[[img:ui/skins/default/icon_stat_armour.png]][[/img]]Armoured||[[img:ui/skins/default/modifier_icon_armour_piercing.png]][[/img]]Armour-piercing||[[img:ui/skins/default/modifier_icon_bonus_vs_infantry.png]][[/img]]Anti-infantry||[[img:ui/battle ui/ability_icons/causes_terror.png]][[/img]]Causes Terror	false
+loading_screen_quotes_description_ovn_dk_elephant	Exotic creatures hailing from the lush bushlands that lie between Araby and the jungles of the Southlands. The ferocious and dangerous animals have a convenient habit of instinctively directing themselves to specific places to die when they reach a certain age. These elephant graveyards are a treasure trove for any Necromancer, who can find countless corpses there for reanimation. The henchmen of the Dread King control many of these places, securing a steady supply of war beasts.	false
+loading_screen_quotes_title_ovn_campaign_dk	Legion of Terror	false
+loading_screen_quotes_bulletpoints_ovn_campaign_dk		false
+loading_screen_quotes_description_ovn_campaign_dk	The undead hosts of the Dread King, Dark Lord of Nagash, the Legion of Terror is an oddity amongst the Great Necromancer's servants. Undead soldiers from a long-lost civilization somewhere in the southern Old World, the archaic style of their armor and fighting styles brings to mind depictions of ancient soldiers in the ruins dotting the city-states of Luccini and Myrmidens. Their army specializes in heavy phalanxes of pikes, accompanied by skirmishers and powerful shock cavalry.	false
+loading_screen_quotes_title_ovn_dk_lore_1		false
+loading_screen_quotes_bulletpoints_ovn_dk_lore_1		false
+loading_screen_quotes_description_ovn_dk_lore_1	"Your puny forces are no match for my army of darkness."\\n\\n- The Dread King, Dark Lord of Nagash	false
+loading_screen_quotes_title_ovn_dk_lore_2		false
+loading_screen_quotes_bulletpoints_ovn_dk_lore_2		false
+loading_screen_quotes_description_ovn_dk_lore_2	"I live to destroy once more!"\\n\\n- The Hand of Nagash, Servant of the Great Necromancer	false
+loading_screen_quotes_title_ovn_dk_lore_3		false
+loading_screen_quotes_bulletpoints_ovn_dk_lore_3		false
+loading_screen_quotes_description_ovn_dk_lore_3	"Your souls will join our Dark Crusade!"\\n\\n- Warcry of the Black Grail Knights	false
+loading_screen_quotes_title_ovn_dk_lore_4		false
+loading_screen_quotes_bulletpoints_ovn_dk_lore_4		false
+loading_screen_quotes_description_ovn_dk_lore_4	"..and it will be a time of great strife, when the moons are united in darkness and the dead shall walk the earth once more..."\\n\\n- The Prophecy of the Dark Omen, from the writings of High Lord Vorster of the Celestial College	false
+loading_screen_quotes_title_ovn_dk_lore_5		false
+loading_screen_quotes_bulletpoints_ovn_dk_lore_5		false
+loading_screen_quotes_description_ovn_dk_lore_5	The origin of the Dread King and his undead hosts is quite unclear. Scholars who have studied the archaic armaments they wield in battle suggest a similarity to the styles of warriors depicted in frescoes found in ancient ruins dotting the southern Old World, especially in the cities of Luccini and Myrmidens.	false
+loading_screen_quotes_title_ovn_dk_lore_6		false
+loading_screen_quotes_bulletpoints_ovn_dk_lore_6		false
+loading_screen_quotes_description_ovn_dk_lore_6	The Dread King was once a mortal ruler hailing from the southern Old World, somewhere between the Black Peninsula and Tilea. He set off to conquer the desertic lands of Nehekhara at the head of a great host of disciplined warriors, and it was there that he found Nagash. The Great Necromancer made him an offer: swear loyalty to him, and the King would become the greatest conqueror the world has ever seen. The King took the bargain, being infused with the power of unlife, an aura of absolute dread, and a powerful zombie dragon as his personal mount. For countless years, he conquered in the name of his master until he was put down. Now, he has risen again, and nothing will stop the Dread King and his Army of Darkness.	false

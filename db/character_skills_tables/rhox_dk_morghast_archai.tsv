@@ -1,0 +1,3 @@
+key	image_path	localised_description	localised_name	unlocked_at_rank	is_background_skill	is_female_only_background_skill	is_male_only_background_skill	background_weighting	influence_cost
+#character_skills_tables;5;db/character_skills_tables/rhox_dk_morghast_archai									
+ovn_dk_skill_archai_innate	supreme_lord.png			0	true	false	false	999.0000	0

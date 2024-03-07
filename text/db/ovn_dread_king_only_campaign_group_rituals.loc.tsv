@@ -1,0 +1,10 @@
+key	text	tooltip
+#Loc;1;text/db/ovn_dread_king_only_campaign_group_rituals.loc		
+campaign_group_rituals_unlock_text_ovn_dread_king_faction_groupdread_ritual_tmb_awakening	[[col:red]]This rite will unlock after constructing the Haunted Citadel building.[[/col]]	false
+campaign_group_rituals_unlock_text_ovn_dread_king_faction_groupdread_ritual_tmb_legions	[[col:red]]This rite will unlock after owning 3 settlements.[[/col]]	false
+campaign_group_rituals_unlock_text_ovn_dread_king_faction_groupdread_ritual_tmb_conquest	[[col:red]]This rite will unlock after owning 20 units.[[/col]]	false
+campaign_group_rituals_unlock_text_ovn_dread_king_faction_groupdread_ritual_tmb_necromancy	[[col:red]]This rite will unlock after performing an action with a Hellwraith [[img:icon_hero]][[/img]]Hero.[[/col]]	false
+campaign_group_rituals_unlock_text_ovn_dread_king_faction_groupdread_ritual_crafting_tmb_army_capacity		false
+campaign_group_rituals_unlock_text_ovn_dread_king_faction_groupdread_ritual_crafting_tmb_liche_priest_capacity		false
+campaign_group_rituals_unlock_text_ovn_dread_king_faction_groupdread_ritual_crafting_tmb_necrotect_capacity		false
+campaign_group_rituals_unlock_text_ovn_dread_king_faction_groupdread_ritual_crafting_tmb_prince_capacity		false

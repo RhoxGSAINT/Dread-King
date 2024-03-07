@@ -1,0 +1,71 @@
+faction	general_unit	unit	siege_unit_attacker	siege_unit_defender	general_portrait	general_uniform	set_piece_character	campaign_exclusive	armory_item_set	supports_upgrades
+#units_custom_battle_permissions_tables;11;db/units_custom_battle_permissions_tables/ovn_dread_king_only										
+ovn_tmb_dread_king_battle_only	true	Dread_King	true	true	ui/portraits/portholes/no_culture/Dread_King.png	Dread_King	Dread_King	false		false
+ovn_tmb_dread_king_battle_only	true	Dread_King_barded_steed	true	true	ui/portraits/portholes/no_culture/Dread_King.png	Dread_King	Dread_King	false		false
+ovn_tmb_dread_king_battle_only	true	Dread_King_pegasus	true	true	ui/portraits/portholes/no_culture/Dread_King.png	Dread_King	Dread_King	false		false
+ovn_tmb_dread_king_battle_only	true	Dread_King_zombie_dragon	true	true	ui/portraits/portholes/no_culture/Dread_King.png	Dread_King	Dread_King	false		false
+ovn_tmb_dread_king_battle_only	true	elo_hand_of_nagash	true	true	ui/portraits/portholes/no_culture/elo_hand_of_nagash.png	elo_hand_of_nagash	elo_hand_of_nagash	false		false
+ovn_tmb_dread_king_battle_only	true	elo_hand_of_nagash_barded_steed	true	true	ui/portraits/portholes/no_culture/elo_hand_of_nagash.png	elo_hand_of_nagash	elo_hand_of_nagash	false		false
+ovn_tmb_dread_king_battle_only	true	elo_hand_of_nagash_chariot	true	true	ui/portraits/portholes/no_culture/elo_hand_of_nagash.png	elo_hand_of_nagash	elo_hand_of_nagash	false		false
+ovn_tmb_dread_king_battle_only	false	elo_dread_larenscheld	true	true	ui/portraits/portholes/no_culture/elo_larenscheld.png	elo_dread_larenscheld	wh_main_vmp_cha_necromancer_0	false		false
+ovn_tmb_dread_king_battle_only	true	elo_liche_general_vampires	true	true	ui/portraits/portholes/no_culture/elo_liche_general_04.png	dread_liche_strategos_04	wh_main_vmp_cha_vampire_0	false		false
+ovn_tmb_dread_king_battle_only	true	elo_liche_general_vampires_barded_steed	true	true	ui/portraits/portholes/no_culture/elo_liche_general_04.png	dread_liche_strategos_04	wh_main_vmp_cha_vampire_0	false		false
+ovn_tmb_dread_king_battle_only	true	elo_liche_general_vampires_chariot	true	true	ui/portraits/portholes/no_culture/elo_liche_general_04.png	dread_liche_strategos_04	wh_main_vmp_cha_vampire_0	false		false
+ovn_tmb_dread_king_battle_only	true	elo_liche_general_vampires_pegasus	true	true	ui/portraits/portholes/no_culture/elo_liche_general_04.png	dread_liche_strategos_04	wh_main_vmp_cha_vampire_0	false		false
+ovn_tmb_dread_king_battle_only	true	elo_liche_general_vampires_elephant	true	true	ui/portraits/portholes/no_culture/elo_liche_general_04.png	dread_liche_strategos_04	wh_main_vmp_cha_vampire_0	false		false
+ovn_tmb_dread_king_battle_only	true	elo_liche_general_death	true	true	ui/portraits/portholes/no_culture/elo_liche_general_01.png	dread_liche_strategos_01	wh_main_vmp_cha_vampire_0	false		false
+ovn_tmb_dread_king_battle_only	true	elo_liche_general_death_barded_steed	true	true	ui/portraits/portholes/no_culture/elo_liche_general_01.png	dread_liche_strategos_01	wh_main_vmp_cha_vampire_0	false		false
+ovn_tmb_dread_king_battle_only	true	elo_liche_general_death_chariot	true	true	ui/portraits/portholes/no_culture/elo_liche_general_01.png	dread_liche_strategos_01	wh_main_vmp_cha_vampire_0	false		false
+ovn_tmb_dread_king_battle_only	true	elo_liche_general_death_pegasus	true	true	ui/portraits/portholes/no_culture/elo_liche_general_01.png	dread_liche_strategos_01	wh_main_vmp_cha_vampire_0	false		false
+ovn_tmb_dread_king_battle_only	true	elo_liche_general_death_elephant	true	true	ui/portraits/portholes/no_culture/elo_liche_general_01.png	dread_liche_strategos_01	wh_main_vmp_cha_vampire_0	false		false
+ovn_tmb_dread_king_battle_only	false	elo_dread_centurion	true	true	ui/portraits/portholes/no_culture/dread_hetairoi_01.png	dread_hetairoi_01	wh2_dlc09_tmb_cha_tomb_prince_0	false		false
+ovn_tmb_dread_king_battle_only	false	elo_dread_centurion_barded_horse	true	true	ui/portraits/portholes/no_culture/dread_hetairoi_01.png	dread_hetairoi_01	wh2_dlc09_tmb_cha_tomb_prince_0	false		false
+ovn_tmb_dread_king_battle_only	false	elo_dread_centurion_chariot	true	true	ui/portraits/portholes/no_culture/dread_hetairoi_01.png	dread_hetairoi_01	wh2_dlc09_tmb_cha_tomb_prince_0	false		false
+ovn_tmb_dread_king_battle_only	false	elo_dread_centurion_pegasus	true	true	ui/portraits/portholes/no_culture/dread_hetairoi_01.png	dread_hetairoi_01	wh2_dlc09_tmb_cha_tomb_prince_0	false		false
+ovn_tmb_dread_king_battle_only	false	dread_corrupted_priest_death	true	true	ui/portraits/portholes/no_culture/dread_corrupted_priest_02.png	dread_corrupted_priest_02	wh2_dlc09_tmb_cha_liche_priest_0	false		false
+ovn_tmb_dread_king_battle_only	false	dread_corrupted_priest_death_barded_steed	true	true	ui/portraits/portholes/no_culture/dread_corrupted_priest_02.png	dread_corrupted_priest_02	wh2_dlc09_tmb_cha_liche_priest_0	false		false
+ovn_tmb_dread_king_battle_only	false	dread_corrupted_priest_shadow	true	true	ui/portraits/portholes/no_culture/dread_corrupted_priest_01.png	dread_corrupted_priest_01	wh2_dlc09_tmb_cha_liche_priest_0	false		false
+ovn_tmb_dread_king_battle_only	false	dread_corrupted_priest_shadow_barded_steed	true	true	ui/portraits/portholes/no_culture/dread_corrupted_priest_01.png	dread_corrupted_priest_01	wh2_dlc09_tmb_cha_liche_priest_0	false		false
+ovn_tmb_dread_king_battle_only	false	dread_corrupted_priest_vampires	true	true	ui/portraits/portholes/no_culture/dread_corrupted_priest_03.png	dread_corrupted_priest_03	wh2_dlc09_tmb_cha_liche_priest_0	false		false
+ovn_tmb_dread_king_battle_only	false	dread_corrupted_priest_vampires_barded_steed	true	true	ui/portraits/portholes/no_culture/dread_corrupted_priest_03.png	dread_corrupted_priest_03	wh2_dlc09_tmb_cha_liche_priest_0	false		false
+ovn_tmb_dread_king_battle_only	false	dread_hellwraith	true	true	ui/portraits/portholes/no_culture/dread_hellwraith_01.png	dread_hellwraith_01	wh_main_vmp_cha_banshee	false		false
+ovn_tmb_dread_king_battle_only	true	dread_cha_possessed_hero_shadows	true	true	ui/portraits/portholes/no_culture/dread_possessed_hero_01.png	dread_possessed_hero_01	wh_main_vmp_cha_vampire_0	false		false
+ovn_tmb_dread_king_battle_only	true	dread_cha_possessed_hero_beasts	true	true	ui/portraits/portholes/no_culture/dread_possessed_hero_02.png	dread_possessed_hero_02	wh_main_vmp_cha_vampire_0	false		false
+ovn_tmb_dread_king_battle_only	false	wh2_dlc09_tmb_inf_skeleton_warriors_0	true	true				false		false
+ovn_tmb_dread_king_battle_only	false	wh2_dlc09_tmb_inf_skeleton_spearmen_0	true	true				false		false
+ovn_tmb_dread_king_battle_only	false	wh2_dlc09_tmb_inf_crypt_ghouls	true	true				false		false
+ovn_tmb_dread_king_battle_only	false	ovn_dk_inf_skeleton_hoplites	true	true				false		false
+ovn_tmb_dread_king_battle_only	false	ovn_dk_inf_skeleton_pikemen	true	true				false		false
+ovn_tmb_dread_king_battle_only	false	ovn_dk_inf_mummies	true	true				false		false
+ovn_tmb_dread_king_battle_only	false	ovn_dk_inf_cairn_wraiths	true	true				false		false
+ovn_tmb_dread_king_battle_only	false	ovn_dk_inf_tomb_guardian	true	true				false		false
+ovn_tmb_dread_king_battle_only	false	ovn_dk_inf_tomb_guardian_great_weapons	true	true				false		false
+ovn_tmb_dread_king_battle_only	false	wh2_dlc09_tmb_inf_skeleton_archers_0	true	true				false		false
+ovn_tmb_dread_king_battle_only	false	ovn_dk_inf_skeleton_javelinmen	true	true				false		false
+ovn_tmb_dread_king_battle_only	false	ovn_dk_inf_tomb_guardian_peltasts	true	true				false		false
+ovn_tmb_dread_king_battle_only	false	ovn_dk_cav_skeleton_horsemen_0	true	true				false		false
+ovn_tmb_dread_king_battle_only	false	wh2_dlc09_tmb_cav_hexwraiths	true	true				false		false
+ovn_tmb_dread_king_battle_only	false	ovn_dk_cav_royal_guard_cavalry	true	true				false		false
+ovn_tmb_dread_king_battle_only	false	ovn_dk_cav_royal_guard_lancers	true	true				false		false
+ovn_tmb_dread_king_battle_only	false	ovn_dk_veh_skeleton_chariot	true	true				false		false
+ovn_tmb_dread_king_battle_only	false	ovn_dk_cav_skeleton_horsemen_archers_0	true	true				false		false
+ovn_tmb_dread_king_battle_only	false	ovn_dk_veh_skeleton_archer_chariot	true	true				false		false
+ovn_tmb_dread_king_battle_only	false	wh2_dlc09_tmb_mon_fell_bats	true	true				false		false
+ovn_tmb_dread_king_battle_only	false	wh2_dlc09_tmb_mon_dire_wolves	true	true				false		false
+ovn_tmb_dread_king_battle_only	false	ovn_dk_mon_skeletal_minotaurs	true	true				false		false
+ovn_tmb_dread_king_battle_only	false	ovn_dk_mon_skeleton_giant	true	true				false		false
+ovn_tmb_dread_king_battle_only	false	ovn_dk_mon_skeleton_elephant	true	true				false		false
+ovn_tmb_dread_king_battle_only	false	ovn_dk_mon_bone_hydra	true	true				false		false
+ovn_tmb_dread_king_battle_only	false	ovn_dk_veh_mortis_engine_0	true	true				false		false
+ovn_tmb_dread_king_battle_only	false	ovn_dk_art_screaming_skull_ballista	true	true				false		false
+ovn_tmb_dread_king_battle_only	false	ovn_dk_art_bone_throwers	true	true				false		false
+ovn_tmb_dread_king_battle_only	false	ovn_dk_inf_brigands_ror	true	true				false		false
+ovn_tmb_dread_king_battle_only	false	ovn_dk_inf_wights_ror	true	true				false		false
+ovn_tmb_dread_king_battle_only	false	ovn_dk_inf_catacomb_guardians_ror	true	true				false		false
+ovn_tmb_dread_king_battle_only	false	ovn_dk_inf_mummies_ror	true	true				false		false
+ovn_tmb_dread_king_battle_only	false	ovn_dk_cav_black_grail_knights_ror	true	true				false		false
+ovn_tmb_dread_king_battle_only	false	ovn_dk_mon_skeleton_elephant_ror	true	true				false		false
+ovn_tmb_dread_king_battle_only	false	ovn_dk_inf_spartan_ror	true	true				true		false
+ovn_tmb_dread_king_battle_only	false	ovn_dk_inf_thessos_ror	true	true				true		false
+ovn_tmb_dread_king_battle_only	false	ovn_dk_cav_ephalian_ror	true	true				true		false
+ovn_tmb_dread_king_battle_only	false	ovn_dk_art_polybolos_ror	true	true				true		false

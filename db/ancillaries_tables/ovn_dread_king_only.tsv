@@ -1,0 +1,30 @@
+key	type	applies_to	transferrable	unique_to_world	unique_to_faction	precedence	start_date	end_date	avatar_skill	avatar_special_ability	legendary_item	mp_exclusive	is_wife_ancillary	category	min_starting_age	max_starting_age	min_expiry_age	max_expiry_age	immortal	provided_bodyguard_unit	provided_banner	uniqueness_score	turns_before_swap_allowed	subcategory	randomly_dropped	can_be_stolen	can_be_destroyed	faction_set
+#ancillaries_tables;0;db/ancillaries_tables/ovn_dread_king_only																												
+luthor_the_hunchback	wh_main_anc_vampire_counts_necromancer	.	false	false	false	1	0	9999			true	false	false	general	16	30	30	50	true			200	1	follower	false	false	false	all
+elo_hand_punished_one	wh_main_anc_enchanted_item	.	false	false	false	1	0	9999			true	false	false	enchanted_item	16	30	30	50	true			200	1		false	false	false	all
+elo_hungering_blade	wh_main_anc_weapon	.	false	false	false	1	0	9999			true	false	false	weapon	16	30	30	50	true			200	1		false	false	false	all
+Soulreaper	wh_main_anc_weapon	.	false	false	false	1	0	9999			true	false	false	weapon	16	30	30	50	true			200	0		false	false	false	all
+dread_black_jewel	wh_main_anc_talisman	.	false	false	false	1	0	9999			true	false	false	talisman	16	30	30	50	true			200	0		false	false	false	all
+dread_grimoire_necris	wh_main_anc_arcane_item	.	false	false	false	1	0	9999			true	false	false	arcane_item	16	30	30	50	true			200	0		false	false	false	all
+dread_skeletal_steed	wh2_dlc09_anc_mount_skeleton_steed_tmb	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	Dread_King_barded_steed		1	0		false	false	true	all
+dread_pegasus	wh_main_anc_mount_skeleton_pegasus	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	Dread_King_pegasus		1	0		false	false	true	all
+dread_zombie_dragon	wh_main_anc_mount_gaurgon	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	Dread_King_zombie_dragon		1	0		false	false	true	all
+mount_skeletal_steed_hand_of_nagash	wh2_dlc09_anc_mount_skeleton_steed_tmb	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	elo_hand_of_nagash_barded_steed		1	0		false	false	true	all
+mount_chariot_hand_of_nagash	wh_main_anc_mount_chariot_hand_of_nagash	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	elo_hand_of_nagash_chariot		1	0		false	false	true	all
+dread_legion_barded_skeletal_steed	wh2_dlc09_anc_mount_skeleton_steed_tmb	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	elo_dread_centurion_barded_horse		1	0		false	false	true	all
+dread_chariot_skeletal_steed	wh2_dlc09_anc_mount_skeleton_chariot	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	elo_dread_centurion_chariot		1	0		false	false	true	all
+dread_legion_pegasus	wh_main_anc_mount_skeleton_pegasus	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	elo_dread_centurion_pegasus		1	0		false	false	true	all
+mount_barded_skeletal_steed_liche_vampires	wh2_dlc09_anc_mount_skeleton_steed_tmb	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	elo_liche_general_vampires_barded_steed		1	0		false	false	true	all
+mount_chariot_liche_vampires	wh2_dlc09_anc_mount_skeleton_chariot	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	elo_liche_general_vampires_chariot		1	0		false	false	true	all
+mount_pegasus_liche_vampires	wh_main_anc_mount_skeleton_pegasus	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	elo_liche_general_vampires_pegasus		1	0		false	false	true	all
+mount_warsphinx_liche_vampires	wh_dlc08_anc_mount_chaos_war_mammoth	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	elo_liche_general_vampires_elephant		1	0		false	false	true	all
+mount_barded_skeletal_steed_liche_death	wh2_dlc09_anc_mount_skeleton_steed_tmb	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	elo_liche_general_death_barded_steed		1	0		false	false	true	all
+mount_chariot_liche_death	wh2_dlc09_anc_mount_skeleton_chariot	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	elo_liche_general_death_chariot		1	0		false	false	true	all
+mount_pegasus_liche_death	wh_main_anc_mount_skeleton_pegasus	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	elo_liche_general_death_pegasus		1	0		false	false	true	all
+mount_warsphinx_liche_death	wh_dlc08_anc_mount_chaos_war_mammoth	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	elo_liche_general_death_elephant		1	0		false	false	true	all
+dread_skeletal_steed_priest_death	wh2_dlc09_anc_mount_skeleton_steed_tmb	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	dread_corrupted_priest_death_barded_steed		1	0		false	false	true	all
+dread_skeletal_steed_priest_shadow	wh2_dlc09_anc_mount_skeleton_steed_tmb	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	dread_corrupted_priest_shadow_barded_steed		1	0		false	false	true	all
+dread_skeletal_steed_priest_vampires	wh2_dlc09_anc_mount_skeleton_steed_tmb	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	dread_corrupted_priest_vampires_barded_steed		1	0		false	false	true	all
+dread_anc_mount_haptmose_casket_of_souls	wh2_dlc09_anc_mount_casket_of_souls	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	dread_cha_liche_high_priest_haptmose_3		1	0		false	false	true	all
+dread_anc_mount_haptmose_skeletal_steed	wh2_dlc09_anc_mount_skeleton_steed_tmb	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	dread_cha_liche_high_priest_haptmose_1		1	0		false	false	true	all
+dread_anc_mount_haptmose_skeleton_chariot	wh2_dlc09_anc_mount_skeleton_chariot	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	dread_cha_liche_high_priest_haptmose_2		1	0		false	false	true	all

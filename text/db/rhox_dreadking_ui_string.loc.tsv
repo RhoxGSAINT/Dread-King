@@ -1,0 +1,11 @@
+key	text	tooltip
+#Loc;1;text/db/rhox_dreadking_ui_string.loc		
+campaign_payload_ui_details_description_dummy_rhox_dk_raise_dead1	Earned by killing an enemy unit in battle	false
+campaign_payload_ui_details_description_dummy_rhox_dk_raise_dead2	Undead servants can be found in your recruitment pool	false
+campaign_payload_ui_details_description_dummy_rhox_dk_raise_dead3	Killing certain enemies creates a 100% chance to gain an undead servant	false
+campaign_payload_ui_details_description_dummy_rhox_dk_declare_war_on_nagash	War declared on Legions of Nagashizzar\\n\\n	false
+campaign_payload_ui_details_description_dummy_rhox_dk_morghast_archai	A Morghast Archai joins your cause!	false
+rhox_ovn_dk_fixed_morghast_archai_name	Aphoh	false
+uied_component_texts_localised_string_header2_NewState_Text_rhox_dreadking_explanation	As the Dread King's warriors die on the battlefield, their spirits enter the Realm of Souls. As the Realm of Souls fills past certain thresholds, the [[sl:battle_units]]units[[/sl]] that remain will regenerate for short periods.	false
+uied_component_texts_localised_string_threshold_3_parent_NewState_rhox_dk_3	Deaths required for Tier 3/Minotaurs:	false
+daemon_ability_bar_descriptions_bar_description_faction_set_culture_ovn_dk_legions	As the Dread King's warriors die on the battlefield, their spirits enter the Realm of Souls. 	false

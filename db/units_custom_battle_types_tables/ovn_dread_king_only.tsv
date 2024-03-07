@@ -1,0 +1,7 @@
+alternate_unit	base_unit	type_category	type_icon	show_base_in_unit_list	id	colour	sort_order
+#units_custom_battle_types_tables;3;db/units_custom_battle_types_tables/ovn_dread_king_only							
+dread_corrupted_priest_death	dread_corrupted_priest_death	type_spell_lore		true	190914	FFFFFF	20
+dread_corrupted_priest_shadow	dread_corrupted_priest_death	type_spell_lore		false	190915	FFFFFF	70
+dread_corrupted_priest_vampires	dread_corrupted_priest_death	type_spell_lore		false	190916	FFFFFF	80
+elo_liche_general_vampires	elo_liche_general_vampires	type_spell_lore		true	191028	FFFFFF	20
+elo_liche_general_death	elo_liche_general_vampires	type_spell_lore		false	191029	FFFFFF	70

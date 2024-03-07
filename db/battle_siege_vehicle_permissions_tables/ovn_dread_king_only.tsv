@@ -1,0 +1,4 @@
+faction	vehicle
+#battle_siege_vehicle_permissions_tables;0;db/battle_siege_vehicle_permissions_tables/ovn_dread_king_only	
+ovn_tmb_dread_king	tmb_battering_ram
+ovn_tmb_dread_king	tmb_siege_tower_15m

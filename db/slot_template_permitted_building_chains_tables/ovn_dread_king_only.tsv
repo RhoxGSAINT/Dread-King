@@ -1,0 +1,5 @@
+chain	chain_set	slot_template	super_chain	remove
+#slot_template_permitted_building_chains_tables;0;db/slot_template_permitted_building_chains_tables/ovn_dread_king_only				
+		mixer_ime_minor_secondary_mahrak	dread_pyramid_nebwaneph_landmark	false
+		mixer_ime_major_secondary_pottery_myrmidens	dread_palace_myrmidens_landmark	false
+		mixer_ime_minor_secondary_pools_of_despair	dread_temple_of_doom_landmark	false

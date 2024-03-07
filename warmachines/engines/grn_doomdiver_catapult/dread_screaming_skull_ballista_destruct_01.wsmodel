@@ -1,0 +1,17 @@
+<model version="1">
+	<geometry>warmachines\engines\grn_doomdiver_catapult\dread_screaming_skull_ballista_destruct_01.rigid_model_v2</geometry>
+		<materials>
+			<material lod_index="0" part_index="0">projectiles\materials\dread_bone thrower_bolt_01_rigid_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="1">warmachines\engines\grn_doomdiver_catapult\materials\dread_screaming_skull_catapult_0_rigid_alpha_off.xml.material</material>
+
+			<material lod_index="1" part_index="0">projectiles\materials\dread_bone thrower_bolt_01_rigid_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="1">warmachines\engines\grn_doomdiver_catapult\materials\dread_screaming_skull_catapult_0_rigid_alpha_off.xml.material</material>
+
+			<material lod_index="2" part_index="0">projectiles\materials\dread_bone thrower_bolt_01_rigid_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="1">warmachines\engines\grn_doomdiver_catapult\materials\dread_screaming_skull_catapult_0_rigid_alpha_off.xml.material</material>
+
+			<material lod_index="3" part_index="0">projectiles\materials\dread_bone thrower_bolt_01_rigid_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="1">warmachines\engines\grn_doomdiver_catapult\materials\dread_screaming_skull_catapult_0_rigid_alpha_off.xml.material</material>
+
+	</materials>
+</model>

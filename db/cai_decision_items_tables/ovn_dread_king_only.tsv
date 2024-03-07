@@ -1,0 +1,12 @@
+key	unbound_decision_item_type	conditionally_spawnable_force	plague	ritual	decision_interface	province_initiative	compass_direction	plague_component	plague_recipe	occupation_decision	teleportation_node_template	FIXME	culture_occupation_decision	compass_action	initiative	initiative_set
+#cai_decision_items_tables;13;db/cai_decision_items_tables/ovn_dread_king_only																
+dread_ritual_tmb_awakening				dread_ritual_tmb_awakening	rituals							true	0			
+dread_ritual_tmb_legions				dread_ritual_tmb_legions	rituals							true	0			
+dread_ritual_tmb_conquest				dread_ritual_tmb_conquest	rituals							true	0			
+dread_ritual_tmb_necromancy				dread_ritual_tmb_necromancy	rituals							true	0			
+dread_ritual_tmb_crafting_army_capacity				dread_ritual_crafting_tmb_army_capacity	rituals							true	0			
+wh3_main_province_initiative_tmb_worship_of_asaph					province_initiatives	dread_edict_tmb_worship_of_asaph						true	0			
+wh3_main_province_initiative_tmb_worship_of_djaf					province_initiatives	dread_edict_tmb_worship_of_djaf						true	0			
+wh3_main_province_initiative_tmb_worship_of_khsar					province_initiatives	dread_edict_tmb_worship_of_khsar						true	0			
+wh3_main_province_initiative_tmb_worship_of_phakth					province_initiatives	dread_edict_tmb_worship_of_phakth						true	0			
+wh3_main_province_initiative_tmb_worship_of_ptra					province_initiatives	dread_edict_tmb_worship_of_ptra						true	0			

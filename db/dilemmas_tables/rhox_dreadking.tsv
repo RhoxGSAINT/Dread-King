@@ -1,0 +1,7 @@
+key	generate	localised_description	localised_title	ui_image	prioritized	event_category	sound_popup_override	sound_click_override	override_icon	is_large_dilemma
+#dilemmas_tables;3;db/dilemmas_tables/rhox_dreadking										
+rhox_dk_servants_in_undeath_elephant	true			skeletal_elephant_event	false	Event	UI_CAM_EVENT_Dilemma			false
+rhox_dk_servants_in_undeath_minotaur	true			skeletal_minotaurs_event	false	Event	UI_CAM_EVENT_Dilemma			false
+rhox_dk_servants_in_undeath_hydra	true			bone_hydra_event	false	Event	UI_CAM_EVENT_Dilemma			false
+rhox_dk_servants_in_undeath_colossus	true			bone_colossus_event	false	Event	UI_CAM_EVENT_Dilemma			false
+rhox_dk_nagash_dilemma	false			mixer_nag_nagash/Nagash_Destroys_the_World	false	Event	UI_CAM_EVENT_Dilemma			false

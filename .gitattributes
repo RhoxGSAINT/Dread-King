@@ -1,2 +1,11 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+## Default the "whitespace" setting for these files to whatever RPFM exports them as!
+*.tsv text eol=lf
+*.material text eol=lf
+*.lua text eol=lf
+*.xml text eol=lf
+*.wsmodel text eol=lf
+*.variantmeshdefinition text eol=crlf
+
+## Don't edit this files' whitespace at all, ever
+*.dds binary
+*.rigid_model_v2 binary

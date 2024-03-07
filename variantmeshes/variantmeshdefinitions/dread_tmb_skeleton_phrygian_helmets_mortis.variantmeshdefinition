@@ -1,0 +1,6 @@
+<VARIANT_MESH>
+	<SLOT name="helmet" >
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1\vmp\vmp_skeleton_warriors\head\dread_skeleton_helmet_mortis_02.wsmodel" />
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1\vmp\vmp_skeleton_warriors\head\dread_skeleton_helmet_mortis_03.wsmodel" />	
+	</SLOT>
+</VARIANT_MESH>

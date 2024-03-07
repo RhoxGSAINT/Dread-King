@@ -1,0 +1,37 @@
+key	image_path	localised_description	localised_name	unlocked_at_rank	is_background_skill	is_female_only_background_skill	is_male_only_background_skill	background_weighting	influence_cost
+#character_skills_tables;5;db/character_skills_tables/dread_king									
+Ancient_Necromancer	dread_king_summon_minos.png		Ancient_Necromancer	0	false	false	false	0.0000	0
+Mighty_Warrior_tmb	character_attack.png		Mighty_Warrior_tmb	0	false	false	false	0.0000	0
+Lord_Of_The_Undead_tmb	character_morale.png		Lord_Of_The_Undead_tmb	0	false	false	false	0.0000	0
+Dark_Lord_Of_Nagash	character_magic.png		Dark_Lord_Of_Nagash	0	false	false	false	0.0000	0
+Great_Summoner	character_replenishment.png		Great_Summoner	0	false	false	false	0.0000	0
+Dread_Aura	wh2_dlc09_character_passive_befalling_curse.png		Dread_Aura	0	false	false	false	0.0000	0
+dread_skeletal_steed	mount_skeletal_steed_tmb.png	Long-dead destriers, awakened to serve their Unliving masters far beyond death.	Skeletal Steed	0	false	false	false	0.0000	0
+dread_pegasus	mount_hellsteed.png	The Pegasi were brought to Nehekhara from the Dread King's homelands. Now the reanimated bones still serve their Unliving masters.	Skeletal Pegasus	0	false	false	false	0.0000	0
+dread_zombie_dragon	mount_zombie_dragon.png	The Dragon Gaurgon, also called the Blazefang, was gifted to the Dread King by Nagash. The beast still faithfully serves its master in Undeath.	Gaurgon	0	false	false	false	0.0000	0
+Soulreaper	item_weapon.png		Soulreaper	0	false	false	false	0.0000	0
+dread_king_trait	trait_vampire_counts.png			0	true	false	false	5.0000	0
+elo_hand_vortex	character_general_ability.png		elo_hand_vortex	0	false	false	false	0.0000	0
+mount_skeletal_steed_hand_of_nagash	mount_skeletal_steed_tmb.png	Long-dead destriers, awakened to serve their Unliving masters far beyond death.	Skeletal Steed	0	false	false	false	0.0000	0
+mount_chariot_hand_of_nagash	mount_skeleton_chariot.png		mount_chariot_hand_of_nagash	0	false	false	false	0.0000	0
+elo_hand_punished_one	item_enchanted_item.png		elo_hand_punished_one	0	false	false	false	0.0000	0
+elo_hungering_blade	item_weapon.png		elo_hungering_blade	0	false	false	false	0.0000	0
+elo_hand_judge_executioner	character_general_ability.png		elo_hand_judge_executioner	0	false	false	false	0.0000	0
+elo_terror_land	campaign_public_order.png		elo_terror_land	0	false	false	false	0.0000	0
+elo_dark_charioteer	battle_attack.png		elo_dark_charioteer	0	false	false	false	0.0000	0
+elo_undead_traveler	character_movement.png		elo_undead_traveler	0	false	false	false	0.0000	0
+elo_undead_warrior	character_attack.png		elo_undead_warrior	0	false	false	false	0.0000	0
+elo_hand_destroyer	campaign_siege_attack.png		elo_hand_destroyer	0	false	false	false	0.0000	0
+elo_hand_of_nagash_trait	trait_vampire_counts.png		elo_hand_of_nagash_trait	0	true	false	false	0.0000	0
+dread_black_jewel	item_talisman.png			0	false	false	false	0.0000	0
+dread_grimoire_necris	item_enchanted_item.png			0	false	false	false	0.0000	0
+dread_army_buff_basic_archers	battle_ammo.png	Carrying the blessing of the goddess Asaph, these arrows seek out the foe with unerring accuracy.	Arrows of Asaph	0	false	false	false	0.0000	0
+dread_army_buff_basic_infantry	battle_armour.png	Death isn't necessarily the end; those who have pledged service must rise to fight again another day.	Sun-Scorched Bones	0	false	false	false	0.0000	0
+dread_army_buff_cav	battle_speed.png	Formed by long campaigns and bloody slaughter in the stifling desert heat, the bond between steed and rider cannot be broken, even when death tries to intervene.	Elite Cavalrymen	0	false	false	false	0.0000	0
+dread_army_buff_chariot	battle_charge.png	"The swift charioteers of the king. They who pursue the sovereign's foes on the day of his awakening."	Master Charioteers	0	false	false	false	0.0000	0
+dread_army_buff_vampiric_creatures	battle_charge.png	Not even stone is set in stone it seems – arcane death magic is used to bring tortured, savage vigour to once-dormant stone sentinels.	Stone Sentinels	0	false	false	false	0.0000	0
+dread_army_buff_monsters	battle_defence.png	Simple stone is afforded more respect than other materials, for from its grain giant guardians are hewn, brought to shuddering life by the Liche Priests' sorcery.	Revered Stonemasonry	0	false	false	false	0.0000	0
+dread_army_buff_vet_archer	battle_ammo.png	Arrows loosed under the ever-watchful eye of the Serpent Goddess find their marks with divine precision. 	Blessing of the Asp	0	false	false	false	0.0000	0
+dread_army_buff_vet_cav	battle_armour.png	The desert itself is his steed.	Dune Rider	0	false	false	false	0.0000	0
+dread_army_buff_vet_infantry	battle_ward_save.png	A dream of glory attained through conquest great rages still, despite the dying of the light.	Unfading Memory	0	false	false	false	0.0000	0
+dread_army_buff_vet_monsters	battle_damage.png	The very strength of the desert, to stand sentinel over the Tomb Kings' domain and crush their enemies to dust.	Ancient Stone	0	false	false	false	0.0000	0

@@ -1,0 +1,11 @@
+key	text	tooltip
+#Loc;1;text/db/rhox_dreadking_recruitment_source.loc		
+ui_mercenary_recruitment_infos_hire_button_title_rhox_dk_raise_dead	{{tr:recruitment_confirmation_renown}}	false
+ui_mercenary_recruitment_infos_hire_button_tooltip_rhox_dk_raise_dead	Recruit units||Any units in the queue will instantly be recruited to your army.	false
+ui_mercenary_recruitment_infos_initial_tooltip_rhox_dk_raise_dead	Recruit Servants in Undeath||Instantly recruit units from the enemy you have killed	false
+ui_mercenary_recruitment_infos_tooltip_default_avaliable_rhox_dk_raise_dead	Recruit Servants in Undeath||Instantly recruit units from the enemy you have killed	false
+ui_mercenary_recruitment_infos_tooltip_default_inactive_rhox_dk_raise_dead	Servants in Undeath||[[col:red]]You cannot currently recruit from Servants in Undeath.[[/col]]	false
+ui_mercenary_recruitment_infos_tooltip_inactive_not_players_turn_rhox_dk_raise_dead	Servants in Undeath||[[col:red]]You cannot currently recruit from Servants in Undeath.[[/col]]	false
+ui_mercenary_recruitment_infos_tooltip_inactive_on_sea_rhox_dk_raise_dead	Servants in Undeath||[[col:red]]You cannot currently recruit from Servants in Undeath.[[/col]]	false
+ui_mercenary_recruitment_infos_tooltip_inactive_unavailable_rhox_dk_raise_dead	Servants in Undeath||[[col:red]]You cannot currently recruit from Servants in Undeath.[[/col]]	false
+ui_mercenary_recruitment_infos_hire_state_rhox_dk_raise_dead	Servants in Undeath	false

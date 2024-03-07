@@ -1,0 +1,8 @@
+faction_key	campaign_key	level	skill_key	subculture_key	image_path	unlocked_at_rank
+#character_skill_level_details_tables;1;db/character_skill_level_details_tables/elo_dread_hero						
+		1	dread_legion_barded_skeletal_steed		x	3
+		1	dread_chariot_skeletal_steed		x	9
+		1	dread_legion_pegasus		x	15
+		1	dread_we_are_legion		x	9
+		1	dread_eternal_march		x	9
+		1	dread_blessing_nagash		x	9

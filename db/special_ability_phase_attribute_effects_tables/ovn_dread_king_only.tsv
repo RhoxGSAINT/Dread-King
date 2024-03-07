@@ -1,0 +1,7 @@
+attribute	phase	attribute_type
+#special_ability_phase_attribute_effects_tables;1;db/special_ability_phase_attribute_effects_tables/ovn_dread_king_only		
+immune_to_psychology	elo_hand_terror_past	negative
+causes_fear	elo_hand_terror_past	negative
+expendable	elo_hand_terror_past	negative
+fatigue_immune	elo_hand_punished_one	positive
+causes_terror	ovn_undead_discipline	positive

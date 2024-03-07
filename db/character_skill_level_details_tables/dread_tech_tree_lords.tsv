@@ -1,0 +1,11 @@
+faction_key	campaign_key	level	skill_key	subculture_key	image_path	unlocked_at_rank
+#character_skill_level_details_tables;1;db/character_skill_level_details_tables/dread_tech_tree_lords						
+		1	dread_mount_haptmose_casket_of_souls		x	17
+		1	dread_mount_haptmose_skeletal_steed		x	6
+		1	dread_mount_haptmose_skeleton_chariot		x	13
+		1	dread_haptmose_mortuary_cult_scholar		x	5
+		1	dread_haptmose_soul_binding		x	9
+		1	dread_nagash_blessing_0		x	9
+		1	ovn_dk_possesed_tormented_puppet		x	14
+		1	ovn_dk_traitor_king_warrior_king		x	14
+		1	ovn_dk_hierophant_silver_tongue		x	14

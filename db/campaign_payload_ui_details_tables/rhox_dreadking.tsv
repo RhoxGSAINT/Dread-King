@@ -1,0 +1,8 @@
+component	icon	state	sort_order
+#campaign_payload_ui_details_tables;2;db/campaign_payload_ui_details_tables/rhox_dreadking			
+dummy_rhox_dk_raise_dead1	ui/skins/default/icon_raise_dead.png	default	0
+dummy_rhox_dk_raise_dead2	ui/skins/default/icon_raise_dead.png	default	1
+dummy_rhox_dk_raise_dead3	ui/skins/default/icon_raise_dead.png	default	2
+dummy_rhox_dk_declare_war_on_nagash	ui/campaign ui/diplomacy_icons/diplomatic_option_declare_war.png	default	0
+dummy_rhox_dk_prize_on_the_destruction	ui/campaign ui/effect_bundles/turns.png	default	1
+dummy_rhox_dk_morghast_archai	ui/campaign ui/agents/wh2_dlc17_bst_wargor.png	default	0

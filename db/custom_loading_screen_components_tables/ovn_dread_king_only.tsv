@@ -1,0 +1,4 @@
+component_id	custom_loading_screen_key	image_path
+#custom_loading_screen_components_tables;0;db/custom_loading_screen_components_tables/ovn_dread_king_only		
+background	ovn_tmb_dread_king	ui/loading_ui/load_images/dread_king_load.png
+custom_quote	ovn_tmb_dread_king	

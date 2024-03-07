@@ -1,0 +1,13 @@
+key	text	tooltip
+#Loc;1;text/db/rhox_dreadking_mercenary.loc		
+mercenary_unit_groups_replenishment_reason_rhox_dk_ovn_dk_inf_skeleton_hoplites_no_caps	You'll gain access to this unit by killing any melee units belonging to Humans or Elves (40% chance).	false
+mercenary_unit_groups_replenishment_reason_rhox_dk_ovn_dk_inf_skeleton_pikemen_no_caps	You'll gain access to this unit by killing any melee units belonging to Humans or Elves (40% chance).	false
+mercenary_unit_groups_replenishment_reason_rhox_dk_ovn_dk_inf_skeleton_javelinmen_no_caps	You'll gain access to this unit by killing any ranged units belonging to Humans or Elves (40% chance).	false
+mercenary_unit_groups_replenishment_reason_rhox_dk_wh2_dlc09_tmb_inf_skeleton_archers_no_caps	You'll gain access to this unit by killing any ranged units belonging to Humans or Elves (40% chance).	false
+mercenary_unit_groups_replenishment_reason_rhox_dk_ovn_dk_cav_skeleton_horsemen_no_caps	You'll gain access to this unit by killing any cavalry units belonging to Humans or Elves (40% chance).	false
+mercenary_unit_groups_replenishment_reason_rhox_dk_ovn_dk_cav_skeleton_horsemen_archers_no_caps	You'll gain access to this unit by killing any cavalry units belonging to Humans or Elves (40% chance).	false
+mercenary_unit_groups_replenishment_reason_rhox_dk_ovn_dk_mon_skeleton_elephant_no_caps	You'll gain access to this unit by killing an enemy War Elephant.	false
+mercenary_unit_groups_replenishment_reason_rhox_dk_ovn_dk_mon_skeleton_giant_no_caps	You'll gain access to this unit by killing an enemy Giant.	false
+mercenary_unit_groups_replenishment_reason_rhox_dk_ovn_dk_mon_skeletal_minotaurs_no_caps	You'll gain access to this unit by killing an enemy unit of Minotaurs.	false
+mercenary_unit_groups_replenishment_reason_rhox_dk_ovn_dk_mon_bone_hydra_no_caps	You'll gain access to this unit by killing an enemy War Hydra.	false
+mercenary_unit_groups_replenishment_reason_nag_morghasts	You can gain access to this unit through the "The Greatest Necromancer" dilemma.	false

@@ -1,0 +1,25 @@
+<model version="1">
+	<geometry>warmachines\engines\hef_eagleclaw_bolt_thrower\dkl_polybolos_01.rigid_model_v2</geometry>
+		<materials>
+			<material lod_index="0" part_index="0">warmachines\materials\hef_eagleclaw_boltthrower_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="1">art\campaign\ships\tzeentchship01\materials\spooky_ballista_weighted2_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="2">variantmeshes\wh_variantmodels\el1\dread_king\skeletal_elephant\materials\tmb_basic_chariot_body_weighted2_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="3">variantmeshes\wh_variantmodels\bc4\ogr\ogr_sabretusk\materials\ogr_sabretusk_head_01_weighted2_alpha_on.xml.material</material>
+
+			<material lod_index="1" part_index="0">warmachines\materials\hef_eagleclaw_boltthrower_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="1">art\campaign\ships\tzeentchship01\materials\spooky_ballista_weighted2_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="2">variantmeshes\wh_variantmodels\el1\dread_king\skeletal_elephant\materials\tmb_basic_chariot_body_weighted2_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="3">variantmeshes\wh_variantmodels\bc4\ogr\ogr_sabretusk\materials\ogr_sabretusk_head_01_weighted2_alpha_on.xml.material</material>
+
+			<material lod_index="2" part_index="0">warmachines\materials\hef_eagleclaw_boltthrower_weighted2_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="1">art\campaign\ships\tzeentchship01\materials\spooky_ballista_weighted2_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="2">variantmeshes\wh_variantmodels\el1\dread_king\skeletal_elephant\materials\tmb_basic_chariot_body_weighted2_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="3">variantmeshes\wh_variantmodels\bc4\ogr\ogr_sabretusk\materials\ogr_sabretusk_head_01_weighted2_alpha_on.xml.material</material>
+
+			<material lod_index="3" part_index="0">warmachines\materials\hef_eagleclaw_boltthrower_weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="1">art\campaign\ships\tzeentchship01\materials\spooky_ballista_weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="2">variantmeshes\wh_variantmodels\el1\dread_king\skeletal_elephant\materials\tmb_basic_chariot_body_weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="3">variantmeshes\wh_variantmodels\bc4\ogr\ogr_sabretusk\materials\ogr_sabretusk_head_01_weighted2_alpha_on.xml.material</material>
+
+	</materials>
+</model>

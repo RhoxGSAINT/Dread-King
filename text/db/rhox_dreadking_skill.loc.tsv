@@ -1,0 +1,5 @@
+key	text	tooltip
+#Loc;1;text/db/rhox_dreadking_skill.loc		
+character_skills_localised_description_ovn_dk_skill_archai_innate	A mighty servant bound to the Dread King's will.	false
+character_skills_localised_name_ovn_dk_skill_archai_innate	Servant of the Dread King	false
+character_skill_node_sets_enc_title_ovn_dk_skill_node_set_morghast_archai		false

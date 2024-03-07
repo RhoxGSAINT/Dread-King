@@ -1,0 +1,9 @@
+character_name	character_level	forename	magic_lore	num_men	surname	unit_type	agent_type	agent_subtype	portrait	character_model	skillset	male
+#battle_set_piece_armies_characters_tables;8;db/battle_set_piece_armies_characters_tables/ovn_dread_king_only												
+Dread_King	1	247259235		100	247259236	Dread_King	general	Dread_King	ui/portraits/portholes/no_culture/Dread_King.png	2101873		true
+Dread_King_barded_steed	1	247259235		100	247259236	Dread_King_barded_steed	general	Dread_King	ui/portraits/portholes/no_culture/Dread_King.png	2101873		true
+Dread_King_pegasus	1	247259235		100	247259236	Dread_King_pegasus	general	Dread_King	ui/portraits/portholes/no_culture/Dread_King.png	2101873		true
+Dread_King_zombie_dragon	1	247259235		100	247259236	Dread_King_zombie_dragon	general	Dread_King	ui/portraits/portholes/no_culture/Dread_King.png	2101873		true
+elo_hand_of_nagash	1	247259237		100	247259238	elo_hand_of_nagash	general	elo_hand_of_nagash	ui/portraits/portholes/no_culture/elo_hand_of_nagash.png	2101874		true
+elo_hand_of_nagash_barded_steed	1	247259237		100	247259238	elo_hand_of_nagash_barded_steed	general	elo_hand_of_nagash	ui/portraits/portholes/no_culture/elo_hand_of_nagash.png	2101874		true
+elo_hand_of_nagash_chariot	1	247259237		100	247259238	elo_hand_of_nagash_chariot	general	elo_hand_of_nagash	ui/portraits/portholes/no_culture/elo_hand_of_nagash.png	2101874		true

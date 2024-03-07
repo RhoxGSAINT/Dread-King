@@ -1,0 +1,4 @@
+campaign_name	map_name	exportable	display_location	available_for_mp	mp_sort_order	mask	script_path	battle_path	terrain_location
+#campaigns_tables;9;db/campaigns_tables/zzz_ovn_dread_king									
+cr_combi_expanded	wh3_main_combi_map_2	true	wh3_main_combi_map_2	false	0		script/campaign/main_warhammer	wh3_main_combi_map	wh3_main_combi_map_1
+cr_oldworld	wh3_main_combi_map_2	true	wh3_main_combi_map_2	false	0		script/campaign/main_warhammer	wh3_main_combi_map	wh3_main_combi_map_1

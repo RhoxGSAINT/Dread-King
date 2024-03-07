@@ -1,0 +1,265 @@
+key	text	tooltip
+#Loc;1;text/db/ovn_dread_king_only_effects.loc		
+effects_description_dread_legion_sword_cap	Unit capacity: %+n\\nRoyal Guards	true
+effects_description_dread_legion_2h_cap	Unit capacity: %+n\\nRoyal Guards (Great Weapons)	true
+effects_description_dread_legion_peltasts_cap	Unit capacity: %+n\\nRoyal Peltasts	true
+effects_description_dread_legion_all_mattk	Melee attack: %+n for Royal Guards units	true
+effects_description_dread_legion_all_mdef	Melee defence: %+n for Royal Guards units	true
+effects_description_dread_legion_all_phyres	Physical resistance: %+n% for Royal Guards units	true
+effects_description_wh2_dlc09_effect_melee_defence_tmb_all_melee_infantry	Melee defence: %+n for all melee infantry units	true
+effects_description_wh2_dlc09_effect_armour_tmb_all_melee_infantry	Armour: %+n for all melee infantry units	true
+effects_description_wh2_dlc09_effect_melee_attack_tmb_all_melee_infantry	Melee attack: %+n for all melee infantry units	true
+effects_description_wh2_dlc09_effect_morale_tmb_all_melee_infantry	Leadership: %+n for all melee infantry units	true
+effects_description_wh2_dlc09_effect_leadership_tmb_vet_all_infantry	Leadership: %+n for all melee infantry units {{tr:rank7}}	true
+effects_description_wh2_dlc09_effect_missile_resistance_tmb_vet_all_infantry	Missile resistance: %+n% for all melee infantry units {{tr:rank7}}	true
+effects_description_wh2_dlc09_effect_speed_tmb_vet_all_infantry	Speed: %+n% for all melee infantry units {{tr:rank7}}	true
+effects_description_wh2_dlc09_effect_armour_tmb_vet_all_infantry	Armour: %+n for all melee infantry units {{tr:rank7}}	true
+effects_description_dread_legion_grail_knight_cap	Unit capacity: %+n\\nBlack Grail Knights	true
+effects_description_dread_legion_skellie_giant_cap	Unit capacity: %+n\\nSkeletal Giants	true
+effects_description_elo_dread_mummy	Unit capacity: %+n\\nMummies	true
+effects_description_spawn_ushabti_dread_king	Ability: "Minotaur Summoner"	true
+effects_description_Dread_Aura	Passive ability: "Dread Aura"	true
+effects_description_Summon_Black_Grail_Kinghts	Ability: "Summon Black Grail Knights"	true
+effects_description_enable_ghost_on_death	Ability: "Lingering Essence"	true
+effects_description_enable_larenscheld_bombardment	Ability: "Hail of Skulls"	true
+effects_description_enable_ghost_on_death_upgraded	Ability: "Mind over Body"	true
+effects_description_disable_ghost_on_death	Replaces: "Lingering Essence"	true
+effects_description_elo_ghost_vampire_novice	Abilities: "Invocation of Nehek & Gaze of Nagash" for Larenscheld's ghost form	true
+effects_description_elo_ghost_vampire_advanced	Abilities: "Vanhel's Dance Macabre & Raise Dead" for Larenscheld's ghost form	true
+effects_description_elo_ghost_vampire_expert	Abilities: "Curse of Years and Wind of Death" for Larenscheld's ghost form	true
+effects_description_elo_ghost_vampire_master	Enables overcast for all spells for Larenscheld's ghost form	true
+effects_description_elo_ghost_master_of_dead	Ability: "Master of the Dead" for Larenscheld's ghost form	true
+effects_description_larenscheld_change_at_will	Ability: "Change at Will"	true
+effects_description_luthor_the_hunchback_dummy	Grants the unique follower "Luthor the Hunchback"	true
+effect_bundles_localised_title_wh2_main_lord_trait_tmb_the_sentinels	Dark Omen	true
+effect_bundles_localised_description_wh2_main_lord_trait_tmb_the_sentinels	The Dread King has arisen through dark magics and will usher in a new age of dread and darkness.	true
+effects_description_ovn_diplo_bonus_with_arkhan	Diplomatic relations: %+n with Followers of Nagash	true
+effects_description_ovn_diplo_bonus_with_dread_king	Diplomatic relations: %+n with Legion of Terror	true
+effect_bundles_localised_title_ovn_tomb_king_diplo_hidden	Hidden Diplo Bonus	true
+effect_bundles_localised_description_ovn_tomb_king_diplo_hidden	Hidden Diplo Bonus	true
+effects_description_enable_recruitment_elo_centurion	Unlocks [[img:icon_hero]][[/img]]Hero recruitment: Hetairoi	true
+effects_description_unit_cap_ovn_dk_inf_skeleton_hoplites	Unit capacity: %+n\\nSkeleton Hoplites	true
+effects_description_unit_cap_ovn_dk_inf_skeleton_pikemen	Unit capacity: %+n\\nSkeleton Pikemen	true
+effects_description_unit_cap_ovn_dk_cav_royal_guard_cavalry	Unit capacity: %+n\\nRoyal Guard Cavalry	true
+effects_description_unit_cap_ovn_dk_cav_royal_guard_lancers	Unit capacity: %+n\\nRoyal Guard Lancers	true
+effects_description_unit_cap_ovn_dk_skeleton_guards_chariots	Unit capacity: %+n\\nSkeleton Hoplites\\nSkeleton Pikemen\\nSkeleton Chariot\\nSkeleton Archer Chariot	true
+effects_description_unit_cap_ovn_dk_mon_skeleton_elephant	Unit capacity: %+n\\nSkeletal Elephants	true
+effects_description_unit_cap_ovn_dk_art_bone_throwers	Unit capacity: %+n\\nBone Throwers	true
+effects_description_hidden_no_sepulchral_stalkers	PLACEHOLDER	true
+effects_description_dk_effect_agent_action_cost_mod_dread_corrupted_priest	Hero action cost: %+n% for Corrupted Priest	true
+effects_description_dk_effect_agent_cap_increase_dread_corrupted_priest	Hero capacity: %+n for Corrupted Priest	true
+effects_description_dk_effect_agent_cap_increase_dread_corrupted_priest_dummy	Hero capacity: %+n for Corrupted Priest	true
+effects_description_dk_effect_agent_recruitment_xp_dread_corrupted_priest	Hero recruit rank: %+n for Corrupted Priest	true
+effects_description_enable_recruitment_dread_corrupted_priest	Unlocks [[img:icon_hero]][[/img]]Hero recruitment: Corrupted Priest	true
+effects_description_enable_recruitment_dread_corrupted_priest_hidden	Unlocks [[img:icon_hero]][[/img]]Hero recruitment: Corrupted Priest	true
+effects_description_dk_effect_agent_action_cost_mod_elo_centurion	Hero action cost: %+n% for Hetairoi	true
+effects_description_dk_effect_agent_action_success_chance_elo_centurion	Hero action success chance: %+n% for Hetairoi	true
+effects_description_dk_effect_agent_cap_increase_elo_centurion	Hero capacity: %+n for Hetairoi	true
+effects_description_dk_effect_agent_cap_increase_elo_centurion_dummy	Hero capacity: %+n for Hetairoi	true
+effects_description_dk_effect_agent_recruitment_xp_elo_centurion	Hero recruit rank: %+n for Hetairoi	true
+effects_description_dk_effect_agent_action_cost_mod_dread_hellwraith	Hero action cost: %+n% for Hellwraith	true
+effects_description_dk_effect_agent_action_success_chance_dread_hellwraith	Hero action success chance: %+n% for Hellwraith	true
+effects_description_dk_effect_agent_recruitment_xp_dread_hellwraith	Hero recruit rank: %+n for Hellwraith	true
+effects_description_dk_effect_agent_cap_increase_dread_hellwraith	Hero capacity: %+n for Hellwraith	true
+effects_description_dk_effect_agent_cap_increase_dread_hellwraith_dummy	Hero capacity: %+n for Hellwraith	true
+effects_description_enable_recruitment_dread_hellwraith	Unlocks [[img:icon_hero]][[/img]]Hero recruitment: Hellwraith	true
+effects_description_unit_cap_ovn_dk_inf_skeleton_javelinmen	Unit capacity: %+n\\nSkeleton Javelinmen	true
+effects_description_unit_cap_ovn_dk_inf_mummies	Unit capacity: %+n\\nMummies	true
+effects_description_unit_cap_ovn_dk_inf_tomb_guardian	Unit capacity: %+n\\nRoyal Guards	true
+effects_description_unit_cap_ovn_dk_inf_tomb_guardian_great_weapons	Unit capacity: %+n\\nRoyal Guards (Great Weapons)	true
+effects_description_unit_cap_ovn_dk_inf_tomb_guardian_peltasts	Unit capacity: %+n\\nRoyal Peltasts	true
+effects_description_unit_cap_ovn_dk_mon_skeleton_giant	Unit capacity: %+n\\nBone Colossus	true
+effects_description_unit_cap_ovn_dk_inf_cairn_wraiths	Unit capacity: %+n\\nCairn Wraiths	true
+effects_description_unit_cap_ovn_dk_mon_skeleton_minotaurs	Unit capacity: %+n\\nSkeletal Minotaurs	true
+effects_description_unit_cap_ovn_dk_mon_bone_hydra	Unit capacity: %+n\\nBone Hydra	true
+effects_description_unit_cap_ovn_dk_veh_mortis_engine_0	Unit capacity: %+n\\nMortis Engine	true
+effects_description_unit_cap_ovn_dk_art_screaming_skull_ballista	Unit capacity: %+n\\nScreaming Skull Ballista	true
+effects_description_dread_tech_lord_unlock_1	Adds the Possessed Hero [[col:yellow]]Persemius[[/col]] to your faction's [[img:icon_general]][[/img]]Lord pool	true
+effects_description_dread_tech_lord_unlock_2	Adds the Traitor King [[col:yellow]]Nebwaneph[[/col]] to your faction's [[img:icon_general]][[/img]]Lord pool	true
+effects_description_dread_tech_lord_unlock_3	Adds the Possessed Hero [[col:yellow]]Thesops[[/col]] to your faction's [[img:icon_general]][[/img]]Lord pool	true
+effects_description_dread_tech_lord_unlock_4	Adds the Traitor King [[col:yellow]]Omanhan III[[/col]] to your faction's [[img:icon_general]][[/img]]Lord pool	true
+effects_description_dread_tech_lord_unlock_5	Adds the Possessed Hero [[col:yellow]]Bellereus[[/col]] to your faction's [[img:icon_general]][[/img]]Lord pool	true
+effects_description_dread_tech_lord_unlock_6	Adds the Traitor High Liche Priest [[col:yellow]]Haptmose[[/col]] to your faction's [[img:icon_general]][[/img]]Lord pool	true
+effect_bundles_localised_title_ovn_lord_trait_dread_king	Loyalists of Nagash	true
+effect_bundles_localised_description_ovn_lord_trait_dread_king	The Dread King and his host of ancient unliving warriors are one of the few remaining forces loyal to the Great Necromancer, much like Arkhan and his Followers, but, unlike him, the Dread King favours a more active military approach to restoring the greatness of his Master.	true
+effects_description_ovn_dread_king_enable_mount_skeletal_pegasus	Mount: Skeletal Pegasus	true
+effects_description_ovn_dread_king_enable_mount_zombie_dragon	Mount: Gaurgon	true
+effects_description_ovn_dread_king_enable_mount_skeletal_elephant	Mount: Skeletal Elephant	false
+effects_description_dread_legion_all_leadership	Leadership: %+n for Royal Guards units	false
+effects_description_dread_legion_all_missile_damage	Missile strength: %+n% for Royal Guards units	false
+effects_description_dread_effect_force_stat_physical_resistance_tmb_skeletons	Physical resistance: %n% for Skeleton Warriors, Skeleton Spearmen, Skeleton Archers, Skeleton Javelinmen, Mummies, Skeleton Hoplites, Skeleton Pikemen and Royal Guards units	false
+effects_description_dread_effect_unit_xp_tmb_all_skeleton	Recruit rank: %+n for Skeleton Warriors, Skeleton Spearmen, Skeleton Archers, Skeleton Javelinmen, Mummies, Skeleton Hoplites, Skeleton Pikemen and Royal Guards units	false
+effects_description_dread_melee_attack_hoplites	Melee attack: %+n for Skeleton Hoplites and Skeleton Pikemen units	false
+effects_description_dread_armour_hoplites	Armour: %+n for Skeleton Hoplites and Skeleton Pikemen units	false
+effects_description_dread_charge_bonus_hoplites	Charge bonus: %+n for Skeleton Hoplites and Skeleton Pikemen units	false
+effects_description_dread_leadership_minotaurs	Leadership: %+n for Skeletal Minotaurs units	false
+effects_description_dread_weapon_strength_minotaurs	Weapon Strength: %+n% for Skeletal Minotaurs units	false
+effects_description_dread_charge_bonus_minotaurs	Charge bonus: %+n% for Skeletal Minotaurs units	false
+effects_description_dread_unit_xp_levels_royal_guards	Recruit rank: %+n for Royal Guards units	false
+effects_description_dread_effect_discouraged_attacks_royal_guard	Enables discouraging attacks for Royal Guards units	false
+effects_description_dread_soulreaper	Passive ability: "Soulreaper"	false
+effects_description_dread_grimoire_necris	Ability: "Grimoire Necris"	false
+effects_description_dread_black_jewel	Passive ability: "Heart of Blackness"	false
+effects_description_enable_ghost_on_death_dummy	Ability: "Lingering Essence"	false
+effects_description_disable_ghost_on_death_dummy	Disable Ability: "Lingering Essence"	false
+effects_description_enable_ghost_on_death_upgraded_dummy	Ability: "Mind over Body"	false
+effects_description_disable_ghost_on_death_upgraded	Disable Ability: "Mind over Body"	false
+effects_description_disable_ghost_on_death_upgraded_dummy	Disable Ability: "Mind over Body"	false
+effects_description_enable_change_at_will	Ability: "Change at Will"	false
+effects_description_enable_change_at_will_dummy	Ability: "Change at Will"	false
+effects_description_dread_effect_enable_unbreakable_hoplites	Attribute: Unbreakable for Skeleton Hoplites and Skeleton Pikemen units	false
+effects_description_dk_effect_agent_action_cost_mod_dread_corrupted_priest_dummy	Hero action cost: %+n% for Corrupted Priest (Dread King only)	false
+effects_description_dk_effect_agent_action_success_chance_dread_corrupted_priest	Hero action success chance: %+n% for Corrupted Priest	false
+effects_description_dk_effect_agent_action_success_chance_dread_corrupted_priest_dummy	Hero action success chance: %+n% for Corrupted Priest (Dread King only)	false
+effects_description_dk_effect_agent_action_cost_mod_elo_centurion_dummy	Hero action cost: %+n% for Hellwraith (Dread King only)	false
+effects_description_dk_effect_agent_action_success_chance_elo_centurion_dummy	Hero action success chance: %+n% for Hetairoi (Dread King only)	false
+effects_description_dk_effect_agent_action_cost_mod_dread_hellwraith_dummy	Hero action cost: %+n% for Hellwraith (Dread King only)	false
+effects_description_dk_effect_agent_action_success_chance_dread_hellwraith_dummy	Hero action success chance: %+n% for Hetairoi (Dread King only)	false
+effects_description_dk_effect_agent_cap_increase_dread_corrupted_priest_dilemma_dummy	Hero capacity: %+n for Corrupted Priest (Dread King only)	false
+effects_description_dk_effect_agent_cap_increase_elo_centurion_dilemma_dummy	Hero capacity: %+n for Hetairoi (Dread King only)	false
+effects_description_dk_effect_agent_cap_increase_dread_hellwraith_dilemma_dummy	Hero capacity: %+n for Hellwraith (Dread King only)	false
+effects_description_wh2_dlc09_tmb_inf_skeleton_ma	Melee Attack: %+n for Skeleton Warriors and Skeleton Spearmen units	false
+effects_description_wh2_dlc09_tmb_inf_skeleton_md	Melee Defence: %+n for Skeleton Warriors and Skeleton Spearmen units	false
+effects_description_wh2_dlc09_tmb_inf_skeleton_archers_ammo	Ammunition: %+n% for Skeleton Archers units	false
+effects_description_vmp_ghouls_wps	Weapon Strength: %+n% for Crypt Ghouls units	false
+effects_description_vmp_ghouls_ai	Bonus vs Infantry: %+n for Crypt Ghouls units	false
+effects_description_vmp_unit_cairn_wraiths_barrier	Barrier: %+n for Cairn Wraiths units	false
+effects_description_vmp_unit_cairn_wraiths_ai	Bonus vs Infantry: %+n for Cairn Wraiths units	false
+effects_description_royal_guard_cavalry_md	Melee Defence: %+n for Royal Guard Cavalry units	false
+effects_description_royal_guard_cavalry_armour	Armour: %+n for Royal Guard Cavalary units	false
+effects_description_ovn_dk_inf_mummies_phys_res	Physical Resistance: %+n% for Mummies units	false
+effects_description_ovn_dk_inf_mummies_ma	Melee Attack: %+n for Mummies units	false
+effects_description_wh2_dlc09_tmb_inf_skeleton_archers_reload	Reload: %+n% for Skeleton Archers units	false
+effects_description_ovn_unending_legions	Ability: "Unending Legions" for Skeleton Warriors and Skeleton Spearmen units	false
+effects_description_ovn_dk_art_bone_throwers_range	Range: %+n% for Bone Throwers units	false
+effects_description_ovn_dk_art_bone_throwers_mdmg	Missile Damage: %+n% for Bone Throwers units	false
+effects_description_ovn_dk_veh_skeleton_archer_chariot_spd	Speed: %+n% for Skeleton Archer Chariots units	false
+effects_description_ovn_dk_veh_skeleton_archer_map_dmg	Armour Piercing Missile Damage: %+n for Skeleton Archer Chariots units	false
+effects_description_ovn_dk_inf_skeleton_javelinmen_aL	Bonus vs Large: %+n for Skeleton Javelinmen units	false
+effects_description_ovn_dk_inf_skeleton_javelinmen_reload	Reload: %+n% for Skeleton Javelinmen units	false
+effects_description_ovn_dread_beasts_frenzy	Ability: "Frenzy" for Crypt Ghouls, Fellbats and Dire Wolves units	false
+effects_description_ovn_basic_rider_chariot_flanker	Attribute: Devastating Flanker for Skeleton Chariots and Skeleton Horsemen units	false
+effects_description_ovn_dk_inf_skeleton_hoplites_def	Melee Defence: %+n for Skeleton Hoplites units	false
+effects_description_ovn_dk_inf_skeleton_hoplites_morale	Leadership: %+n for Skeleton Hoplites units	false
+effects_description_ovn_dk_cav_royal_guard_lancers_charge	Charge Bonus: %+n% for Royal Guard Lancers units	false
+effects_description_ovn_dk_cav_royal_guard_lancers_wps	Weapon Strength: %+n for Royal Guard Lancers units	false
+effects_description_ovn_dk_inf_skeleton_pikemen_armour	Armour: %+n for Skeleton Pikemen units	false
+effects_description_ovn_dk_inf_skeleton_pikemen_aL	Bonus vs Large: %+n for Skeleton Pikemen units	false
+effects_description_ovn_cav_hexwraiths_barrier	Barrier: %+n for Hexwraiths units	false
+effects_description_ovn_cav_hexwraiths_ma	Melee Attack: %+n for Hexwraiths units	false
+effects_description_ovn_unnerving_presence	Ability: "Unnerving Presence" for Mummies, Royal Guard cavalry and Cairn Wraiths units	false
+effects_description_ovn_dread_hidden_javeleens_rchariot_bonethrower_snipe	Attribute: Snipe for Bone Throwers, Skeleton Javelinmen and Skeleton Archer Chariots units	false
+effects_description_ovn_dread_hidden_javeleens_rchariot_bonethrower_stalk	Attribute: Stalk for Bone Throwers, Skeleton Javelinmen and Skeleton Archer Chariots units	false
+effects_description_ovn_dk_art_screaming_skull_ballista_expl_dmg	Explosive Damage: %+n% for Screaming Skull Ballistas units	false
+effects_description_ovn_dk_art_screaming_skull_ballista_ammo	Ammunition: %+n% for Screaming Skull Ballistas units	false
+effects_description_ovn_dk_mon_skeleton_minotaurs_res_mis	Missile Resistance: %+n% for Skeletal Minotaurs units	false
+effects_description_ovn_dk_mon_skeleton_minotaurs_ch_add	Charge bonus: %+n for Skeletal Minotaurs units	false
+effects_description_ovn_dk_mon_skeleton_elephant_splash	Splash Damage: %+n% for Skeletal Elephants units	false
+effects_description_ovn_dk_inf_tomb_guardian_ward	Ward Save: %+n% for Royal Guards units	false
+effects_description_ovn_dk_inf_tomb_guardian_def	Melee Defence: %+n for Royal Guards units	false
+effects_description_ovn_dk_inf_tomb_guardian_great_weapons_ma	Melee Attack: %+n for Royal Guards (Great Weapons) units	false
+effects_description_ovn_dk_inf_tomb_guardian_great_weapons_wps	Weapon Strength: %+n% for Royal Guards (Great Weapons) units	false
+effects_description_dread_passive_inpenetrable_phalanx	Replaces the "Phalanx" passive ability with "Impenetrable Phlanx" for Skeleton Hoplites and Skeleton Pikemen units	false
+effects_description_ovn_advanced_riders	Attribute: Perfect Vigour for Royal Guard cavalry and Hexwraiths units	false
+effects_description_ovn_dk_inf_tomb_guardian_peltasts_rdmg	Missile Damage: %+n% for Royal Guard Peltasts units	false
+effects_description_ovn_dk_inf_tomb_guardian_peltasts_range	Range: %+n% for Royal Guard Peltasts units	false
+effects_description_ovn_dk_mon_bone_hydra_misres	Missile Resistance: %+n% for Bone Hydra units	false
+effects_description_ovn_dk_mon_bone_hydra_ma_mult	Melee Attack: %+n% for Bone Hydra units	false
+effects_description_ovn_mino_elephant_hydra_ferocity	Ability: "Preserved Ferocity" for Skeletal Minotaurs, Skeletal Elephant and Bone Hydra units	false
+effects_description_ovn_dread_royal_elite	Ability: "Undead Elite" for all Royal Guard units	false
+effects_description_ovn_dk_art_screaming_skull_ballista_barrier	Barrier: %+n for Screaming Skull Ballistas units	false
+effects_description_dread_legion_all_recruit_rank	Recruitment Rank: %+n for Royal Guards units	false
+effects_description_ovn_dk_veh_mortis_engine_0_barrier	Barrier: %+n for Mortis Engine units	false
+effects_description_ovn_dk_veh_mortis_engine_0_mdef	Melee Defence: %+n for Mortis Engine units	false
+effects_description_ovn_undead_discipline	Ability: "Undead Discipline" for all Skeleton melee units	false
+effects_description_ovn_chariot_charge	Ability: "Unholy Warmachines" for Skeleton Chariot units	false
+effects_description_ovn_undead_rider_elite	Ability: "Death Knights" for all Skeleton melee cavalary units	false
+effects_description_ovn_ghost_barrier	Ability: "Soul Siphoner" for ethereal units	false
+effects_description_ovn_spear_tactics_vs_large	Bonus vs Large: %+n for all Spear infantry units	false
+effects_description_ovn_spear_tactics_mdef	Melee Defence: %+n for all Spear infantry units	false
+effects_description_ovn_dk_mon_skeleton_giant_res_all	Ward Save: %+n% for Bone Colossus units	false
+effects_description_ovn_dk_mon_skeleton_giant_wps	Weapon Strength: %+n% for Bone Colossus units	false
+effects_description_ovn_bestial_rage	Ability: "Infectious Rage" for Crypt Ghouls, Dire Wolves and Fellbats units	false
+effects_description_ovn_dread_archer_poison	"Poison Arrows" ammunition for Skeleton Archers units (improved damage and poison)	false
+effects_description_ovn_dread_hunter_javelin	"Poison Javelins" ammunition for Skeleton Javelinmen units (improved damage and poison)	false
+effects_description_ovn_royal_hunter_javelin	"Cursed Javelins" ammunition for Royal Guard Peltasts units (improved magical damage and Slow Death poison)	false
+effects_description_ovn_horse_archer_arrows_poison	"Soul Siphon" ammunition for Skeleton Horse Archers units (improved magical damage and soul quenchened contact effect)	false
+effects_description_ovn_chariot_explosive_arrows	"Magical Explosive Arrows" ammunition for Skeleton Archer Chariots units (improved magical damage and added explosive damage)	false
+effects_description_ovn_splitting_skulls	"Splitting Skulls" ammunition for Screaming Skull Ballistas units (projectile splits in several skulls midair)	false
+effects_description_ovn_monster_slaying_bolts	"Monster Slayer" ammunition for Bone Throwers units (homing effect and higher damage)	false
+effects_description_ovn_necromantic_gatherers	Ability: "Miasma of Death" for Skeletal Minotaurs, Bone Colossus, Bone Hydra and Skeletal Elephant units	false
+effects_description_ovn_dread_all_characters_lesser_raise	Ability: "Lesser Raise Dead" for all Characters	false
+effects_description_ovn_dread_all_characters_gaze	Ability: "Gaze of Nagash" for all Characters	false
+effects_description_ovn_2_turn_recruits_time_reduction	Recruitment Duration: %+n for Skeletal Minotaurs, Bone Colossus, Bone Hydra, Skeletal Elephant and Mortis Engine units	false
+effects_description_ovn_dreadking_ror_units_all_cap+	Unit Capacity: %+n for Reikwald Brigands, Wights of the Twisted Spire (Skeleton Hoplites), The Catacomb Guardians (Royal Guards), and Kleruchoi of Bhagar (Mummies)	false
+effects_description_ovn_dread_all_non_characters_remove_unstable	Removes Ability: "Crumbling" from all non-character undead units	false
+effects_description_ovn_dread_all_non_characters_remove_unstable_II	Removes Ability: "Disintegrating" from all non-character undead units	false
+effects_description_wh2_dlc09_tmb_chariots_charge_mult	Charge Bonus: %+n% for Skeleton Chariots units	false
+effects_description_wh2_dlc09_tmb_chariots_armour	Armour: %+n for Skeleton Chariots units	false
+effects_description_ovn_dk_mon_skeleton_elephant_phys_res	Physical Resistance: %+n% for Skeletal Elephant units	false
+effects_description_dread_tech_lord_unlock_hand	Adds the Dark Lord of Nagash [[col:yellow]]Hand of Nagash[[/col]] to your faction's [[img:icon_general]][[/img]]Lord pool	false
+effects_description_ovn_dk_art_screaming_skull_ballista_reload	Reload: %+n% for Screaming Skull Ballistas units	false
+effects_description_ovn_dk_mon_skeleton_elephant_ai	effects_description_ovn_dk_mon_skeleton_elephant_ai	false
+effects_description_dread_effect_force_stat_ammunition_tmb_skeleton_archer_catapult	Ammunition: %+n% for Skeleton Archers, Skeleton Javelinmen, Royal Peltasts, Bone Throwers and Screaming Skull Ballistas units	false
+effects_description_dread_effect_force_stat_missile_damage_tmb_skeleton_archer_catapult	Missile strength: %+n% for Skeleton Archers, Skeleton Javelinmen, Royal Peltasts, Bone Throwers and Screaming Skull Ballistas units	false
+effects_description_dread_effect_force_stat_armour_tmb_melee_infantry	Armour: %+n for Mummies, Skeleton Hoplites, Skeleton Pikemen, Royal Guards, Crypt Ghouls, Skeleton Warriors and Spearmen units	false
+effects_description_dread_effect_force_stat_melee_defence_tmb_all_melee_infantry	Melee defence: %+n for Mummies, Skeleton Hoplites, Skeleton Pikemen, Royal Guards, Crypt Ghouls, Skeleton Warriors and Spearmen units	false
+effects_description_dread_effect_force_stat_speed_tmb_horsemen_necropolis	Speed: %+n% for Royal Guard Cavalry, Skeleton Horsemen and Skeleton Horsemen Archers units	false
+effects_description_dread_effect_force_stat_missile_damage_tmb_horsemen	Missile strength: %+n% for Skeleton Horsemen Archers units	false
+effects_description_dread_effect_force_stat_weapon_strength_tmb_horsemen_necropolice	Weapon strength: %+n% for Royal Guard Cavalry, Skeleton Horsemen and Skeleton Horsemen Archers units	false
+effects_description_dread_effect_force_stat_charge_bonus_add_tmb_chariot_warsphinx	Charge bonus: %+n for Skeletal Elephant, Mortis Engine, Skeleton Chariot and Skeleton Archer Chariot units	false
+effects_description_dread_effect_force_stat_melee_attack_tmb_chariot_warsphinx	Melee attack: %+n for Skeletal Elephant, Mortis Engine, Skeleton Chariot and Skeleton Archer Chariot units	false
+effects_description_dread_effect_force_stat_reload_time_reduction_chariot_warsphinx	Reload time reduction: %+n% for Skeletal Elephant and Skeleton Archers Chariot units	false
+effects_description_dread_effect_force_stat_charge_bonus_add_tmb_necrosphinx_scorpion_stalker	Charge bonus: %+n for Skeletal Minotaurs, Bone Hydra and Bone Colossus units	false
+effects_description_dread_effect_force_stat_melee_attack_necrosphinx_scorpion_stalker	Melee attack: %+n for Skeletal Minotaurs, Bone Hydra and Bone Colossus units	false
+effects_description_dread_effect_force_stat_weapon_strength_tmb_necrosphinx_scorpion_stalker	Weapon strength: %+n% for Skeletal Minotaurs, Bone Hydra and Bone Colossus units	false
+effects_description_dread_effect_force_stat_magic_resistance_cairn_wraith_hex_wraith	Spell resistance: %n% for Cairn Wraiths and Hexwraiths units	false
+effects_description_dread_effect_force_stat_speed_fell_bats_dire_wolves	Speed: %+n% for Fell Bats and Dire Wolves units	false
+effects_description_dread_effect_force_stat_melee_attack_ushabti_titan	Melee attack: %+n for Fell Bats, Dire Wolves, Cairn Wraiths and Hexwraiths units	false
+effects_description_dread_effect_force_stat_ammunition_tmb_archer_rank7	Ammunition: %+n% for Skeleton Archers, Skeleton Javelinmen, Royal Peltasts, Bone Throwers and Screaming Skull Ballistas units {{tr:rank7}}	false
+effects_description_dread_effect_force_stat_missile_damage_tmb_archer_rank7	Missile strength: %+n% for Skeleton Archers, Skeleton Javelinmen, Royal Peltasts, Bone Throwers and Screaming Skull Ballistas units {{tr:rank7}}	false
+effects_description_dread_effect_force_stat_missile_resistance_tmb_archer_rank7	Missile resistance: %n% for Skeleton Archers, Skeleton Javelinmen, Royal Peltasts, Bone Throwers and Screaming Skull Ballistas units {{tr:rank7}}	false
+effects_description_dread_effect_force_stat_armour_tmb_cav_rank7	Armour: %+n for Fell Bats, Dire Wolves, Hexwraiths, Royal Guard Cavalry, Skeleton Chariot, Skeleton Archer Chariot, Skeleton Horsemen and Skeleton Horsemen Archers units {{tr:rank7}}	false
+effects_description_dread_effect_force_stat_melee_attack_tmb_cavalry_rank7	Melee attack: %+n for Fell Bats, Dire Wolves, Hexwraiths, Royal Guard Cavalry, Skeleton Chariot, Skeleton Archer Chariot, Skeleton Horsemen and Skeleton Horsemen Archers units {{tr:rank7}}	false
+effects_description_dread_effect_force_stat_physical_resistance_tmb_cav_rank7	Physical resistance: %n% for Fell Bats, Dire Wolves, Hexwraiths, Royal Guard Cavalry, Skeleton Chariot, Skeleton Archer Chariot, Skeleton Horsemen and Skeleton Horsemen Archers units {{tr:rank7}}	false
+effects_description_dread_effect_force_stat_armour_tmb_melee_infantry_rank7	Armour: %+n for Mummies, Cairn Wraiths, Skeleton Hoplites, Skeleton Pikemen, Royal Guards, Crypt Ghouls, Skeleton Warriors and Spearmen units {{tr:rank7}}	false
+effects_description_dread_effect_force_stat_missile_resistance_tmb_infantry_rank7	Missile resistance: %n% for Mummies, Cairn Wraiths, Skeleton Hoplites, Skeleton Pikemen, Royal Guards, Crypt Ghouls, Skeleton Warriors and Spearmen units {{tr:rank7}}	false
+effects_description_dread_effect_force_stat_speed_tmb_infantry_rank7	Speed: %+n% for Mummies, Cairn Wraiths, Skeleton Hoplites, Skeleton Pikemen, Royal Guards, Crypt Ghouls, Skeleton Warriors and Spearmen units {{tr:rank7}}	false
+effects_description_dread_effect_force_stat_leadership_tmb_monster_rank7	Leadership: %+n for Skeletal Minotaurs, Skeletal Elephant, Mortis Engine, Bone Hydra and Bone Colossus units {{tr:rank7}}	false
+effects_description_dread_effect_force_stat_magic_resistance_tmb_monster_rank7	Spell resistance: %n% for Skeletal Minotaurs, Skeletal Elephant, Mortis Engine, Bone Hydra and Bone Colossus units {{tr:rank7}}	false
+effects_description_dread_effect_force_stat_weapon_strength_tmb_all_monster_rank7	Weapon strength: %+n% for Skeletal Minotaurs, Skeletal Elephant, Mortis Engine, Bone Hydra and Bone Colossus units {{tr:rank7}}	false
+effects_description_dread_effect_attribute_enable_perfect_vigour_minotaurs	Attribute: Perfect Vigour for Skeletal Minotaurs units	false
+effects_description_ovn_hellwraith_magic_suppression	Ability: "Magic Suppression"	false
+effects_description_ovn_unnerving_presence_character	Ability: "Unnerving Presence"	false
+effects_description_ovn_ghost_packlead_wps	Weapon strength: %+n% for Cairn Wraiths, Mortis Engines and Hexwraiths	false
+effects_description_ovn_ghost_packlead_ma	Melee attack: %+n for Cairn Wraiths, Mortis Engines and Hexwraiths	false
+effects_description_ovn_dk_inf_skeleton_pikemen_morale	Leadership: %+n for Skeleton Pikemen {{tr:rank7}}	false
+effects_description_ovn_dk_inf_skeleton_pikemen_phys_res	Physical Resistance: %+n% for Skeleton Pikemen {{tr:rank7}}	false
+effects_description_ovn_dk_vet_hoplites_mis_block	Attribute: 360° Missile Block Chance for Skeleton Hoplites {{tr:rank7}}	false
+effects_description_ovn_dk_vet_hoplites_ap_add	Armour Piercing Melee Damage: %+n for Skeleton Hoplites {{tr:rank7}}	false
+effects_description_ovn_dk_vet_minotaurs_chrg_mult	Charge Bonus: %+n% for Skeletal Minotaurs {{tr:rank7}}	false
+effects_description_ovn_dk_vet_minotaurs_spd	Speed: %+n% for Skeletal Minotaurs {{tr:rank7}}	false
+effects_description_ovn_dk_vet_minotaurs_atk_mult	Melee Attack: %+n% for Skeletal Minotaurs {{tr:rank7}}	false
+effects_description_ovn_missile_mirror_bound	Ability: "Missile Mirror"	false
+effects_description_ovn_possesed_overdrive	Ability: "Overdrive"	false
+effects_description_ovn_transmutation_bound	Ability: "Transmutation of Lead"	false
+effects_description_wh2_dlc09_tmb_ushabti_ovn_dk_armour	Armour: %+n for all Ushabti units	false
+effects_description_wh2_dlc09_tmb_ushabti_ovn_dk_md	Melee Defence: %+n for all Ushabti units	false
+effects_description_wh2_dlc09_tmb_ushabti_ovn_dk_ld	Leadership: %+n for all Ushabti units	false
+effects_description_wh2_dlc09_tmb_mon_ushabti_0_ovn_dk_vs_inf	Bonus vs Infantry: %+n for Ushabti	false
+effects_description_wh2_dlc09_tmb_mon_ushabti_1_mis_dmg	Missile Damage: %+n% for Ushabti (Greatbows)	false
+effects_description_ovn_enable_contact_phase_mummy_curse	Enables 'Curse of the Mummy' attacks	false
+effects_description_ovn_dk_vet_ushabti_melee_ma	Melee Attack: %+n for Ushabti {{tr:rank7}}	false
+effects_description_ovn_dk_vet_ushabti_melee_wps	Weapon strength: %+n% for Ushabti {{tr:rank7}}	false
+effects_description_ovn_dk_vet_ushabti_bow_reload	Reload Speed: %+n% for Ushabti (Greatbows) {{tr:rank7}}	false
+effects_description_ovn_dk_vet_ushabti_bow_ammo	Ammunition: %+n% for Ushabti (Greatbows) {{tr:rank7}}	false
+effects_description_ovn_tmb_inf_tomb_guard_1_ch_def	Attribute: 'Expert Charge Defense' for Tomb Guard (Halberds)	false
+effects_description_ovn_tmb_inf_tomb_guard_0_pvig	Attribute: 'Perfect Vigour' for Tomb Guard	false
+effects_description_ovn_tmb_inf_tomb_guard_0_wps_ap	Armour Piercing Melee Damage: %+n for Tomb Guard	false
+effects_description_ovn_tmb_inf_tomb_guard_1_aL	Bonus vs Large: %+n for Tomb Guard (Halberds)	false
+effects_description_ovn_wh2_dlc09_tmb_tomb_guard_armour	Armour: %+n for all Tomb Guard units	false
+effects_description_ovn_wh2_dlc09_tmb_tomb_guard_ld	Leadership: %+n for all Tomb Guard units	false
+effects_description_ovn_vet_tmb_inf_tomb_guard_0_frenzy	Ability: 'Frenzy' for Tomb Guard {{tr:rank7}}	false
+effects_description_ovn_vet_tmb_inf_tomb_guard_1_guard	Ability: 'Guardian' for Tomb Guard (Halberds) {{tr:rank7}}	false
+effects_description_ovn_vet_tmb_inf_tomb_guard_1_regen	Ability: 'Regeneration' for Tomb Guard (Halberds) {{tr:rank7}}	false
+effects_description_ovn_vet_tmb_inf_tomb_guard_0_ma	Melee Attack: %+n for Tomb Guard {{tr:rank7}}	false

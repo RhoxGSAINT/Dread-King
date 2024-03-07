@@ -1,0 +1,8 @@
+resource_cost	trade_resource
+#resource_cost_trade_resource_junctions_tables;0;db/resource_cost_trade_resource_junctions_tables/ovn_dread_king_only	
+ovn_dk_cav_ephalian_cost	res_gold_idols
+ovn_dk_art_polybolos_cost	res_gold_idols
+ovn_dk_art_polybolos_cost	res_rom_iron
+ovn_dk_inf_spartan_cost	res_animals
+ovn_dk_inf_spartan_cost	res_gold_idols
+ovn_dk_inf_spartan_cost	res_rom_iron

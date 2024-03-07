@@ -1,0 +1,72 @@
+key	text	tooltip
+#Loc;1;text/db/ovn_dread_king_only_ancillaries.loc		
+ancillaries_colour_text_dread_barded_nightmare	Long-dead destriers, awakened to serve their Unliving masters far beyond death.	false
+ancillaries_onscreen_name_dread_barded_nightmare	Skeletal Steed	false
+ancillaries_colour_text_dread_zombie_dragon	The Dragon Gaurgon, also called the Blazefang, was gifted to the Dread King by Nagash. The beast still faithfully serves its master in Undeath.	false
+ancillaries_onscreen_name_dread_zombie_dragon	Gaurgon	false
+ancillaries_colour_text_Soulreaper	This ancient sword, imbued with dark magic, steals the souls of all those it strikes down.	false
+ancillaries_onscreen_name_Soulreaper	Soulreaper	false
+ancillaries_colour_text_dread_grimoire_necris	Written by the Dread King himself during the reign of Nagash, its entire contents are committed to his ancient memory. Centuries later it fell into the hands of Larenscheld, from whom he learned about the the Dread King’s legend.	false
+ancillaries_onscreen_name_dread_grimoire_necris	Grimoire Necris	false
+ancillaries_colour_text_dread_black_jewel	The Black Jewel of the Dread King contains his very soul. Embedded in his rib cage, it beats like an obscene, black and glistening heart.	false
+ancillaries_onscreen_name_dread_black_jewel	Heart of Blackness	false
+ancillaries_colour_text_dread_legion_barded_skeletal_steed	Long-dead destriers, awakened to serve their Unliving masters far beyond death.	false
+ancillaries_onscreen_name_dread_legion_barded_skeletal_steed	Skeletal Steed	false
+ancillaries_colour_text_dread_chariot_skeletal_steed	Bone steeds pull dreaded chariots, impacting enemy lines with bone-shattering force and grinding the corpses beneath their heavy wheels.	false
+ancillaries_onscreen_name_dread_chariot_skeletal_steed	Dread Chariot	false
+ancillaries_colour_text_luthor_the_hunchback	Luthor is Larenscheld's faithful servant. He excels at ambushing, supporting his master to get rid of pesky adventurers and keeping his master safe from daggers in the dark.	false
+ancillaries_onscreen_name_luthor_the_hunchback	Luthor the Hunchback	false
+ancillaries_onscreen_name_mount_chariot_hand_of_nagash	Chariot of the Hand	false
+ancillaries_colour_text_mount_chariot_hand_of_nagash	The Hand of Nagash is an infamous charioteer. Now that he is resurrected and has regained his chariot, only misery awaits the living in his path.	false
+ancillaries_onscreen_name_elo_hand_punished_one	The Punished One	false
+ancillaries_colour_text_elo_hand_punished_one	An enemy so hated by the Hand that he was strapped on a halberd and is used as a battlestandard even after death. Those who came close enough and survived swear that the skeleton still screams in agony. Without a sound, yet unbearably loud.	false
+ancillaries_onscreen_name_elo_hungering_blade	The Hungering Blade	false
+ancillaries_colour_text_elo_hungering_blade	A gift from Nagash himself. When its wielder fades, the blade awakens and feeds him with the life force of its victims so he may persist against all odds.	false
+ancillaries_onscreen_name_dread_skeletal_steed	Skeletal Steed	false
+ancillaries_colour_text_dread_skeletal_steed	Long-dead destriers, awakened to serve their Unliving masters far beyond death.	false
+ancillaries_onscreen_name_dread_pegasus	Skeletal Pegasus	false
+ancillaries_colour_text_dread_pegasus	The Pegasi were brought to Nehekhara from the Dread King's homelands. Now the reanimated bones still serve their Unliving masters.	false
+ancillaries_onscreen_name_mount_skeletal_steed_hand_of_nagash	Skeletal Steed	false
+ancillaries_colour_text_mount_skeletal_steed_hand_of_nagash	Long-dead destriers, awakened to serve their Unliving masters far beyond death.	false
+ancillaries_onscreen_name_dread_legion_pegasus	Skeletal Pegasus	false
+ancillaries_colour_text_dread_legion_pegasus	The Pegasi were brought to Nehekhara from the Dread King's homelands. Now the reanimated bones still serve their Unliving masters.	false
+ancillaries_onscreen_name_dread_skeletal_steed_priest_death	Skeletal Steed	false
+ancillaries_colour_text_dread_skeletal_steed_priest_death	Long-dead destriers, awakened to serve their Unliving masters far beyond death.	false
+ancillaries_onscreen_name_dread_skeletal_steed_priest_shadow	Skeletal Steed	false
+ancillaries_colour_text_dread_skeletal_steed_priest_shadow	Long-dead destriers, awakened to serve their Unliving masters far beyond death.	false
+ancillaries_onscreen_name_dread_skeletal_steed_priest_vampires	Skeletal Steed	false
+ancillaries_colour_text_dread_skeletal_steed_priest_vampires	Long-dead destriers, awakened to serve their Unliving masters far beyond death.	false
+ancillaries_explanation_text_wh_main_anc_mount_gaurgon		false
+ancillaries_onscreen_name_wh_main_anc_mount_gaurgon	Gaurgon	false
+ancillaries_colour_text_wh_main_anc_mount_gaurgon	The Dragon Gaurgon, also called the Blazefang, was gifted to the Dread King by Nagash. The beast still faithfully serves its master in Undeath.	false
+ancillaries_explanation_text_wh_main_anc_mount_skeleton_pegasus		false
+ancillaries_onscreen_name_wh_main_anc_mount_skeleton_pegasus	Skeletal Pegasus	false
+ancillaries_colour_text_wh_main_anc_mount_skeleton_pegasus	The Pegasi were brought to Nehekhara from the Dread King's homelands. Now the reanimated bones still serve their Unliving masters.	false
+ancillaries_explanation_text_wh_main_anc_mount_chariot_hand_of_nagash		false
+ancillaries_onscreen_name_wh_main_anc_mount_chariot_hand_of_nagash	Chariot of the Hand	false
+ancillaries_colour_text_wh_main_anc_mount_chariot_hand_of_nagash	The Hand of Nagash is an infamous charioteer. Now that he is resurrected and has regained his chariot, only misery awaits the living in his path.	false
+ancillaries_onscreen_name_dread_anc_mount_haptmose_casket_of_souls	Casket of Souls	false
+ancillaries_colour_text_dread_anc_mount_haptmose_casket_of_souls	When the souls are released they endeavour not to return without new victims to torment for eternity.	false
+ancillaries_explanation_text_dread_anc_mount_haptmose_casket_of_souls		false
+ancillaries_onscreen_name_dread_anc_mount_haptmose_skeletal_steed	Skeletal Steed	false
+ancillaries_colour_text_dread_anc_mount_haptmose_skeletal_steed	Long-dead destriers, awakened to serve their Unliving masters far beyond death.	false
+ancillaries_explanation_text_dread_anc_mount_haptmose_skeletal_steed		false
+ancillaries_onscreen_name_dread_anc_mount_haptmose_skeleton_chariot	Skeleton Chariot	false
+ancillaries_colour_text_dread_anc_mount_haptmose_skeleton_chariot	The pride of Nehekharan armies, impacting enemy lines with bone-shattering force and grinding the corpses beneath their heavy wheels.	false
+ancillaries_explanation_text_dread_anc_mount_haptmose_skeleton_chariot		false
+ancillaries_colour_text_mount_barded_skeletal_steed_liche_vampires	Long-dead destriers, awakened to serve their Unliving masters far beyond death.	false
+ancillaries_onscreen_name_mount_barded_skeletal_steed_liche_vampires	Skeletal Steed	false
+ancillaries_colour_text_mount_chariot_liche_vampires	Bone steeds pull dreaded chariots, impacting enemy lines with bone-shattering force and grinding the corpses beneath their heavy wheels.	false
+ancillaries_onscreen_name_mount_chariot_liche_vampires	Dread Chariot	false
+ancillaries_colour_text_mount_warsphinx_liche_vampires	Elephants are unstoppable beasts, even more so when reanimated by dark magic.	false
+ancillaries_onscreen_name_mount_warsphinx_liche_vampires	Skeletal Elephant	false
+ancillaries_onscreen_name_mount_pegasus_liche_vampires	Skeletal Pegasus	false
+ancillaries_colour_text_mount_pegasus_liche_vampires	The Pegasi were brought to Nehekhara from the Dread King's homelands. Now the reanimated bones still serve their Unliving masters.	false
+ancillaries_colour_text_mount_barded_skeletal_steed_liche_death	Long-dead destriers, awakened to serve their Unliving masters far beyond death.	false
+ancillaries_onscreen_name_mount_barded_skeletal_steed_liche_death	Skeletal Steed	false
+ancillaries_colour_text_mount_chariot_liche_death	Bone steeds pull dreaded chariots, impacting enemy lines with bone-shattering force and grinding the corpses beneath their heavy wheels.	false
+ancillaries_onscreen_name_mount_chariot_liche_death	Dread Chariot	false
+ancillaries_colour_text_mount_warsphinx_liche_death	Elephants are unstoppable beasts, even more so when reanimated by dark magic.	false
+ancillaries_onscreen_name_mount_warsphinx_liche_death	Skeletal Elephant	false
+ancillaries_onscreen_name_mount_pegasus_liche_death	Skeletal Pegasus	false
+ancillaries_colour_text_mount_pegasus_liche_death	The Pegasi were brought to Nehekhara from the Dread King's homelands. Now the reanimated bones still serve their Unliving masters.	false

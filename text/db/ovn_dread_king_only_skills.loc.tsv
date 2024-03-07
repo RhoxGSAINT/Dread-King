@@ -1,0 +1,115 @@
+key	text	tooltip
+#Loc;1;text/db/ovn_dread_king_only_skills.loc		
+effects_description_larenscheld_ghost_matt	Melee attack: %+n for Larenscheld's ghost form	true
+effects_description_larenscheld_ghost_mdef	Melee defence: %+n for Larenscheld's ghost form	true
+effects_description_larenscheld_ghost_vsmall	Bonus vs Infantry: %+n for Larenscheld's ghost form	true
+effects_description_larenscheld_ghost_ward	Ward save: %n% for Larenscheld's ghost form	true
+effects_description_larenscheld_ghost_vlarge	Bonus vs Large: %+n for Larenscheld's ghost form	true
+effects_description_larenscheld_ghost_armour	Armour: %+n for Larenscheld's ghost form	true
+effects_description_larenscheld_ghost_morale	Leadership: %+n for Larenscheld's ghost form	true
+effects_description_larenscheld_ghost_wps	Weapon strength: %+n% for Larenscheld's ghost form	true
+effects_description_elo_enable_lands_nagash	Ability: "Cursed Lands"	true
+effects_description_dread_legion_peltasts_cap	Unit Capacity: %+n for Royal Peltasts	true
+effects_description_elo_enable_call_legions	Ability: "Call the Legions"	true
+effects_description_elo_hand_punished_one	Passive ability: "The Punished One"	true
+effects_description_elo_hungering_blade	Passive ability: "The Hungering Blade"	true
+effects_description_elo_hand_vortex	Ability: "Call of Death"	true
+effects_description_elo_hand_judge_executioner	Ability: "Jury, Judge and Executioner"	true
+character_skills_localised_name_dread_legion_barded_skeletal_steed	Skeletal Steed	true
+character_skills_localised_description_dread_legion_barded_skeletal_steed	Long-dead destriers, awakened to serve their Unliving masters far beyond death.	true
+character_skills_localised_name_dread_chariot_skeletal_steed	Dread Chariot	true
+character_skills_localised_description_dread_chariot_skeletal_steed	Bone steeds pull dreaded chariots, impacting enemy lines with bone-shattering force and grinding the corpses beneath their heavy wheels.	true
+character_skills_localised_name_dread_we_are_legion	We are Legion	true
+character_skills_localised_description_dread_we_are_legion	Once the Dread Legion had soldiers beyond counting. Now they lay beneath the sand, until their master calls them to battle once more.	true
+character_skills_localised_name_dread_eternal_march	Eternal March	true
+character_skills_localised_description_dread_eternal_march	The legion ever marches onwards to bring death to the living.	true
+character_skills_localised_name_dread_blessing_nagash	Blessing of Nagash	true
+character_skills_localised_description_dread_blessing_nagash	Neither grievous wounds nor death can hold down the favoured servants of Nagash for long.	true
+character_skills_localised_description_dread_king_trait	The Dread King marches at the front of his legions to further the plans of his master, Nagash, and bring the blessing of death to the living.	false
+character_skills_localised_name_dread_king_trait	Disciple of Nagash	false
+character_skills_localised_description_elo_hand_vortex	Focussing the winds of death around him, the Hand of Nagash can unleash a devastating wave of destruction.	true
+character_skills_localised_name_elo_hand_vortex	Call of Death	true
+character_skills_localised_name_mount_chariot_hand_of_nagash	Chariot of the Hand	false
+character_skills_localised_description_mount_chariot_hand_of_nagash	The Hand of Nagash was known to terrorize the lands on his mighty chariot, filled with dark magic.	false
+character_skills_localised_name_elo_hand_punished_one	The Punished One	false
+character_skills_localised_description_elo_hand_punished_one	The skeleton on this weapon is known to scream in agony. No sound is produced, yet all close to it feel its pain and witness its torment.	false
+character_skills_localised_name_elo_hungering_blade	The Hungering Blade	false
+character_skills_localised_description_elo_hungering_blade	A gift from Nagash to a loyal servant, the hungering blade will extend the unholy existence of its wielder should he ever be in danger.	false
+character_skills_localised_name_elo_hand_judge_executioner	Jury, Judge and Executioner	false
+character_skills_localised_description_elo_hand_judge_executioner	To be honest it is mostly executioner. Everyone who stands against Nagash is guilty by default.	false
+character_skills_localised_description_elo_terror_land	Where the Hand of Nagash goes, fear and despair follow.	false
+character_skills_localised_name_elo_terror_land	Terror of the Lands	false
+character_skills_localised_description_elo_dark_charioteer	The Hand of Nagash has always been infamous for their merciless use of chariots and riders.	false
+character_skills_localised_name_elo_dark_charioteer	Dark Chariot Master	false
+character_skills_localised_description_elo_undead_traveler	No land is too remote, no place is truly ever out of reach.	false
+character_skills_localised_name_elo_undead_traveler	Unliving Traveler	false
+character_skills_localised_description_elo_undead_warrior	Magic made the Hand what he is now, but in war he prefers cold steel over the might of magic.	false
+character_skills_localised_name_elo_undead_warrior	Warrior Liche	false
+character_skills_localised_description_elo_hand_destroyer	Burn the cities of the living so they may join us in death. 	false
+character_skills_localised_name_elo_hand_destroyer	Destroyer of Lands	false
+character_skills_localised_description_elo_hand_of_nagash_trait	In the name of Nagash, all kingdoms must fall. There is no rest, no peace and no mercy.	false
+character_skills_localised_name_elo_hand_of_nagash_trait	Eternal Crusade	false
+character_skills_localised_name_larenscheld_innate	Eternal Reward	true
+character_skills_localised_description_larenscheld_innate	Gunther Larenscheld has awoken one of Nagash's most loyal Lieutenants, the Dread King, in exchange for eternal life. Now he has received the promised reward - even in death, his spirit will not leave the mortal world.	true
+character_skills_localised_name_elo_skill_death	Supernatural Prowess	false
+character_skills_localised_description_elo_skill_death	Without the limitations of a body, Larenscheld is a much more competent fighter in death than he ever could be in life. 	false
+character_skills_localised_name_elo_vengeful_spirit	Vengeful Haunting	false
+character_skills_localised_description_elo_vengeful_spirit	Larenscheld's ghost haunts the living, stalking the enemies soldiers.	false
+character_skills_localised_name_elo_lifetaker_spirit	Lifedestroying Haunting	false
+character_skills_localised_description_elo_lifetaker_spirit	Larenscheld specializes in killing the biggest enemies to extinguish their more potent life force in the name of Nagash.	false
+character_skills_localised_name_elo_necromantic_spectre	Necromantic Spectre	false
+character_skills_localised_description_elo_necromantic_spectre	Nagash allows Larenscheld's spirit to channel the winds of magic, enabling him to keep casting spells even in his ghost form.	false
+character_skills_localised_name_elo_wraith_liche	Wraith Liche	false
+character_skills_localised_description_elo_wraith_liche	Master of the dead in life, still master of the dead in death.	false
+character_skills_localised_name_elo_death_beyond	Death from Beyond	false
+character_skills_localised_description_elo_death_beyond	Larenscheld opens a portal through which vengeful spirits in the form of ethereal skulls appear. They are crashing down on the world of the living, causing widespread destruction.	false
+character_skills_localised_name_elo_ghost_ward	Indestructible Presence	false
+character_skills_localised_description_elo_ghost_ward	All the difficulties to finally achieve immortality make Larenscheld cling to his unlife with an iron will forged by desperation and hardship.	false
+character_skills_localised_name_elo_change_at_will	Change at Will	false
+character_skills_localised_description_elo_change_at_will	Larenscheld may shed his mortal form at any time voluntarily to access his superior ghost form.	false
+character_skills_localised_name_elo_true_wraith	True Ethereal Liche	false
+character_skills_localised_description_elo_true_wraith	No longer just a mere apparition, Larenscheld's will remains after death - and becomes much more powerful.	false
+character_skills_localised_name_luthor_the_hunchback	Luthor the Hunchback	false
+character_skills_localised_description_luthor_the_hunchback	Luthor is Larenscheld's faithful servant. He excels at ambushing, supporting his master to get rid of pesky adventurers and keeping his master safe from daggers in the dark.	false
+character_skills_localised_description_liche_immortality	The liche has discarded their life to achieve an existence as an immortal undead. As long as their will remains unbroken, they are almost impossible to destroy permanently.	true
+character_skills_localised_name_liche_immortality	Immortality in Death	true
+character_skills_localised_description_mount_barded_skeletal_steed_liche_vampires	Long-dead destriers, awakened to serve their Unliving masters far beyond death.	true
+character_skills_localised_name_mount_barded_skeletal_steed_liche_vampires	Skeletal Steed	true
+character_skills_localised_description_mount_chariot_liche_vampires	Bone steeds pull dreaded chariots, impacting enemy lines with bone-shattering force and grinding the corpses beneath their heavy wheels.	true
+character_skills_localised_name_mount_chariot_liche_vampires	Dread Chariot	true
+character_skills_localised_description_mount_warsphinx_liche_vampires	Elephants are unstoppable beasts, even more so when reanimated by dark magic.	true
+character_skills_localised_name_mount_warsphinx_liche_vampires	Skeletal Elephant	true
+character_skills_localised_description_elo_liche_traitor_king	Not all kings of Nehekara stand against Nagash. Some have been seduced by the power Nagash offers his loyal subjects.	true
+character_skills_localised_name_elo_liche_traitor_king	Origin: Traitor King	true
+character_skills_localised_description_elo_liche_necromancer	Necromancers follow in the footsteps of Nagash, but none ever reached his mastery. For many, this pursuit ends in the service of Nagash and for the most talented few, in lichedom.	true
+character_skills_localised_name_elo_liche_necromancer	Origin: Necromancer	true
+character_skills_localised_description_elo_follower_nagash	Through his disciples, Nagash increases his influence on the world of the living. And where Nagash has influence, the dead will not find any rest.	true
+character_skills_localised_name_elo_follower_nagash	Disciple of Nagash	true
+character_skills_localised_description_elo_liche_general_legion	In life, he marched ahead as one of the generals of the Dread Legion and even in death the soldiers heed his commands.	true
+character_skills_localised_name_elo_liche_general_legion	Origin: General of the Legion	true
+character_skills_localised_description_elo_call_the_legions	Countless Legions lay beneath the sands, waiting for Nagash or his servants to call them back to battle the living.	true
+character_skills_localised_name_elo_call_the_legions	Call the Legions	true
+character_skills_localised_name_dread_skeletal_steed	Skeletal Steed	true
+character_skills_localised_description_dread_skeletal_steed	Long-dead destriers, awakened to serve their Unliving masters far beyond death.	true
+character_skills_localised_name_dread_pegasus	Skeletal Pegasus	true
+character_skills_localised_description_dread_pegasus	The Pegasi were brought to Nehekhara from the Dread King's homelands. Now the reanimated bones still serve their Unliving masters.	true
+character_skills_localised_name_mount_skeletal_steed_hand_of_nagash	Skeletal Steed	true
+character_skills_localised_description_mount_skeletal_steed_hand_of_nagash	Long-dead destriers, awakened to serve their Unliving masters far beyond death.	true
+character_skills_localised_name_dread_skeletal_steed_priest_death	Skeletal Steed	true
+character_skills_localised_description_dread_skeletal_steed_priest_death	Long-dead destriers, awakened to serve their Unliving masters far beyond death.	true
+character_skills_localised_name_dread_skeletal_steed_priest_shadow	Skeletal Steed	true
+character_skills_localised_description_dread_skeletal_steed_priest_shadow	Long-dead destriers, awakened to serve their Unliving masters far beyond death.	true
+character_skills_localised_name_dread_skeletal_steed_priest_vampires	Skeletal Steed	true
+character_skills_localised_description_dread_skeletal_steed_priest_vampires	Long-dead destriers, awakened to serve their Unliving masters far beyond death.	true
+character_skills_localised_name_dread_legion_pegasus	Skeletal Pegasus	true
+character_skills_localised_description_dread_legion_pegasus	The Pegasi were brought to Nehekhara from the Dread King's homelands. Now the reanimated bones still serve their Unliving masters.	true
+character_skills_localised_name_mount_pegasus_liche_vampires	Skeletal Pegasus	true
+character_skills_localised_description_mount_pegasus_liche_vampires	The Pegasi were brought to Nehekhara from the Dread King's homelands. Now the reanimated bones still serve their Unliving masters.	true
+character_skills_localised_description_mount_barded_skeletal_steed_liche_death	Long-dead destriers, awakened to serve their Unliving masters far beyond death.	true
+character_skills_localised_name_mount_barded_skeletal_steed_liche_death	Skeletal Steed	true
+character_skills_localised_description_mount_chariot_liche_death	Bone steeds pull dreaded chariots, impacting enemy lines with bone-shattering force and grinding the corpses beneath their heavy wheels.	true
+character_skills_localised_name_mount_chariot_liche_death	Dread Chariot	true
+character_skills_localised_description_mount_warsphinx_liche_death	Elephants are unstoppable beasts, even more so when reanimated by dark magic.	true
+character_skills_localised_name_mount_warsphinx_liche_death	Skeletal Elephant	true
+character_skills_localised_name_mount_pegasus_liche_death	Skeletal Pegasus	true
+character_skills_localised_description_mount_pegasus_liche_death	The Pegasi were brought to Nehekhara from the Dread King's homelands. Now the reanimated bones still serve their Unliving masters.	true

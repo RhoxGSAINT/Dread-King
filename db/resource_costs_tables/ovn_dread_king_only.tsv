@@ -1,0 +1,10 @@
+id	treasury_cost	expenditure_type	income_type	expenditure_type_when_regular	income_type_when_regular
+#resource_costs_tables;0;db/resource_costs_tables/ovn_dread_king_only					
+ovn_dk_cav_ephalian_cost	-600	RITUAL	RITUAL	ARMY_UPKEEP	BACKGROUND_INCOME
+ovn_dk_art_polybolos_cost	-1000	RITUAL	RITUAL	ARMY_UPKEEP	BACKGROUND_INCOME
+ovn_dk_inf_spartan_cost	-1850	RITUAL	RITUAL	ARMY_UPKEEP	BACKGROUND_INCOME
+ovn_dk_inf_thessos_cost	-450	RITUAL	RITUAL	ARMY_UPKEEP	BACKGROUND_INCOME
+dread_ritual_tmb_awakening	-2000	RITUAL	RITUAL	ARMY_UPKEEP	BACKGROUND_INCOME
+dread_ritual_tmb_legions	-4000	RITUAL	RITUAL	ARMY_UPKEEP	BACKGROUND_INCOME
+dread_ritual_tmb_conquest	-2000	RITUAL	RITUAL	ARMY_UPKEEP	BACKGROUND_INCOME
+dread_ritual_tmb_necromancy	-3000	RITUAL	RITUAL	ARMY_UPKEEP	BACKGROUND_INCOME

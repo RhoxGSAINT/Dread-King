@@ -1,0 +1,37 @@
+key	campaign_key	character_skill_key	faction_key	indent	tier	subculture	points_on_creation	required_num_parents	visible_in_ui
+#character_skill_nodes_tables;6;db/character_skill_nodes_tables/elo_dread_larenscheld									
+laren_wh_main_skill_node_vmp_necromancer_unique_05		wh_main_skill_vmp_all_unique_master_of_the_dead		0	3		1	0	true
+laren_wh_main_skill_node_vmp_necromancer_unique_06		wh_main_skill_vmp_all_unique_grave_ward		0	4		0	0	true
+luthor_the_hunchback		luthor_the_hunchback		0	0		0	0	true
+dread_grimoire_necris		dread_grimoire_necris		0	1		0	0	true
+larenscheld_unique_01		elo_death_beyond		0	2		0	0	true
+elo_skill_death		elo_skill_death		1	1		0	0	true
+elo_vengeful_spirit		elo_vengeful_spirit		1	2		0	0	true
+elo_lifetaker_spirit		elo_lifetaker_spirit		1	3		0	0	true
+elo_necromantic_spectre		elo_necromantic_spectre		1	4		0	0	true
+elo_wraith_liche		elo_wraith_liche		1	6		0	0	true
+elo_true_wraith		elo_true_wraith		1	5		0	4	true
+elo_ghost_ward		elo_ghost_ward		1	7		0	0	true
+elo_change_at_will		elo_change_at_will		1	8		0	2	true
+larenscheld_mentor		wh3_main_skill_all_mentor_hero		0	12		0	0	true
+laren_wh_main_skill_node_vmp_necromancer_magic1_01		wh_main_skill_vmp_magic_vampires_01_invocation_of_nehek		2	0		0	0	true
+laren_wh_main_skill_node_vmp_necromancer_magic1_02		wh_main_skill_vmp_magic_vampires_03_the_curse_of_undeath		2	1		0	0	true
+laren_wh_main_skill_node_vmp_necromancer_magic1_03		wh_main_skill_vmp_magic_vampires_02_vanhels_danse_macabre		2	2		0	0	true
+laren_wh_main_skill_node_vmp_necromancer_magic1_04		wh_main_skill_vmp_magic_vampires_04_gaze_of_nagash		2	3		0	0	true
+laren_wh_main_skill_node_vmp_necromancer_magic1_05		wh_main_skill_vmp_magic_vampires_05_raise_dead		2	4		0	0	true
+laren_wh_main_skill_node_vmp_necromancer_magic1_06		wh_main_skill_all_magic_all_06_evasion		2	5		0	4	true
+laren_wh_main_skill_node_vmp_necromancer_magic1_07		wh_main_skill_all_magic_all_07_earthing		2	8		0	0	true
+laren_wh_main_skill_node_vmp_necromancer_magic1_08		wh_main_skill_all_magic_all_08_power_drain		2	9		0	0	true
+laren_wh_main_skill_node_vmp_necromancer_magic1_09		wh_main_skill_vmp_magic_vampires_09_curse_of_years		2	6		0	0	true
+laren_wh_main_skill_node_vmp_necromancer_magic1_10		wh_main_skill_vmp_magic_vampires_10_wind_of_death		2	7		0	0	true
+laren_wh_main_skill_node_vmp_necromancer_magic1_11		wh_main_skill_all_magic_all_11_arcane_conduit		2	10		0	4	true
+laren_wh_main_skill_node_vmp_necromancer_magic1_dummy		wh_main_skill_vmp_magic_vampires_dummy_invocation_of_nehek		2	11		1	0	false
+laren_wh_main_skill_node_vmp_necromancer_campaign_01		wh2_main_skill_all_hero_assist_army_replenish_troops		5	0		0	0	true
+laren_wh_main_skill_node_vmp_necromancer_campaign_02		wh2_main_skill_all_hero_passive_boost_income		5	1		0	0	true
+laren_wh_main_skill_node_vmp_necromancer_campaign_03		wh2_main_skill_all_hero_hinder_settlement_steal_technology		5	2		0	0	true
+laren_wh_main_skill_node_vmp_necromancer_campaign_04		wh2_main_skill_all_hero_hinder_agent_wound		5	3		0	0	true
+laren_wh_main_skill_node_vmp_necromancer_campaign_05		wh2_main_skill_all_hero_hinder_army_assault_unit		5	4		0	0	true
+laren_wh_main_skill_node_vmp_necromancer_campaign_06		wh2_main_skill_all_hero_reduce_action_cost		5	5		0	0	true
+laren_wh_main_skill_node_vmp_necromancer_campaign_actions_dummy		wh2_main_skill_all_dummy_agent_actions_vmp_necromancer		8	0		1	0	false
+larenscheld_innate		larenscheld_innate		7	0		1	0	false
+wh3_main_agent_action_scaling_larenscheld		wh3_main_skill_agent_action_success_scaling		99	0		0	0	false

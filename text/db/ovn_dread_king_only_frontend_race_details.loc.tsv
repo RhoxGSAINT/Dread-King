@@ -1,0 +1,5 @@
+key	text	tooltip
+#Loc;1;text/db/ovn_dread_king_only_frontend_race_details.loc		
+frontend_factions_localised_mechanics_wh2_dlc09_tmb_the_sentinels	[[img:bullet_tmb_crafting]][[/img]]Mortuary Cult: Collect valuable trading goods and combine them with Canopic Jars to craft magic items and Legions of Legend.||[[img:bullet_tmb_dynasty]][[/img]]Dynasties: Learn from the dynasties of the past to awaken ancient Tomb Kings, unlocking new armies and Heroes to command.||[[img:bullet_tmb_souls]][[/img]]Realm of Souls: Tomb Kings use incantations in the forms of replenishment and summoning: bringing the dead back to life should enough souls of their own be lost in battle.	true
+frontend_factions_localised_playstyle_wh2_dlc09_tmb_the_sentinels		true
+frontend_factions_localised_info_wh2_dlc09_tmb_the_sentinels		true

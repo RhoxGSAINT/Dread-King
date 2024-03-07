@@ -1,0 +1,33 @@
+key	text	tooltip
+#Loc;1;text/db/rhox_dreadking_dilemma.loc		
+cdir_events_dilemma_choice_details_localised_choice_label_rhox_dk_servants_in_undeath_elephantFIRST	The Legion Must Grow	false
+cdir_events_dilemma_choice_details_localised_choice_title_rhox_dk_servants_in_undeath_elephantFIRST	The opportunity to resurrect such a beast should not be ignored.	false
+cdir_events_dilemma_choice_details_localised_choice_label_rhox_dk_servants_in_undeath_minotaurFIRST	The Legion Must Grow	false
+cdir_events_dilemma_choice_details_localised_choice_title_rhox_dk_servants_in_undeath_minotaurFIRST	The opportunity to resurrect these creatures should not be ignored.	false
+cdir_events_dilemma_choice_details_localised_choice_label_rhox_dk_servants_in_undeath_hydraFIRST	The Legion Must Grow	false
+cdir_events_dilemma_choice_details_localised_choice_title_rhox_dk_servants_in_undeath_hydraFIRST	The opportunity to resurrect such a beast should not be ignored.	false
+cdir_events_dilemma_choice_details_localised_choice_label_rhox_dk_servants_in_undeath_colossusFIRST	The Legion Must Grow	false
+cdir_events_dilemma_choice_details_localised_choice_title_rhox_dk_servants_in_undeath_colossusFIRST	The opportunity to resurrect such a beast should not be ignored.	false
+cdir_events_dilemma_choice_details_localised_choice_label_rhox_dk_servants_in_undeath_elephantSECOND	Loot the Corpses and Leave	false
+cdir_events_dilemma_choice_details_localised_choice_title_rhox_dk_servants_in_undeath_elephantSECOND	The legion must march on. Take what you can and go.	false
+cdir_events_dilemma_choice_details_localised_choice_label_rhox_dk_servants_in_undeath_minotaurSECOND	Loot the Corpses and Leave	false
+cdir_events_dilemma_choice_details_localised_choice_title_rhox_dk_servants_in_undeath_minotaurSECOND	The legion must march on. Take what you can and go.	false
+cdir_events_dilemma_choice_details_localised_choice_label_rhox_dk_servants_in_undeath_hydraSECOND	Loot the Cave and Leave	false
+cdir_events_dilemma_choice_details_localised_choice_title_rhox_dk_servants_in_undeath_hydraSECOND	The legion must march on. Take what you can and go.	false
+cdir_events_dilemma_choice_details_localised_choice_label_rhox_dk_servants_in_undeath_colossusSECOND	Loot the Ruins and Leave	false
+cdir_events_dilemma_choice_details_localised_choice_title_rhox_dk_servants_in_undeath_colossusSECOND	The legion must march on. Take what you can and go.	false
+dilemmas_localised_title_rhox_dk_servants_in_undeath_elephant	Servants in Undeath 	false
+dilemmas_localised_description_rhox_dk_servants_in_undeath_elephant	You arrive at the site of a recent battle between the forces of Araby and an unknown aggressor. Lying next to a particularly high pile of bodies, you find the corpse of a massive war elephant, multiple spears protruding from its grey skin. Surely it would be a waste to let such a magnificent creature rest.	false
+dilemmas_localised_title_rhox_dk_servants_in_undeath_minotaur	Servants in Undeath 	false
+dilemmas_localised_description_rhox_dk_servants_in_undeath_minotaur	A herd of Beastmen attempts to ambush your forces as you pass through a canyon. Despite their ferocity, your legion is able to fend them off, sending what remains of the foul creatures back to their herdstone. Among the corpses of these beastly assailants are a group of larger creatures with massive horns. One of your necromancers seems overjoyed, exclaiming that our horned attackers may yet have a use for us.	false
+dilemmas_localised_title_rhox_dk_servants_in_undeath_hydra	Servants in Undeath 	false
+dilemmas_localised_description_rhox_dk_servants_in_undeath_hydra	In front of you is the mouth of a large cave. Upon entering the cave, you are surprised to discover that this was once the lair of a dead hydra, its body in an advanced state of decay. This is truly a rare sight in this part of the world, and your mind races with the possibilities. It’s impossible to determine what could have felled the many-headed monster, but it would be best to make a decision before we find out.	false
+dilemmas_localised_title_rhox_dk_servants_in_undeath_colossus	Servants in Undeath 	false
+dilemmas_localised_description_rhox_dk_servants_in_undeath_colossus	In the distance, you can see the ruins of a small village. As your forces march down the central road, you find the skeleton of a giant slumped up against the stone wall of a dilapidated dwelling. A ballista bolt has pinned the giant’s remains to the structure, but the bones are otherwise intact. You begin to think that perhaps the death of this colossal oaf was premature.	false
+dilemmas_localised_title_rhox_dk_nagash_dilemma	The Greatest Necromancer	false
+dilemmas_localised_description_rhox_dk_nagash_dilemma	You have served the Great Necromancer Nagash for millennia. Upon his return, you swore allegiance to him once again. But he was defeated once before, and your kingdom fell with him. Surely, together you could conquer the world and turn it into a Great Empire of the Dead. But it would be the realm of Nagash and not yours. Wouldn't it be better to rule yourselves?	false
+campaign_payload_ui_details_description_dummy_rhox_dk_prize_on_the_destruction	You will recieve Morghast servants and a powerful buff after the Legions of Nagashizzar faction is defeated.	false
+cdir_events_dilemma_choice_details_localised_choice_label_rhox_dk_nagash_dilemmaFIRST	Overthrow Nagash	false
+cdir_events_dilemma_choice_details_localised_choice_title_rhox_dk_nagash_dilemmaFIRST	Only I shall rule! Why should I submit to this rotting husk? If you decide to forge your own empire, you will find yourself at war with Nagash. Eliminating his faction will will bestow the Supreme Lord of Undeath buff to the player.	false
+cdir_events_dilemma_choice_details_localised_choice_label_rhox_dk_nagash_dilemmaSECOND	Obey Nagash	false
+cdir_events_dilemma_choice_details_localised_choice_title_rhox_dk_nagash_dilemmaSECOND	A wise choice. Better to be a servant of Nagash than to be obliterated.	false

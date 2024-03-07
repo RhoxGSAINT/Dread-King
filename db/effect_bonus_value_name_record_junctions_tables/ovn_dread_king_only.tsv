@@ -1,0 +1,10 @@
+bonus_value_id	effect	name_record
+#effect_bonus_value_name_record_junctions_tables;1;db/effect_bonus_value_name_record_junctions_tables/ovn_dread_king_only		
+priority	ovn_effect_name_dummy_gunther	311089122
+priority	ovn_effect_name_dummy_gunther	311089123
+active	ovn_effect_name_dummy_gunther	311089122
+active	ovn_effect_name_dummy_gunther	311089123
+active	dread_title_hierophant	3110890049
+priority	dread_title_hierophant	3110890049
+active	dread_title_king	311089129
+priority	dread_title_king	311089129

@@ -1,0 +1,5 @@
+recharge_context	special_ability
+#special_ability_to_recharge_contexts_tables;0;db/special_ability_to_recharge_contexts_tables/ovn_dread_king_only	
+health_above_50%	dread_passive_teb_stance
+engaged_in_melee	elo_hungering_blade
+engaged_in_melee	ovn_bestial_rage

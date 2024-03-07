@@ -1,0 +1,8 @@
+key	image_path	localised_description	localised_name	unlocked_at_rank	is_background_skill	is_female_only_background_skill	is_male_only_background_skill	background_weighting	influence_cost
+#character_skills_tables;5;db/character_skills_tables/elo_dread_hero									
+dread_legion_barded_skeletal_steed	mount_skeletal_steed_tmb.png	Long-dead destriers, awakened to serve their Unliving masters far beyond death.	Skeletal Steed	3	false	false	false	0.0000	0
+dread_chariot_skeletal_steed	mount_skeleton_chariot.png	The pride of Nehekharan armies, impacting enemy lines with bone-shattering force and grinding the corpses beneath their heavy wheels.	Skeleton Chariot	9	false	false	false	0.0000	0
+dread_legion_pegasus	mount_hellsteed.png	The Pegasi were brought to Nehekhara from the Dread King's homelands. Now the reanimated bones still serve their Unliving masters.	Skeletal Pegasus	15	false	false	false	0.0000	0
+dread_we_are_legion	character_unit_capacity.png			0	false	false	false	0.0000	0
+dread_eternal_march	character_movement.png			0	false	false	false	0.0000	0
+dread_blessing_nagash	campaign_wound_time.png			0	false	false	false	0.0000	0

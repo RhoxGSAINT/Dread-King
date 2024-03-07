@@ -1,0 +1,14 @@
+id	choice_key	dilemma_key	payload_key	value	target_key
+#cdir_events_dilemma_payloads_tables;0;db/cdir_events_dilemma_payloads_tables/rhox_dreadking					
+7704221507	FIRST	rhox_dk_servants_in_undeath_elephant	ADD_MERCENARY_TO_FACTION_POOL	AMOUNT[1];UNIT[ovn_dk_mon_skeleton_elephant_no_caps]	default
+7704221508	FIRST	rhox_dk_servants_in_undeath_elephant	EFFECT_BUNDLE	KEY[rhox_dk_servants_in_undeath_elephant];DURATION[5]	default
+7704221509	SECOND	rhox_dk_servants_in_undeath_elephant	TREASURY	AMOUNT[1500]	default
+7704221510	FIRST	rhox_dk_servants_in_undeath_minotaur	ADD_MERCENARY_TO_FACTION_POOL	AMOUNT[1];UNIT[ovn_dk_mon_skeletal_minotaurs_no_caps]	default
+7704221511	FIRST	rhox_dk_servants_in_undeath_minotaur	EFFECT_BUNDLE	KEY[rhox_dk_servants_in_undeath_minotaur];DURATION[5]	default
+7704221512	SECOND	rhox_dk_servants_in_undeath_minotaur	TREASURY	AMOUNT[1500]	default
+7704221513	FIRST	rhox_dk_servants_in_undeath_hydra	ADD_MERCENARY_TO_FACTION_POOL	AMOUNT[1];UNIT[ovn_dk_mon_bone_hydra_no_caps]	default
+7704221514	FIRST	rhox_dk_servants_in_undeath_hydra	EFFECT_BUNDLE	KEY[rhox_dk_servants_in_undeath_hydra];DURATION[5]	default
+7704221515	SECOND	rhox_dk_servants_in_undeath_hydra	TREASURY	AMOUNT[1500]	default
+7704221516	FIRST	rhox_dk_servants_in_undeath_colossus	ADD_MERCENARY_TO_FACTION_POOL	AMOUNT[1];UNIT[ovn_dk_mon_skeleton_giant_no_caps]	default
+7704221517	FIRST	rhox_dk_servants_in_undeath_colossus	EFFECT_BUNDLE	KEY[rhox_dk_servants_in_undeath_colossus];DURATION[5]	default
+7704221518	SECOND	rhox_dk_servants_in_undeath_colossus	TREASURY	AMOUNT[1500]	default

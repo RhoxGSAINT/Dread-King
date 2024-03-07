@@ -1,0 +1,20 @@
+key	text	tooltip
+#Loc;1;text/db/rhox_dreadking_incidents.loc		
+incidents_localised_title_rhox_dk_after_battle	Servants in Undeath	false
+incidents_localised_description_rhox_dk_after_battle	The battlefield is littered with the corpses of your enemies. Though they fought valiantly, there is no greater force than the inevitability of death. They might have been blind to this fact in life, but perhaps a new perspective can be gained in service to your legions.\\n\\nOne of your necromancers climbs to the top of a hill at the center of the battlefield, raises his hands, and gives new life to the slain.	false
+incidents_localised_title_rhox_dk_unlocked_dread_awakening	Rite of Awakening Unlocked	false
+incidents_localised_description_rhox_dk_unlocked_dread_awakening	{{tr:dread_ritual_tmb_awakening_description}}\\n\\n{{tr:event_feed_rite_unlocked_instructions}}	false
+incidents_localised_title_rhox_dk_unlocked_dread_legions	Rite of the Endless Legions Unlocked	false
+incidents_localised_description_rhox_dk_unlocked_dread_legions	{{tr:dread_ritual_tmb_legions_description}}\\n\\n{{tr:event_feed_rite_unlocked_instructions}}	false
+incidents_localised_title_rhox_dk_unlocked_dread_conquest	Rite of Conquest Unlocked	false
+incidents_localised_description_rhox_dk_unlocked_dread_conquest	{{tr:dread_ritual_tmb_conquest_description}}\\n\\n{{tr:event_feed_rite_unlocked_instructions}}	false
+incidents_localised_title_rhox_dk_unlocked_dread_necromancy	Rite of Necromancy Unlocked	false
+incidents_localised_description_rhox_dk_unlocked_dread_necromancy	{{tr:dread_ritual_tmb_necromancy_description}}\\n\\n{{tr:event_feed_rite_unlocked_instructions}}	false
+incidents_localised_title_rhox_dk_defeated_nagash	Victory over Nagash	false
+incidents_localised_description_rhox_dk_defeated_nagash	Congratulations, you have defeated Nagash! You became the Supreme Lord of Undeath and absorbed some of his powers.	false
+incidents_button_text_rhox_dk_defeated_nagash	Claim your reward!	false
+incidents_button_text_rhox_dk_after_battle	incidents_button_text_rhox_dk_after_battle	false
+incidents_button_text_rhox_dk_unlocked_dread_awakening	incidents_button_text_rhox_dk_unlocked_dread_awakening	false
+incidents_button_text_rhox_dk_unlocked_dread_legions	incidents_button_text_rhox_dk_unlocked_dread_legions	false
+incidents_button_text_rhox_dk_unlocked_dread_conquest	incidents_button_text_rhox_dk_unlocked_dread_conquest	false
+incidents_button_text_rhox_dk_unlocked_dread_necromancy	incidents_button_text_rhox_dk_unlocked_dread_necromancy	false

@@ -1,0 +1,10 @@
+key	text	tooltip
+#Loc;1;text/db/!!!!_ovn_dk_vc.loc		
+victory_types_display_name_ovn_victory_type_roleplay_dk_aon	OvN - Apostle of Nagash	true
+victory_types_display_name_ovn_victory_type_roleplay_dk_do	OvN - Dark Omen	true
+mission_text_text_dk_aon_intro	[[col:orange]]Undeath To The Apostates -[[/col]] Resurrected by his faithful servant Larenscheld, the Dread King now seeks to eradicate the apostates of Nagash.\\n\\nOne of the first Dark Lords of Nagash, they fought for his greatness in the Kingdoms of the Dead. He now serves again, and the arrogant Nehekharan Kings and human interlopers must be scoured from these lands. Their souls reaped for the harvest of the Great Necromancer.	true
+mission_text_text_dk_do_intro	[[col:orange]]Dread Awakens -[[/col]] And it will be a time of great strife when the moons are united in darkness and the dead shall walk the earth once more.\\n\\nMany have paid heed to these dark omens and work against us but all will perish or serve. With the Dread King resurrected his forces now gather in the southern lands and he will usher in a new age of dread!	true
+effect_bundles_localised_title_ovn_vc_dk_aon	Apostle of Nagash	true
+effect_bundles_localised_description_ovn_vc_dk_aon	Those that resisted in life now serve us in death.	true
+effect_bundles_localised_title_ovn_vc_dk_do	Dark Omen	true
+effect_bundles_localised_description_ovn_vc_dk_do	The Dread King has ushered in a new age of terror.	true

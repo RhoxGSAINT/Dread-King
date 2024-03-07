@@ -1,0 +1,6 @@
+attrition	faction
+#campaign_map_attrition_faction_immunities_tables;0;db/campaign_map_attrition_faction_immunities_tables/ovn_dread_king_only	
+desert	ovn_tmb_dread_king
+non_vampire_territory	ovn_tmb_dread_king
+vampire_territory	ovn_tmb_dread_king
+wasteland	ovn_tmb_dread_king

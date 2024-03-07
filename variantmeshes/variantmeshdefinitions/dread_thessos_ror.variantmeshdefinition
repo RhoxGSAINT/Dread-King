@@ -1,0 +1,50 @@
+<VARIANT_MESH>
+	<META_DATA>equipment</META_DATA>	<SLOT name="body" >
+		<VARIANT_MESH_REFERENCE definition="VariantMeshes/VariantMeshDefinitions/dread_thessos_ror_skeleton_base_hu1d.VariantMeshDefinition" />
+	</SLOT>
+	<SLOT name="head" >
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1d\vmp\vmp_wight_king\head\dread_thessos_ror_helmet_01.wsmodel" />	
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1d\vmp\vmp_skeleton_warriors\head\dread_thessos_ror_helmet_04.wsmodel" />
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1d\vmp\vmp_skeleton_warriors\head\dread_thessos_ror_helmet_05.wsmodel" />
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1d\vmp\vmp_skeleton_warriors\head\dread_thessos_ror_helmet_08.wsmodel" />
+	</SLOT>
+	<SLOT name="body" >
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1d\vmp\vmp_black_knights\body\dread_thessos_ror_torso_01.wsmodel" >
+			<META_DATA>audio_armour_type:plate</META_DATA>			<META_DATA>audio_entity_type:wh_skeleton</META_DATA></VARIANT_MESH>
+	</SLOT>
+	<SLOT name="tunic" >
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1d\vmp\vmp_black_knights\body\dread_thessos_ror_tunic_01.wsmodel" />
+	</SLOT>
+	<SLOT name="arm_guard"  probability="0.9">
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1d\vmp\vmp_black_knights\body\dread_thessos_ror_armguard_01.wsmodel" />
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1d\vmp\vmp_black_knights\body\dread_thessos_ror_armguard_02.wsmodel" />
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1d\vmp\vmp_black_knights\body\dread_thessos_ror_armguard_03.wsmodel" />
+	</SLOT>
+	<SLOT name="tunic_legs" >
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1d\vmp\vmp_black_knights\legs\dread_thessos_ror_tunic_legs_01.wsmodel" />
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1d\vmp\vmp_black_knights\legs\dread_thessos_ror_tunic_legs_02.wsmodel" />
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1d\vmp\vmp_black_knights\legs\dread_thessos_ror_tunic_legs_03.wsmodel" />
+	</SLOT>
+	<SLOT name="leg_guard"  probability="0.9">
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1d\vmp\vmp_skeleton_warriors\legs\dread_thessos_ror_leg_armour_01.wsmodel" />
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1d\vmp\vmp_skeleton_warriors\legs\dread_thessos_ror_leg_armour_02.wsmodel" />
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1d\vmp\vmp_skeleton_warriors\legs\dread_thessos_ror_leg_armour_03.wsmodel" />
+	</SLOT>
+	
+	<SLOT name="weapon_1" attach_point="be_prop_0" />
+	<SLOT name="weapon_2" attach_point="be_prop_1" >
+		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hu1d/tmb/tmb_props/dread_thessos_ror_spear_1h_01.wsmodel" >
+			<META_DATA>audio_melee_weapon_type:spear</META_DATA></VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hu1d/tmb/tmb_props/dread_thessos_ror_spear_1h_02.wsmodel" >
+			<META_DATA>audio_melee_weapon_type:spear</META_DATA></VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hu1d/tmb/tmb_props/dread_thessos_ror_spear_1h_03.wsmodel" >
+			<META_DATA>audio_melee_weapon_type:spear</META_DATA></VARIANT_MESH>
+	</SLOT>
+	<SLOT name="shield" attach_point="be_prop_2" >
+		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hu1d/brt/brt_righteous_spear/shield/dread_thessos_ror_round_shield.wsmodel" >
+			<META_DATA>audio_shield_type:metal</META_DATA></VARIANT_MESH>
+	</SLOT>
+	<SLOT name="weapon_3" attach_point="be_prop_3" />
+	<SLOT name="weapon_4" attach_point="be_prop_4" />
+	<SLOT name="weapon_5" attach_point="be_prop_5" />
+</VARIANT_MESH>

@@ -1,0 +1,4 @@
+victory_type	tree_y	tree_x	icon	length_type	should_show_end_game_ui
+#victory_types_tables;3;db/victory_types_tables/ovn_dk_victory_conditions					
+ovn_victory_type_roleplay_dk_aon	5	0	ovn	short	false
+ovn_victory_type_roleplay_dk_do	6	0	ovn	long	false
