@@ -11,6 +11,7 @@ mount_chariot_hand_of_nagash	13	1
 dread_skeletal_steed_priest_death	6	1
 dread_skeletal_steed_priest_shadow	6	1
 dread_skeletal_steed_priest_vampires	6	1
+dread_skeletal_steed_priest_undeath	6	1
 dread_legion_barded_skeletal_steed	3	1
 dread_chariot_skeletal_steed	9	1
 dread_legion_pegasus	15	1
@@ -22,6 +23,10 @@ mount_barded_skeletal_steed_liche_death	3	1
 mount_chariot_liche_death	9	1
 mount_pegasus_liche_death	13	1
 mount_warsphinx_liche_death	17	1
+mount_barded_skeletal_steed_liche_undeath	3	1
+mount_chariot_liche_undeath	9	1
+mount_pegasus_liche_undeath	13	1
+mount_warsphinx_liche_undeath	17	1
 liche_immortality	11	1
 Soulreaper	6	1
 elo_hand_punished_one	11	1

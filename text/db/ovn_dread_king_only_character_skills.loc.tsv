@@ -1,17 +1,17 @@
 key	text	tooltip
 #Loc;1;text/db/ovn_dread_king_only_character_skills.loc		
-character_skills_localised_description_Ancient_Necromancer	A powerful practitioner of Necromancy, writing the book known as the Grimoire Necris, which allowed his ascension to undeath	true
-character_skills_localised_name_Ancient_Necromancer	Ancient  Necromancer	true
+character_skills_localised_description_Ancient_Necromancer	A powerful practitioner of necromancy, who wrote the book known as the Grimoire Necris, which allowed his ascension to undeath	true
+character_skills_localised_name_Ancient_Necromancer	Ancient Necromancer	true
 character_skills_localised_description_Mighty_Warrior_tmb	The Dread King was a mighty warrior, giant in stature, armed with a massive sword and covered in ancient heavy armour. He could cut down his enemies in their droves.	true
 character_skills_localised_name_Mighty_Warrior_tmb	Mighty Warrior	true
 character_skills_localised_description_Lord_Of_The_Undead_tmb	A master in the lore of dark magic, able to summon vast armies of undead to fight for him.	true
 character_skills_localised_name_Lord_Of_The_Undead_tmb	Lord of the Undead	true
-character_skills_localised_description_Dark_Lord_Of_Nagash	The being known as the Dread King was known to have been one of Nagash's most powerful followers, aiding him in his early attempts to bring undeath to the world, he served Nagash well	true
+character_skills_localised_description_Dark_Lord_Of_Nagash	The being known as the Dread King was one of Nagash's most powerful followers, aiding him in his early attempts to bring undeath to the world. He served Nagash well.	true
 character_skills_localised_name_Dark_Lord_Of_Nagash	Dark Lord of Nagash	true
 character_skills_localised_description_Great_Summoner	His vast knowledge of Necromancy allows him to effortlessly sustain his thralls.	true
 character_skills_localised_name_Great_Summoner	Great Summoner	true
 character_skills_localised_name_Dread_Aura	Dread Aura	true
-character_skills_localised_description_Dread_Aura	The Dread King's name was derived from a powerful aura that surrounded him at all times, only the mightiest of beings could face him without physically shaking or panicking, most would be frozen in fear or outright flee	true
+character_skills_localised_description_Dread_Aura	The Dread King's name was derived from a powerful aura that surrounded him at all times – only the mightiest of beings could face him without physically shaking or panicking; most would be frozen in fear or outright flee.	true
 character_skills_localised_name_dread_barded_nightmare	Skeletal Steed	true
 character_skills_localised_description_dread_barded_nightmare	Long-dead destriers, awakened to serve their Unliving masters far beyond death.	true
 character_skills_localised_name_dread_zombie_dragon	Gaurgon	true
@@ -21,7 +21,7 @@ character_skills_localised_description_Soulreaper	This ancient sword, imbued wit
 character_skills_localised_name_dread_black_jewel	Heart of Blackness	true
 character_skills_localised_description_dread_black_jewel	The Black Jewel of the Dread King contains his very soul. Embedded in his rib cage, it beats like an obscene, black and glistening heart.	true
 character_skills_localised_name_dread_grimoire_necris	Grimoire Necris	true
-character_skills_localised_description_dread_grimoire_necris	Written by the Dread King himself during the reign of Nagash, its entire contents are committed to his ancient memory. Centuries later it fell into the hands of Larenscheld, from whom he learned about the the Dread King’s legend.	true
+character_skills_localised_description_dread_grimoire_necris	Written by the Dread King himself during the reign of Nagash, its entire contents are committed to his ancient memory. Centuries later, it fell into the hands of Larenscheld, from whom he learned about the Dread King's legend.	true
 character_skills_localised_name_wh2_dlc09_skill_innate_tmb_dynasty_nebwaneph	Traitor King of Mahrak	true
 character_skills_localised_description_wh2_dlc09_skill_innate_tmb_dynasty_nebwaneph	Through his necromantic powers and whisperings on the Wind of Shyish, Nagash was able to turn this proud King.	true
 character_skills_localised_name_wh2_dlc09_skill_innate_tmb_dynasty_omanhan_iii	Traitor King of Quatar	true
@@ -78,13 +78,13 @@ character_skills_localised_description_dread_wailing_specter	Constant mourning, 
 character_skills_localised_name_dread_wailing_specter	Wailing Spectre	false
 character_skills_localised_description_dread_untouchable	Most mundane afflictions are unable to afflict a being which thrives between life and death.	false
 character_skills_localised_name_dread_untouchable	Otherworldly Resilience	false
-character_skills_localised_description_dread_nagash_magic	The secret teaching of Nagash provide unparralleled magical prowess. 	false
+character_skills_localised_description_dread_nagash_magic	The secret teachings of Nagash provide unparalleled magical prowess.	false
 character_skills_localised_name_dread_nagash_magic	Acolythe of Nagash	false
 character_skills_localised_description_dread_eternally_bound	Bolstered by ancient curses and unholy magic, this entity is very difficult to destroy.	false
 character_skills_localised_name_dread_eternally_bound	Eternally Bound	false
 character_skills_localised_description_dread_suppressor	Instead of strengthening their own magical powers they invest a portion of it to sabotage enemy spellcasters.	false
 character_skills_localised_name_dread_suppressor	Magic Saboteur	false
-character_skills_localised_description_ovn_dk_possesed_tormented_puppet	There is enough left of the heroes soul to occasionally cause outburst of desperate pain and torment, unsettling enemies who witness it.	false
+character_skills_localised_description_ovn_dk_possesed_tormented_puppet	There is enough left of the hero's soul to occasionally cause outbursts of desperate pain and torment, unsettling enemies who witness them.	false
 character_skills_localised_name_ovn_dk_possesed_tormented_puppet	Tormented Puppet	false
 character_skills_localised_description_ovn_dk_possesed_mycanes_defender	The legendary defender of Mycanes would hold his ground against almost anyone and anything. Pity it neither saved him nor his city.	false
 character_skills_localised_name_ovn_dk_possesed_mycanes_defender	Defender of Mycanes	false
@@ -100,7 +100,7 @@ character_skills_localised_description_ovn_dk_possesed_hatred_bm_athanas	Thesops
 character_skills_localised_name_ovn_dk_possesed_hatred_bm_athanas	Hatred for Beastmen	false
 character_skills_localised_description_ovn_dk_possesed_possesion	The spirit binds the pitiful former hero to its undead form and will prevent him from falling apart until his corpse has been hacked to pieces. Not even that will grant the fallen peace though. Their tormentor will use their magic to reconstruct the skeleton, regardless of the damage it suffered and force it to march against the living once again.	false
 character_skills_localised_name_ovn_dk_possesed_possesion	Possessed	false
-character_skills_localised_description_ovn_possesed_mycanas_shieldbearer	Persemius was renowned for his skilled use of shields. Even in death seems not have changed that.	false
+character_skills_localised_description_ovn_possesed_mycanas_shieldbearer	Persemius was renowned for his skilled use of shields. Even in death, that seems not to have changed.	false
 character_skills_localised_name_ovn_possesed_mycanas_shieldbearer	Legendary Shieldbearer	false
 character_skills_localised_description_ovn_possesed_overdrive	The possessed corpse is infused with foul magic by its master, driven far beyond its physical limitations. Such powerful magic damages the corpse, but the malicious apparition controlling it does not care.	false
 character_skills_localised_name_ovn_possesed_overdrive	Overdrive	false
@@ -125,10 +125,12 @@ character_skills_localised_description_ovn_dk_traitor_king_tomb_guard_elite	Thei
 character_skills_localised_name_ovn_dk_hierophant_silver_tongue	Silver-Tongued Traitor	false
 character_skills_localised_description_ovn_dk_hierophant_silver_tongue	It was Hierophant Haptmose who first defected to Nagash and it was Haptmose who convinced the other two to follow.	false
 character_skills_localised_name_ovn_dk_hierophant_mortuary	Hierophant of the Mortuary Cult	false
-character_skills_localised_description_ovn_dk_hierophant_mortuary	Highly skilled and knowledgable in the secrets of the Mortuary Cult, Haptmose has long worked on their perfection.	false
+character_skills_localised_description_ovn_dk_hierophant_mortuary	Highly skilled and knowledgeable in the secrets of the Mortuary Cult, Haptmose has long worked on their perfection.	false
 character_skills_localised_name_ovn_dk_hierophant_gifts	Nagash's Gifts	false
 character_skills_localised_description_ovn_dk_hierophant_gifts	There is power to be gained in the service of Nagash, that much is undeniable.	false
-character_skills_localised_name_ovn_dk_hierophant_undeath_ascendant	Skilled Animater	false
+character_skills_localised_name_ovn_dk_hierophant_undeath_ascendant	Skilled Animator	false
 character_skills_localised_description_ovn_dk_hierophant_undeath_ascendant	So skilled is the traitorous Hierophant when awakening his legions that they move more fluently than most other undead.	false
 character_skills_localised_name_ovn_dk_hierophant_liche	Ascendant Liche	false
-character_skills_localised_description_ovn_dk_hierophant_liche	The better one serves Nagash, the more power he may bestow upon his servant. As long as they do never displease the great necromancer, their powers may never stop to grow.	false
+character_skills_localised_description_ovn_dk_hierophant_liche	The better one serves Nagash, the more power he may bestow upon his servant. As long as they never displease the Great Necromancer, their powers may never cease to grow.	false
+character_skills_localised_description_dread_nagash_blessing_0_nag	Nagash is darkness and unreasoning hatred given form, the father and creator of the foul art of necromancy and lord of all Vampires.	true
+character_skills_localised_name_dread_nagash_blessing_0_nag	Nagash the Great Necromancer	true

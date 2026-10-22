@@ -7,41 +7,123 @@ key	faction	soldier_type	unit_variant	subculture	primary_colour_hex	secondary_co
 31805		soldier	elo_hand_of_nagash		1C1F11	1C1F11	1C1F11
 31806		autonomous_rider	elo_hand_of_nagash		1C1F11	1C1F11	1C1F11
 31807		officer	elo_hand_of_nagash		1C1F11	1C1F11	1C1F11
-31808		soldier	ovn_dk_inf_skeleton_hoplites		DFDCC6	342B24	7B5A3F
-31809		soldier	ovn_dk_inf_skeleton_pikemen		DFDCC6	342B24	7B5A3F
-31810		autonomous_rider	ovn_dk_veh_skeleton_chariot		DFDCC6	342B24	7B5A3F
-31811		soldier	ovn_dk_inf_tomb_guardian		2D5353	AE4841	AE4841
-31812		soldier	ovn_dk_inf_tomb_guardian_great_weapons		2D5353	AE4841	AE4841
-31813		soldier	ovn_dk_inf_tomb_guardian_summoned		2D5353	AE4841	AE4841
-31814		soldier	ovn_dk_inf_tomb_guardian_great_weapons_summoned		2D5353	AE4841	AE4841
-31815		soldier	ovn_dk_inf_tomb_guardian_peltasts		2D5353	AE4841	AE4841
-31816		soldier	ovn_dk_cav_royal_guard_cavalry		2D5353	AE4841	AE4841
-31817		soldier	ovn_dk_cav_royal_guard_lancers		2D5353	AE4841	AE4841
-31818		soldier	elo_dread_centurion		2D5353	AE4841	AE4841
-31819		autonomous_rider	elo_dread_centurion		2D5353	AE4841	AE4841
-31820		officer	elo_dread_centurion		2D5353	AE4841	AE4841
-31821		soldier	elo_liche_general_vampires		973D38	2D5353	844911
-31822		autonomous_rider	elo_liche_general_vampires		973D38	2D5353	844911
-31823		officer	elo_liche_general_vampires		973D38	2D5353	844911
-31824		soldier	elo_liche_general_death		973D38	2D5353	844911
-31825		autonomous_rider	elo_liche_general_death		973D38	2D5353	844911
-31826		officer	elo_liche_general_death		973D38	2D5353	844911
+31808	ovn_tmb_dread_king	soldier	ovn_dk_inf_skeleton_hoplites		DFDCC6	342B24	7B5A3F
+31809	ovn_tmb_dread_king	soldier	ovn_dk_inf_skeleton_pikemen		DFDCC6	342B24	7B5A3F
+31810	ovn_tmb_dread_king	autonomous_rider	ovn_dk_veh_skeleton_chariot		DFDCC6	342B24	7B5A3F
+31811	ovn_tmb_dread_king	soldier	ovn_dk_inf_tomb_guardian		2D5353	AE4841	AE4841
+31812	ovn_tmb_dread_king	soldier	ovn_dk_inf_tomb_guardian_great_weapons		2D5353	AE4841	AE4841
+31813	ovn_tmb_dread_king	soldier	ovn_dk_inf_tomb_guardian_summoned		2D5353	AE4841	AE4841
+31814	ovn_tmb_dread_king	soldier	ovn_dk_inf_tomb_guardian_great_weapons_summoned		2D5353	AE4841	AE4841
+31815	ovn_tmb_dread_king	soldier	ovn_dk_inf_tomb_guardian_peltasts		2D5353	AE4841	AE4841
+31816	ovn_tmb_dread_king	soldier	ovn_dk_cav_royal_guard_cavalry		2D5353	AE4841	AE4841
+31817	ovn_tmb_dread_king	soldier	ovn_dk_cav_royal_guard_lancers		2D5353	AE4841	AE4841
+31818	ovn_tmb_dread_king	soldier	elo_dread_centurion		2D5353	AE4841	AE4841
+31819	ovn_tmb_dread_king	autonomous_rider	elo_dread_centurion		2D5353	AE4841	AE4841
+31820	ovn_tmb_dread_king	officer	elo_dread_centurion		2D5353	AE4841	AE4841
+31821	ovn_tmb_dread_king	soldier	elo_liche_general_vampires		973D38	2D5353	844911
+31822	ovn_tmb_dread_king	autonomous_rider	elo_liche_general_vampires		973D38	2D5353	844911
+31823	ovn_tmb_dread_king	officer	elo_liche_general_vampires		973D38	2D5353	844911
+31824	ovn_tmb_dread_king	soldier	elo_liche_general_death		973D38	2D5353	844911
+31825	ovn_tmb_dread_king	autonomous_rider	elo_liche_general_death		973D38	2D5353	844911
+31826	ovn_tmb_dread_king	officer	elo_liche_general_death		973D38	2D5353	844911
 31827		soldier	ovn_dk_inf_wights_ror		1C1F11	1C1F11	7B5A3F
 31828		soldier	ovn_dk_inf_catacomb_guardians_ror		487184	67C3BD	AE4841
-31829		soldier	dread_corrupted_priest_death		FFFFFF	FFFFFF	FFFFFF
-31830		autonomous_rider	dread_corrupted_priest_death		FFFFFF	FFFFFF	FFFFFF
-31831		officer	dread_corrupted_priest_death		FFFFFF	FFFFFF	FFFFFF
-31832		soldier	dread_corrupted_priest_shadow		FFFFFF	FFFFFF	FFFFFF
-31833		autonomous_rider	dread_corrupted_priest_shadow		FFFFFF	FFFFFF	FFFFFF
-31834		officer	dread_corrupted_priest_shadow		FFFFFF	FFFFFF	FFFFFF
-31835		soldier	dread_corrupted_priest_vampires		FFFFFF	FFFFFF	FFFFFF
-31836		autonomous_rider	dread_corrupted_priest_vampires		FFFFFF	FFFFFF	FFFFFF
-31837		officer	dread_corrupted_priest_vampires		FFFFFF	FFFFFF	FFFFFF
+31829	ovn_tmb_dread_king	soldier	dread_corrupted_priest_death		FFFFFF	FFFFFF	FFFFFF
+31830	ovn_tmb_dread_king	autonomous_rider	dread_corrupted_priest_death		FFFFFF	FFFFFF	FFFFFF
+31831	ovn_tmb_dread_king	officer	dread_corrupted_priest_death		FFFFFF	FFFFFF	FFFFFF
+31832	ovn_tmb_dread_king	soldier	dread_corrupted_priest_shadow		FFFFFF	FFFFFF	FFFFFF
+31833	ovn_tmb_dread_king	autonomous_rider	dread_corrupted_priest_shadow		FFFFFF	FFFFFF	FFFFFF
+31834	ovn_tmb_dread_king	officer	dread_corrupted_priest_shadow		FFFFFF	FFFFFF	FFFFFF
+31835	ovn_tmb_dread_king	soldier	dread_corrupted_priest_vampires		FFFFFF	FFFFFF	FFFFFF
+31836	ovn_tmb_dread_king	autonomous_rider	dread_corrupted_priest_vampires		FFFFFF	FFFFFF	FFFFFF
+31837	ovn_tmb_dread_king	officer	dread_corrupted_priest_vampires		FFFFFF	FFFFFF	FFFFFF
 31838		soldier	ovn_dk_inf_brigands_ror		383838	1C6003	3A0000
-31839		autonomous_rider	ovn_dk_veh_mortis_engine_0		FFFFFF	FFFFFF	FFFFFF
-31840		mount	ovn_dk_mon_skeleton_elephant		2D5353	AE4841	844911
+31839	ovn_tmb_dread_king	autonomous_rider	ovn_dk_veh_mortis_engine_0		FFFFFF	FFFFFF	FFFFFF
+31840	ovn_tmb_dread_king	mount	ovn_dk_mon_skeleton_elephant		2D5353	AE4841	844911
 31841		soldier	ovn_dk_inf_spartan_ror		973D38	342B24	7B5A3F
 31842		soldier	ovn_dk_cav_ephalian_ror		845D3A	342B24	7B5A3F
-31843		soldier	dread_cha_possessed_hero_01		FFFFFF	FFFFFF	FFFFFF
-31844		soldier	dread_cha_possessed_hero_02		FFFFFF	FFFFFF	FFFFFF
+31843	ovn_tmb_dread_king	soldier	dread_cha_possessed_hero_01		FFFFFF	FFFFFF	FFFFFF
+31844	ovn_tmb_dread_king	soldier	dread_cha_possessed_hero_02		FFFFFF	FFFFFF	FFFFFF
 21030900272		soldier	ovn_dk_cav_black_grail_knights_ror		000000	000000	000000
+31845	ovn_tmb_dread_king_battle_only	soldier	dread_cha_possessed_hero_01		FFFFFF	FFFFFF	FFFFFF
+31846	ovn_tmb_dread_king_battle_only	soldier	dread_cha_possessed_hero_02		FFFFFF	FFFFFF	FFFFFF
+31847	ovn_tmb_dread_king_battle_only	soldier	dread_corrupted_priest_death		FFFFFF	FFFFFF	FFFFFF
+31848	ovn_tmb_dread_king_battle_only	autonomous_rider	dread_corrupted_priest_death		FFFFFF	FFFFFF	FFFFFF
+31849	ovn_tmb_dread_king_battle_only	officer	dread_corrupted_priest_death		FFFFFF	FFFFFF	FFFFFF
+31850	ovn_tmb_dread_king_battle_only	soldier	dread_corrupted_priest_shadow		FFFFFF	FFFFFF	FFFFFF
+31851	ovn_tmb_dread_king_battle_only	autonomous_rider	dread_corrupted_priest_shadow		FFFFFF	FFFFFF	FFFFFF
+31852	ovn_tmb_dread_king_battle_only	officer	dread_corrupted_priest_shadow		FFFFFF	FFFFFF	FFFFFF
+31853	ovn_tmb_dread_king_battle_only	soldier	dread_corrupted_priest_vampires		FFFFFF	FFFFFF	FFFFFF
+31854	ovn_tmb_dread_king_battle_only	autonomous_rider	dread_corrupted_priest_vampires		FFFFFF	FFFFFF	FFFFFF
+31855	ovn_tmb_dread_king_battle_only	officer	dread_corrupted_priest_vampires		FFFFFF	FFFFFF	FFFFFF
+31856	ovn_tmb_dread_king_battle_only	soldier	elo_dread_centurion		2D5353	AE4841	AE4841
+31857	ovn_tmb_dread_king_battle_only	autonomous_rider	elo_dread_centurion		2D5353	AE4841	AE4841
+31858	ovn_tmb_dread_king_battle_only	officer	elo_dread_centurion		2D5353	AE4841	AE4841
+31859	ovn_tmb_dread_king_battle_only	soldier	elo_liche_general_death		973D38	2D5353	844911
+31860	ovn_tmb_dread_king_battle_only	autonomous_rider	elo_liche_general_death		973D38	2D5353	844911
+31861	ovn_tmb_dread_king_battle_only	officer	elo_liche_general_death		973D38	2D5353	844911
+31862	ovn_tmb_dread_king_battle_only	soldier	elo_liche_general_vampires		973D38	2D5353	844911
+31863	ovn_tmb_dread_king_battle_only	autonomous_rider	elo_liche_general_vampires		973D38	2D5353	844911
+31864	ovn_tmb_dread_king_battle_only	officer	elo_liche_general_vampires		973D38	2D5353	844911
+31865	ovn_tmb_dread_king_battle_only	soldier	ovn_dk_cav_royal_guard_cavalry		2D5353	AE4841	AE4841
+31866	ovn_tmb_dread_king_battle_only	soldier	ovn_dk_cav_royal_guard_lancers		2D5353	AE4841	AE4841
+31867	ovn_tmb_dread_king_battle_only	soldier	ovn_dk_inf_skeleton_hoplites		DFDCC6	342B24	7B5A3F
+31868	ovn_tmb_dread_king_battle_only	soldier	ovn_dk_inf_skeleton_pikemen		DFDCC6	342B24	7B5A3F
+31869	ovn_tmb_dread_king_battle_only	soldier	ovn_dk_inf_tomb_guardian		2D5353	AE4841	AE4841
+31870	ovn_tmb_dread_king_battle_only	soldier	ovn_dk_inf_tomb_guardian_great_weapons		2D5353	AE4841	AE4841
+31871	ovn_tmb_dread_king_battle_only	soldier	ovn_dk_inf_tomb_guardian_great_weapons_summoned		2D5353	AE4841	AE4841
+31872	ovn_tmb_dread_king_battle_only	soldier	ovn_dk_inf_tomb_guardian_peltasts		2D5353	AE4841	AE4841
+31873	ovn_tmb_dread_king_battle_only	soldier	ovn_dk_inf_tomb_guardian_summoned		2D5353	AE4841	AE4841
+31874	ovn_tmb_dread_king_battle_only	mount	ovn_dk_mon_skeleton_elephant		2D5353	AE4841	844911
+31875	ovn_tmb_dread_king_battle_only	autonomous_rider	ovn_dk_veh_mortis_engine_0		FFFFFF	FFFFFF	FFFFFF
+31876	ovn_tmb_dread_king_battle_only	autonomous_rider	ovn_dk_veh_skeleton_chariot		DFDCC6	342B24	7B5A3F
+31877	ovn_tmb_dread_myrmidens	soldier	ovn_dk_inf_skeleton_hoplites		E69900	342B24	7B5A3F
+31878	ovn_tmb_dread_myrmidens	soldier	ovn_dk_inf_skeleton_pikemen		E69900	342B24	7B5A3F
+31879	ovn_tmb_dread_myrmidens	autonomous_rider	ovn_dk_veh_skeleton_chariot		E69900	342B24	7B5A3F
+31880	ovn_tmb_dread_myrmidens	soldier	ovn_dk_inf_tomb_guardian		E69900	AE4841	AE4841
+31881	ovn_tmb_dread_myrmidens	soldier	ovn_dk_inf_tomb_guardian_great_weapons		E69900	AE4841	AE4841
+31882	ovn_tmb_dread_myrmidens	soldier	ovn_dk_inf_tomb_guardian_summoned		E69900	AE4841	AE4841
+31883	ovn_tmb_dread_myrmidens	soldier	ovn_dk_inf_tomb_guardian_great_weapons_summoned		E69900	AE4841	AE4841
+31884	ovn_tmb_dread_myrmidens	soldier	ovn_dk_inf_tomb_guardian_peltasts		E69900	AE4841	AE4841
+31885	ovn_tmb_dread_myrmidens	soldier	ovn_dk_cav_royal_guard_cavalry		E69900	AE4841	AE4841
+31886	ovn_tmb_dread_myrmidens	soldier	ovn_dk_cav_royal_guard_lancers		E69900	AE4841	AE4841
+31887	ovn_tmb_dread_myrmidens	soldier	elo_dread_centurion		E69900	AE4841	AE4841
+31888	ovn_tmb_dread_myrmidens	autonomous_rider	elo_dread_centurion		E69900	AE4841	AE4841
+31889	ovn_tmb_dread_myrmidens	officer	elo_dread_centurion		E69900	AE4841	AE4841
+31890	ovn_tmb_dread_myrmidens	soldier	elo_liche_general_vampires		844911	973D38	2D5353
+31891	ovn_tmb_dread_myrmidens	autonomous_rider	elo_liche_general_vampires		844911	973D38	2D5353
+31892	ovn_tmb_dread_myrmidens	officer	elo_liche_general_vampires		844911	973D38	2D5353
+31893	ovn_tmb_dread_myrmidens	soldier	elo_liche_general_death		844911	973D38	2D5353
+31894	ovn_tmb_dread_myrmidens	autonomous_rider	elo_liche_general_death		844911	973D38	2D5353
+31895	ovn_tmb_dread_myrmidens	officer	elo_liche_general_death		844911	973D38	2D5353
+31896	ovn_tmb_dread_myrmidens	soldier	dread_corrupted_priest_death		FFFFFF	FFFFFF	FFFFFF
+31897	ovn_tmb_dread_myrmidens	autonomous_rider	dread_corrupted_priest_death		FFFFFF	FFFFFF	FFFFFF
+31898	ovn_tmb_dread_myrmidens	officer	dread_corrupted_priest_death		FFFFFF	FFFFFF	FFFFFF
+31899	ovn_tmb_dread_myrmidens	soldier	dread_corrupted_priest_shadow		FFFFFF	FFFFFF	FFFFFF
+31900	ovn_tmb_dread_myrmidens	autonomous_rider	dread_corrupted_priest_shadow		FFFFFF	FFFFFF	FFFFFF
+31901	ovn_tmb_dread_myrmidens	officer	dread_corrupted_priest_shadow		FFFFFF	FFFFFF	FFFFFF
+31902	ovn_tmb_dread_myrmidens	soldier	dread_corrupted_priest_vampires		FFFFFF	FFFFFF	FFFFFF
+31903	ovn_tmb_dread_myrmidens	autonomous_rider	dread_corrupted_priest_vampires		FFFFFF	FFFFFF	FFFFFF
+31904	ovn_tmb_dread_myrmidens	officer	dread_corrupted_priest_vampires		FFFFFF	FFFFFF	FFFFFF
+31905	ovn_tmb_dread_myrmidens	autonomous_rider	ovn_dk_veh_mortis_engine_0		FFFFFF	FFFFFF	FFFFFF
+31906	ovn_tmb_dread_myrmidens	mount	ovn_dk_mon_skeleton_elephant		E69900	AE4841	844911
+31907	ovn_tmb_dread_myrmidens	soldier	dread_cha_possessed_hero_01		FFFFFF	FFFFFF	FFFFFF
+31908	ovn_tmb_dread_myrmidens	soldier	dread_cha_possessed_hero_02		FFFFFF	FFFFFF	FFFFFF
+31909	ovn_tmb_dread_king	soldier	elo_liche_general_undeath		973D38	2D5353	844911
+31910	ovn_tmb_dread_king	autonomous_rider	elo_liche_general_undeath		973D38	2D5353	844911
+31911	ovn_tmb_dread_king	officer	elo_liche_general_undeath		973D38	2D5353	844911
+31912	ovn_tmb_dread_king_battle_only	soldier	elo_liche_general_undeath		973D38	2D5353	844911
+31913	ovn_tmb_dread_king_battle_only	autonomous_rider	elo_liche_general_undeath		973D38	2D5353	844911
+31914	ovn_tmb_dread_king_battle_only	officer	elo_liche_general_undeath		973D38	2D5353	844911
+31915	ovn_tmb_dread_myrmidens	soldier	elo_liche_general_undeath		844911	973D38	2D5353
+31916	ovn_tmb_dread_myrmidens	autonomous_rider	elo_liche_general_undeath		844911	973D38	2D5353
+31917	ovn_tmb_dread_myrmidens	officer	elo_liche_general_undeath		844911	973D38	2D5353
+31918	ovn_tmb_dread_king	soldier	dread_corrupted_priest_undeath		FFFFFF	FFFFFF	FFFFFF
+31919	ovn_tmb_dread_king	autonomous_rider	dread_corrupted_priest_undeath		FFFFFF	FFFFFF	FFFFFF
+31920	ovn_tmb_dread_king	officer	dread_corrupted_priest_undeath		FFFFFF	FFFFFF	FFFFFF
+31921	ovn_tmb_dread_king_battle_only	soldier	dread_corrupted_priest_undeath		FFFFFF	FFFFFF	FFFFFF
+31922	ovn_tmb_dread_king_battle_only	autonomous_rider	dread_corrupted_priest_undeath		FFFFFF	FFFFFF	FFFFFF
+31923	ovn_tmb_dread_king_battle_only	officer	dread_corrupted_priest_undeath		FFFFFF	FFFFFF	FFFFFF
+31924	ovn_tmb_dread_myrmidens	soldier	dread_corrupted_priest_undeath		FFFFFF	FFFFFF	FFFFFF
+31925	ovn_tmb_dread_myrmidens	autonomous_rider	dread_corrupted_priest_undeath		FFFFFF	FFFFFF	FFFFFF
+31926	ovn_tmb_dread_myrmidens	officer	dread_corrupted_priest_undeath		FFFFFF	FFFFFF	FFFFFF

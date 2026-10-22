@@ -1,8 +1,10 @@
-faction_key	campaign_key	level	skill_key	subculture_key	image_path	unlocked_at_rank
+campaign_key	faction_key	level	skill_key	subculture_key	image_path	unlocked_at_rank
 #character_skill_level_details_tables;1;db/character_skill_level_details_tables/elo_liche_general						
 		1	liche_immortality		x	11
 		1	elo_liche_traitor_king		x	9
 		1	elo_liche_necromancer		x	9
+		1	elo_liche_necromancer_death		x	9
+		1	elo_liche_necromancer_undeath		x	9
 		1	elo_liche_general_legion		x	9
 		1	elo_follower_nagash		x	11
 		1	elo_call_the_legions		x	14
@@ -14,3 +16,8 @@ faction_key	campaign_key	level	skill_key	subculture_key	image_path	unlocked_at_r
 		1	mount_chariot_liche_death		x	9
 		1	mount_pegasus_liche_death		x	13
 		1	mount_warsphinx_liche_death		x	17
+		1	mount_barded_skeletal_steed_liche_undeath		x	3
+		1	mount_chariot_liche_undeath		x	9
+		1	mount_pegasus_liche_undeath		x	13
+		1	mount_warsphinx_liche_undeath		x	17
+		1	elo_liche_general_legion_nag		x	9

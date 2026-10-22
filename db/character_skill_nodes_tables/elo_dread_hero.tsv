@@ -41,7 +41,7 @@ dread_centurion_self_07		wh_main_skill_all_all_self_wound-maker		2	6		0	0	true
 dread_centurion_self_08		wh_main_skill_all_all_self_scarred_veteran_2		2	7		0	0	true
 dread_centurion_self_09		wh_main_skill_all_all_self_indomitable		2	8		0	0	true
 dread_centurion_self_10		wh_main_skill_all_all_self_blade_shield		2	9		0	0	true
-dread_centurion_self_11		wh3_dlc24_skill_all_all_self_colossal_strike		2	10		0	4	true
+dread_centurion_self_11		wh_main_skill_all_all_self_deadly_onslaught		2	10		0	4	true
 dread_centurion_unique_1		dread_we_are_legion		1	0		0	0	true
 dread_centurion_unique_2		dread_eternal_march		1	1		0	0	true
 dread_centurion_unique_3		dread_blessing_nagash		1	2		0	0	true

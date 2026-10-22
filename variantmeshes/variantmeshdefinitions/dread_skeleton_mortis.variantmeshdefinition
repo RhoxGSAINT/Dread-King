@@ -46,9 +46,9 @@
 			<META_DATA>audio_melee_weapon_type:sword</META_DATA></VARIANT_MESH>
 	</SLOT>
 	<SLOT name="shield" attach_point="be_prop_2" >
-		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1\vmp\vmp_props\vmp_skeleton_warriors_shield_mortis_01.wsmodel" >
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1\vmp\vmp_props\dread_skeleton_warriors_shield_mortis_01.wsmodel" >
 			<META_DATA>audio_shield_type:metal</META_DATA></VARIANT_MESH>
-		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1\vmp\vmp_props\vmp_skeleton_warriors_shield_mortis_03.wsmodel" >
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1\vmp\vmp_props\dread_skeleton_warriors_shield_mortis_03.wsmodel" >
 			<META_DATA>audio_shield_type:metal</META_DATA></VARIANT_MESH>
 		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hu1/vmp/vmp_props/dread_skeleton_warriors_shield_mortis_06.wsmodel"  >
 			<META_DATA>audio_shield_type:metal</META_DATA></VARIANT_MESH>

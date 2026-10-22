@@ -21,11 +21,11 @@
   </texture>
   <texture>
    <slot version="2">t_xml_material_map</slot>
-   <source>variantmeshes\wh_variantmodels\hu1\alb\alb_props\tex\alb_noble_shield_material_map.dds</source>
+   <source>variantmeshes\wh_variantmodels\hu1\alb\alb_props\tex\dread_thureos_shield_material_map.dds</source>
   </texture>
   <texture>
    <slot version="2">t_xml_normal</slot>
-   <source>variantmeshes\wh_variantmodels\hu1\alb\alb_props\tex/alb_noble_shield_normal.dds</source>
+   <source>variantmeshes\wh_variantmodels\hu1\alb\alb_props\tex\dread_thureos_shield_normal.dds</source>
   </texture>
   <texture>
    <slot version="2">t_xml_distortion_noise</slot>

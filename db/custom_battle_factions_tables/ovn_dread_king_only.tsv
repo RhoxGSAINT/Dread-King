@@ -1,3 +1,6 @@
 faction_key	sort_order	culture_sort_order
 #custom_battle_factions_tables;1;db/custom_battle_factions_tables/ovn_dread_king_only		
 ovn_tmb_dread_king_battle_only	0	115
+ovn_tmb_dread_myrmidens_battle_only	1	115
+ovn_tmb_hand_of_nagash_battle_only	2	115
+ovn_tmb_black_graal_battle_only	3	115

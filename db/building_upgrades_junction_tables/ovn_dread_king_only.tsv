@@ -8,6 +8,7 @@ dread_infantry_2	dread_infantry_3
 dread_infantry_3	dread_infantry_4
 dread_ghosts_1	dread_ghosts_2
 dread_elephants_1	dread_hydras_1
+dread_hydras_1	dread_hydras_2
 dread_chariots_1	dread_chariots_2
 dread_chariots_2	dread_chariots_3
 dread_public_order_1	dread_public_order_2
@@ -17,3 +18,6 @@ dread_growth_2	dread_growth_3
 dread_income_1	dread_income_2
 dread_income_2	dread_income_3
 dread_special_the_great_desert_dread_king_1	dread_special_the_great_desert_dread_king_2
+dread_colossus_1	dread_colossus_2
+dread_mortis_1	dread_mortis_2
+dread_citadel_1	dread_citadel_2

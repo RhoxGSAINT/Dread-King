@@ -10,3 +10,13 @@ wh3_main_province_initiative_tmb_worship_of_djaf					province_initiatives	dread_
 wh3_main_province_initiative_tmb_worship_of_khsar					province_initiatives	dread_edict_tmb_worship_of_khsar						true	0			
 wh3_main_province_initiative_tmb_worship_of_phakth					province_initiatives	dread_edict_tmb_worship_of_phakth						true	0			
 wh3_main_province_initiative_tmb_worship_of_ptra					province_initiatives	dread_edict_tmb_worship_of_ptra						true	0			
+rhox_nag_mortarchs_dk_arkhan				rhox_nag_mortarchs_dk_arkhan	rituals							true	0			
+wh3_dlc29_ritual_nag_unit_capacity_tier_2_royal_guard				wh3_dlc29_ritual_nag_unit_capacity_cav_royal_guard	rituals							true	0			
+wh3_dlc29_ritual_nag_unit_capacity_tier_2_hoplites_and_pikes				wh3_dlc29_ritual_nag_unit_capacity_inf_hoplites_and_pikes	rituals							true	0			
+wh3_dlc29_ritual_nag_unit_capacity_tier_1_mummies				wh3_dlc29_ritual_nag_unit_capacity_inf_mummies	rituals							true	0			
+wh3_dlc29_ritual_nag_unit_capacity_tier_3_tomb_guardians				wh3_dlc29_ritual_nag_unit_capacity_inf_tomb_guardians	rituals							true	0			
+wh3_dlc29_ritual_nag_unit_capacity_tier_3_tomb_guardians_peltasts				wh3_dlc29_ritual_nag_unit_capacity_inf_tomb_guardians_peltasts	rituals							true	0			
+wh3_dlc29_ritual_nag_unit_capacity_tier_4_bone_colossus				wh3_dlc29_ritual_nag_unit_capacity_mon_bone_colossus	rituals							true	0			
+wh3_dlc29_ritual_nag_unit_capacity_tier_4_bone_hydra				wh3_dlc29_ritual_nag_unit_capacity_mon_bone_hydra	rituals							true	0			
+wh3_dlc29_ritual_nag_unit_capacity_tier_4_skeletal_elephant				wh3_dlc29_ritual_nag_unit_capacity_mon_skeletal_elephant	rituals							true	0			
+wh3_dlc29_ritual_nag_unit_capacity_tier_3_skeletal_minotaurs				wh3_dlc29_ritual_nag_unit_capacity_mon_skeletal_minotaurs	rituals							true	0			

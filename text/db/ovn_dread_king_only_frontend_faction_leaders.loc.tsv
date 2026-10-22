@@ -3,5 +3,6 @@ key	text	tooltip
 frontend_faction_leaders_localised_description_wh2_main_political_party_tmb_the_sentinels	frontend_faction_leaders_localised_description_wh2_main_political_party_tmb_the_sentinels	true
 frontend_faction_leaders_localised_action_points_wh2_main_political_party_tmb_the_sentinels		true
 frontend_faction_leaders_loading_screen_text_wh2_main_political_party_tmb_the_sentinels		true
-frontend_faction_leaders_frontend_description_mixer_ovn_tmb_dread_king	The Dread King marches again! Amassing an army of ancient undead warriors at the Pools of Despair, he sets off to reconquer Nehekhara and Araby in the name of the Great Necromancer...	false
-frontend_faction_leaders_loading_screen_text_mixer_ovn_tmb_dread_king	{{tr:ie_loading_screen_theatre_nehekhara}}	false
+frontend_faction_leaders_frontend_description_mixer_ovn_tmb_dread_king	The Dread King marches again! Amassing an army of ancient undead warriors at the Pools of Despair, he sets out to reconquer Nehekhara and Araby in the name of the Great Necromancer.	true
+frontend_faction_leaders_loading_screen_text_mixer_ovn_tmb_dread_king	{{tr:ie_loading_screen_theatre_nehekhara}}	true
+frontend_faction_leaders_frontend_description_cr_oldworld_political_party_tmb_dread_king	The Dread King marches north! Sensing the presence of an ancient servant of Nagash imprisoned beneath the ice in the frozen lands of Kislev, the Dark Lord of Nagash arrives at the ancient barrow grounds of Macadone.	true

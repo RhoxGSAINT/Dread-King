@@ -26,3 +26,16 @@ dread_edict_tmb_worship_of_phakth		Ancient Glory	province	1	edict_tmb_worship_of
 dread_edict_tmb_worship_of_ptra		Undead Labourers	province	1	edict_repress_mortals.png	true	false	true
 ovn_vc_dk_aon	 		faction	1	books_of_nagash.png	true	false	true
 ovn_vc_dk_do	 		faction	1	corruption_vampiric.png	true	false	true
+ovn_myrmidens_diplo_hidden	HIDDEN	HIDDEN	faction	1	diplomacy.png	false	false	true
+ovn_dread_books_of_nagash_reward_1		First Book of Nagash	force	1	books_of_nagash.png	false	false	true
+ovn_dread_books_of_nagash_reward_2		Second Book of Nagash	force	1	books_of_nagash.png	false	false	true
+ovn_dread_books_of_nagash_reward_3		Third Book of Nagash	force	1	books_of_nagash.png	false	false	true
+ovn_dread_books_of_nagash_reward_3_army		Third Book of Nagash	force	1	books_of_nagash.png	false	false	true
+ovn_dread_books_of_nagash_reward_3_region_occupy		Third Book of Nagash	region	1	books_of_nagash.png	false	false	true
+ovn_dread_books_of_nagash_reward_3_region_sack		Third Book of Nagash	region	1	books_of_nagash.png	false	false	true
+ovn_dread_books_of_nagash_reward_4		Fourth Book of Nagash	force	1	books_of_nagash.png	false	false	true
+ovn_dread_books_of_nagash_reward_5		Fifth Book of Nagash	force	1	books_of_nagash.png	false	false	true
+ovn_dread_books_of_nagash_reward_6		Sixth Book of Nagash	force	1	books_of_nagash.png	false	false	true
+ovn_dread_books_of_nagash_reward_7		Seventh Book of Nagash	force	1	books_of_nagash.png	false	false	true
+ovn_dread_books_of_nagash_reward_8		Eighth Book of Nagash	force	1	books_of_nagash.png	false	false	true
+ovn_dread_books_of_nagash_reward_9		Ninth Book of Nagash	force	1	books_of_nagash.png	false	false	true

@@ -5,7 +5,7 @@
  <textures>
   <texture>
    <slot version="2">t_xml_base_colour</slot>
-   <source>VariantMeshes/wh_variantmodels/hu1/vmp/vmp_props/tex/vmp_skeleton_warriors_shield_01_base_colour.dds</source>
+   <source>variantmeshes/wh_variantmodels/hu1/vmp/vmp_props/tex/dk_vanilla_skeleton_warriors_shield_01_base_colour.dds</source>
   </texture>
   <texture>
    <slot version="2">t_xml_blood_map</slot>
@@ -17,7 +17,7 @@
   </texture>
   <texture>
    <slot version="2">t_xml_mask</slot>
-   <source>VariantMeshes/wh_variantmodels/hu1/vmp/vmp_props/tex/vmp_skeleton_warriors_shield_01_mask.dds</source>
+   <source>variantmeshes/wh_variantmodels/hu1/vmp/vmp_props/tex/dk_vanilla_skeleton_warriors_shield_01_mask.dds</source>
   </texture>
   <texture>
    <slot version="2">t_xml_material_map</slot>

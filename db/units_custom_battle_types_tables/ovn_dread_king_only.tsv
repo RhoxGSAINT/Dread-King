@@ -3,5 +3,7 @@ alternate_unit	base_unit	type_category	type_icon	show_base_in_unit_list	id	colou
 dread_corrupted_priest_death	dread_corrupted_priest_death	type_spell_lore		true	190914	FFFFFF	20
 dread_corrupted_priest_shadow	dread_corrupted_priest_death	type_spell_lore		false	190915	FFFFFF	70
 dread_corrupted_priest_vampires	dread_corrupted_priest_death	type_spell_lore		false	190916	FFFFFF	80
+dread_corrupted_priest_undeath	dread_corrupted_priest_death	type_spell_lore		false	191112	FFFFFF	90
 elo_liche_general_vampires	elo_liche_general_vampires	type_spell_lore		true	191028	FFFFFF	20
 elo_liche_general_death	elo_liche_general_vampires	type_spell_lore		false	191029	FFFFFF	70
+elo_liche_general_undeath	elo_liche_general_vampires	type_spell_lore		false	191113	FFFFFF	80

@@ -1,0 +1,4 @@
+key	location	ownership	source	target	territory
+#campaign_effect_scopes_tables;2;db/campaign_effect_scopes_tables/ovn_dread_king_nagash_recruitment					
+faction_to_force_own_dk_nag_unseen	factionwide	yours	faction	force	any
+faction_to_force_own_dk_unseen	factionwide	yours	faction	force	any

@@ -13,7 +13,6 @@ elo_wraith_liche		elo_wraith_liche		1	6		0	0	true
 elo_true_wraith		elo_true_wraith		1	5		0	4	true
 elo_ghost_ward		elo_ghost_ward		1	7		0	0	true
 elo_change_at_will		elo_change_at_will		1	8		0	2	true
-larenscheld_mentor		wh3_main_skill_all_mentor_hero		0	12		0	0	true
 laren_wh_main_skill_node_vmp_necromancer_magic1_01		wh_main_skill_vmp_magic_vampires_01_invocation_of_nehek		2	0		0	0	true
 laren_wh_main_skill_node_vmp_necromancer_magic1_02		wh_main_skill_vmp_magic_vampires_03_the_curse_of_undeath		2	1		0	0	true
 laren_wh_main_skill_node_vmp_necromancer_magic1_03		wh_main_skill_vmp_magic_vampires_02_vanhels_danse_macabre		2	2		0	0	true

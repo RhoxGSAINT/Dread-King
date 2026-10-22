@@ -1,3 +1,4 @@
 faction	corruption_type
 #audio_faction_corruption_vo_overrides_tables;0;db/audio_faction_corruption_vo_overrides_tables/ovn_dread_king_only	
 ovn_tmb_dread_king	VAMPIRE
+ovn_tmb_dread_myrmidens	VAMPIRE

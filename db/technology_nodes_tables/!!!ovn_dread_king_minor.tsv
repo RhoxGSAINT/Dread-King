@@ -1,0 +1,79 @@
+key	campaign_key	faction_key	indent	technology_key	technology_node_set	tier	research_points_required	cost_per_round	food_cost	optional_ui_group	resource_cost	required_parents	pixel_offset_x	pixel_offset_y
+#technology_nodes_tables;0;db/technology_nodes_tables/!!!ovn_dread_king_minor														
+dread_king_tech_1_legion_minor		ovn_tmb_dread_myrmidens	15	dread_king_tech_1_legion	tmb_mil	8	1000	0	0		wh3_main_tmb_dynasty	0	0	0
+dread_king_tech_2_legion_minor		ovn_tmb_dread_myrmidens	17	dread_king_tech_2_legion	tmb_mil	8	1000	0	0		wh3_main_tmb_dynasty	1	0	0
+dread_king_tech_3_legion_minor		ovn_tmb_dread_myrmidens	19	dread_king_tech_3_legion	tmb_mil	8	1000	0	0		wh3_main_tmb_dynasty	1	0	0
+dread_king_tech_4_legion_minor		ovn_tmb_dread_myrmidens	20	dread_king_tech_4_legion	tmb_mil	8	1000	0	0		wh3_main_tmb_dynasty	1	0	0
+dread_king_tech_5_legion_minor		ovn_tmb_dread_myrmidens	21	dread_king_tech_5_legion	tmb_mil	8	1000	0	0		wh3_main_tmb_dynasty	1	0	0
+dread_king_tech_6_legion_minor		ovn_tmb_dread_myrmidens	23	dread_king_tech_6_legion	tmb_mil	8	1000	0	0		wh3_main_tmb_dynasty	1	0	0
+dread_king_tech_7_minor		ovn_tmb_dread_myrmidens	16	dread_king_tech_7	tmb_mil	8	75	0	0			1	0	0
+dread_king_tech_8_minor		ovn_tmb_dread_myrmidens	16	dread_king_tech_8	tmb_mil	7	75	0	0			1	0	0
+dread_king_tech_9_minor		ovn_tmb_dread_myrmidens	16	dread_king_tech_9	tmb_mil	9	75	0	0			1	0	0
+dread_king_tech_10_minor		ovn_tmb_dread_myrmidens	17	dread_king_tech_10	tmb_mil	7	75	0	0			1	0	0
+dread_king_tech_11_minor		ovn_tmb_dread_myrmidens	17	dread_king_tech_11	tmb_mil	6	75	0	0			1	0	0
+dread_king_tech_12_minor		ovn_tmb_dread_myrmidens	17	dread_king_tech_12	tmb_mil	9	75	0	0			1	0	0
+dread_king_tech_13_minor		ovn_tmb_dread_myrmidens	17	dread_king_tech_13	tmb_mil	10	75	0	0			1	0	0
+dread_king_tech_15_minor		ovn_tmb_dread_myrmidens	18	dread_king_tech_15	tmb_mil	7	200	0	0		wh2_dlc09_tmb_tech_agent_unlock	1	0	0
+dread_king_tech_16_minor		ovn_tmb_dread_myrmidens	18	dread_king_tech_16	tmb_mil	6	100	0	0			1	0	0
+dread_king_tech_17_minor		ovn_tmb_dread_myrmidens	18	dread_king_tech_17	tmb_mil	5	200	0	0			1	0	0
+dread_king_tech_18_minor		ovn_tmb_dread_myrmidens	18	dread_king_tech_18	tmb_mil	9	200	0	0		wh2_dlc09_tmb_tech_agent_unlock	1	0	0
+dread_king_tech_19_minor		ovn_tmb_dread_myrmidens	18	dread_king_tech_19	tmb_mil	10	100	0	0			1	0	0
+dread_king_tech_20_minor		ovn_tmb_dread_myrmidens	18	dread_king_tech_20	tmb_mil	11	200	0	0			1	0	0
+dread_king_tech_21_minor		ovn_tmb_dread_myrmidens	19	dread_king_tech_21	tmb_mil	7	100	0	0			1	0	0
+dread_king_tech_22_minor		ovn_tmb_dread_myrmidens	19	dread_king_tech_22	tmb_mil	6	100	0	0			1	0	0
+dread_king_tech_23_minor		ovn_tmb_dread_myrmidens	19	dread_king_tech_23	tmb_mil	5	100	0	0			1	0	0
+dread_king_tech_24_minor		ovn_tmb_dread_myrmidens	19	dread_king_tech_24	tmb_mil	4	400	0	0		wh3_main_tmb_dynasty_patronage	1	0	0
+dread_king_tech_25_minor		ovn_tmb_dread_myrmidens	19	dread_king_tech_25	tmb_mil	9	100	0	0			1	0	0
+dread_king_tech_26_minor		ovn_tmb_dread_myrmidens	19	dread_king_tech_26	tmb_mil	10	100	0	0			1	0	0
+dread_king_tech_27_minor		ovn_tmb_dread_myrmidens	19	dread_king_tech_27	tmb_mil	11	100	0	0			1	0	0
+dread_king_tech_28_minor		ovn_tmb_dread_myrmidens	19	dread_king_tech_28	tmb_mil	12	400	0	0		wh3_main_tmb_dynasty_patronage	1	0	0
+dread_king_tech_29_minor		ovn_tmb_dread_myrmidens	20	dread_king_tech_29	tmb_mil	7	200	0	0		wh2_dlc09_tmb_tech_agent_unlock	1	0	0
+dread_king_tech_30_minor		ovn_tmb_dread_myrmidens	20	dread_king_tech_30	tmb_mil	6	200	0	0		wh2_dlc09_tmb_tech_agent_unlock	1	0	0
+dread_king_tech_31_minor		ovn_tmb_dread_myrmidens	20	dread_king_tech_31	tmb_mil	5	200	0	0		wh2_dlc09_tmb_tech_agent_unlock	1	0	0
+dread_king_tech_32_minor		ovn_tmb_dread_myrmidens	20	dread_king_tech_32	tmb_mil	4	200	0	0		wh2_dlc09_tmb_tech_agent_unlock	1	0	0
+dread_king_tech_33_minor		ovn_tmb_dread_myrmidens	20	dread_king_tech_33	tmb_mil	3	200	0	0		wh2_dlc09_tmb_tech_agent_unlock	1	0	0
+dread_king_tech_34_minor		ovn_tmb_dread_myrmidens	20	dread_king_tech_34	tmb_mil	9	200	0	0		wh2_dlc09_tmb_tech_agent_unlock	1	0	0
+dread_king_tech_35_minor		ovn_tmb_dread_myrmidens	20	dread_king_tech_35	tmb_mil	10	200	0	0		wh2_dlc09_tmb_tech_agent_unlock	1	0	0
+dread_king_tech_36_minor		ovn_tmb_dread_myrmidens	20	dread_king_tech_36	tmb_mil	11	200	0	0		wh2_dlc09_tmb_tech_agent_unlock	1	0	0
+dread_king_tech_37_minor		ovn_tmb_dread_myrmidens	20	dread_king_tech_37	tmb_mil	12	200	0	0		wh2_dlc09_tmb_tech_agent_unlock	1	0	0
+dread_king_tech_38_minor		ovn_tmb_dread_myrmidens	20	dread_king_tech_38	tmb_mil	13	200	0	0		wh2_dlc09_tmb_tech_agent_unlock	1	0	0
+dread_king_tech_39_minor		ovn_tmb_dread_myrmidens	21	dread_king_tech_39	tmb_mil	7	100	0	0			1	0	0
+dread_king_tech_40_minor		ovn_tmb_dread_myrmidens	21	dread_king_tech_40	tmb_mil	6	100	0	0			1	0	0
+dread_king_tech_41_minor		ovn_tmb_dread_myrmidens	21	dread_king_tech_41	tmb_mil	5	100	0	0			1	0	0
+dread_king_tech_42_minor		ovn_tmb_dread_myrmidens	21	dread_king_tech_42	tmb_mil	4	100	0	0			1	0	0
+dread_king_tech_43_minor		ovn_tmb_dread_myrmidens	21	dread_king_tech_43	tmb_mil	3	100	0	0			1	0	0
+dread_king_tech_44_minor		ovn_tmb_dread_myrmidens	21	dread_king_tech_44	tmb_mil	2	400	0	0		wh3_main_tmb_dynasty_patronage	1	0	0
+dread_king_tech_45_minor		ovn_tmb_dread_myrmidens	21	dread_king_tech_45	tmb_mil	9	100	0	0			1	0	0
+dread_king_tech_46_minor		ovn_tmb_dread_myrmidens	21	dread_king_tech_46	tmb_mil	10	100	0	0			1	0	0
+dread_king_tech_47_minor		ovn_tmb_dread_myrmidens	21	dread_king_tech_47	tmb_mil	11	100	0	0			1	0	0
+dread_king_tech_48_minor		ovn_tmb_dread_myrmidens	21	dread_king_tech_48	tmb_mil	12	100	0	0			1	0	0
+dread_king_tech_50_minor		ovn_tmb_dread_myrmidens	21	dread_king_tech_50	tmb_mil	14	400	0	0		wh3_main_tmb_dynasty_patronage	1	0	0
+dread_king_tech_52_minor		ovn_tmb_dread_myrmidens	22	dread_king_tech_52	tmb_mil	7	100	0	0			1	0	0
+dread_king_tech_53_minor		ovn_tmb_dread_myrmidens	22	dread_king_tech_53	tmb_mil	6	100	0	0			1	0	0
+dread_king_tech_54_minor		ovn_tmb_dread_myrmidens	22	dread_king_tech_54	tmb_mil	5	200	0	0		wh2_dlc09_tmb_tech_agent_unlock	1	0	0
+dread_king_tech_55_minor		ovn_tmb_dread_myrmidens	22	dread_king_tech_55	tmb_mil	4	200	0	0		wh2_dlc09_tmb_tech_agent_unlock	1	0	0
+dread_king_tech_56_minor		ovn_tmb_dread_myrmidens	22	dread_king_tech_56	tmb_mil	3	200	0	0		wh2_dlc09_tmb_tech_agent_unlock	1	0	0
+dread_king_tech_58_minor		ovn_tmb_dread_myrmidens	22	dread_king_tech_58	tmb_mil	1	400	0	0		wh3_main_tmb_dynasty_patronage	1	0	0
+dread_king_tech_59_minor		ovn_tmb_dread_myrmidens	22	dread_king_tech_59	tmb_mil	9	100	0	0			1	0	0
+dread_king_tech_60_minor		ovn_tmb_dread_myrmidens	22	dread_king_tech_60	tmb_mil	10	100	0	0			1	0	0
+dread_king_tech_61_minor		ovn_tmb_dread_myrmidens	22	dread_king_tech_61	tmb_mil	11	200	0	0		wh2_dlc09_tmb_tech_agent_unlock	1	0	0
+dread_king_tech_62_minor		ovn_tmb_dread_myrmidens	22	dread_king_tech_62	tmb_mil	12	200	0	0		wh2_dlc09_tmb_tech_agent_unlock	1	0	0
+dread_king_tech_63_minor		ovn_tmb_dread_myrmidens	22	dread_king_tech_63	tmb_mil	13	200	0	0		wh2_dlc09_tmb_tech_agent_unlock	1	0	0
+dread_king_tech_65_minor		ovn_tmb_dread_myrmidens	22	dread_king_tech_65	tmb_mil	15	400	0	0		wh3_main_tmb_dynasty_patronage	1	0	0
+dread_king_tech_66_minor		ovn_tmb_dread_myrmidens	23	dread_king_tech_66	tmb_mil	7	100	0	0			1	0	0
+dread_king_tech_67_minor		ovn_tmb_dread_myrmidens	23	dread_king_tech_67	tmb_mil	6	100	0	0			1	0	0
+dread_king_tech_68_minor		ovn_tmb_dread_myrmidens	23	dread_king_tech_68	tmb_mil	5	100	0	0			1	0	0
+dread_king_tech_69_minor		ovn_tmb_dread_myrmidens	23	dread_king_tech_69	tmb_mil	4	100	0	0			1	0	0
+dread_king_tech_70_minor		ovn_tmb_dread_myrmidens	23	dread_king_tech_70	tmb_mil	3	100	0	0			1	0	0
+dread_king_tech_71_minor		ovn_tmb_dread_myrmidens	23	dread_king_tech_71	tmb_mil	2	100	0	0			1	0	0
+dread_king_tech_72_minor		ovn_tmb_dread_myrmidens	23	dread_king_tech_72	tmb_mil	1	100	0	0			1	0	0
+dread_king_tech_73_minor		ovn_tmb_dread_myrmidens	23	dread_king_tech_73	tmb_mil	0	200	0	0			1	0	0
+dread_king_tech_74_minor		ovn_tmb_dread_myrmidens	23	dread_king_tech_74	tmb_mil	9	100	0	0			1	0	0
+dread_king_tech_75_minor		ovn_tmb_dread_myrmidens	23	dread_king_tech_75	tmb_mil	10	100	0	0			1	0	0
+dread_king_tech_76_minor		ovn_tmb_dread_myrmidens	23	dread_king_tech_76	tmb_mil	11	100	0	0			1	0	0
+dread_king_tech_77_minor		ovn_tmb_dread_myrmidens	23	dread_king_tech_77	tmb_mil	12	100	0	0			1	0	0
+dread_king_tech_78_minor		ovn_tmb_dread_myrmidens	23	dread_king_tech_78	tmb_mil	13	100	0	0			1	0	0
+dread_king_tech_79_minor		ovn_tmb_dread_myrmidens	23	dread_king_tech_79	tmb_mil	14	100	0	0			1	0	0
+dread_king_tech_80_minor		ovn_tmb_dread_myrmidens	23	dread_king_tech_80	tmb_mil	15	100	0	0			1	0	0
+dread_king_tech_81_minor		ovn_tmb_dread_myrmidens	23	dread_king_tech_81	tmb_mil	16	200	0	0			1	0	0
+dread_dummy_minor		ovn_tmb_dread_myrmidens	6	dread_dummy	tmb_mil	0	999999999	999999999	0			1	0	0

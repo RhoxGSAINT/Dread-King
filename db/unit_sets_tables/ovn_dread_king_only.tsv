@@ -3,6 +3,7 @@ key	use_unit_exp_level_range	min_unit_exp_level_inclusive	max_unit_exp_level_inc
 dread_legion_all	false	-1	-1	
 elo_larenscheld_afterlife	false	-1	-1	
 ovn_dk_inf_skeleton_javelinmen	false	-1	-1	
+ovn_dk_inf_skeleton_javelinmen_no_caps	false	-1	-1	
 ovn_dk_inf_skeleton_hoplites	false	-1	-1	
 ovn_dk_inf_skeleton_pikemen	false	-1	-1	
 ovn_dk_inf_mummies	false	-1	-1	
@@ -85,3 +86,11 @@ dread_army_buff_vet_infantry_ror	false	-1	-1
 dread_army_buff_vet_monsters_ror	false	-1	-1	
 ovn_dk_inf_skeleton_pikemen_vet	true	7	9	
 ovn_dk_vet_hoplites_ror	false	-1	-1	
+ovn_dk_mon_skeleton_minotaurs_terror	false	-1	-1	
+nagash_dk_recruitment	false	-1	-1	
+dk_all	false	-1	-1	
+dk_all_skeleton	false	-1	-1	
+ovn_dk_cav_black_grail_knights_ror	false	-1	-1	
+ovn_dk_inf_mummies_ror	false	-1	-1	
+ovn_dk_inf_brigands_ror	false	-1	-1	
+ovn_dk_mon_skeleton_elephant_ror	false	-1	-1	

@@ -1,0 +1,9 @@
+subculture	subtype	agent	associated_unit_override	small_icon
+#agent_subtype_subculture_overrides_tables;5;db/agent_subtype_subculture_overrides_tables/ovn_dread_king_nagash_recruitment				
+wh3_dlc29_sc_nag_undead_legions	elo_dread_centurion	champion		ui/campaign ui/agents/wh_main_vmp_champion.png
+wh3_dlc29_sc_nag_undead_legions	dread_hellwraith	engineer		ui/campaign ui/agents/wh2_dlc09_tmb_engineer.png
+wh3_dlc29_sc_nag_undead_legions	dread_corrupted_priest_death	wizard		ui/campaign ui/agents/wh_main_wizard.png
+wh3_dlc29_sc_nag_undead_legions	dread_corrupted_priest_shadow	wizard		ui/campaign ui/agents/wh_main_wizard.png
+wh3_dlc29_sc_nag_undead_legions	dread_corrupted_priest_vampires	wizard		ui/campaign ui/agents/wh_main_wizard.png
+wh3_dlc29_sc_nag_undead_legions	dread_corrupted_priest_undeath	wizard		ui/campaign ui/agents/wh_main_wizard.png
+wh3_dlc29_sc_nag_undead_legions	elo_dread_larenscheld	wizard		ui/campaign ui/agents/wh_main_wizard.png

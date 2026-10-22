@@ -11,10 +11,10 @@ building_short_description_texts_short_description_dread_ghosts_1	Restless souls
 building_short_description_texts_short_description_dread_ghosts_2	An unholy font of dark dreams and trapped spirits, used by Undead Lords to bolster their legions.	true
 building_short_description_texts_short_description_dread_hydras_1	The foul beasts that roam the Old World have been slain and revived to reinforce the armies of darkness.	true
 building_short_description_texts_short_description_dread_infantry_4	Only the best of the best may serve in the Dread King's Royal Guard.	true
-building_short_description_texts_short_description_dread_mortis_1	The true masters of Necromancy have uncovered the secret of the creation of these Arcance machines.	true
+building_short_description_texts_short_description_dread_mortis_1	The true masters of Necromancy have uncovered the secret of the creation of these Arcane machines.	true
 building_short_description_texts_short_description_dread_settlement_major_1	The original inhabitants of this small settlement have long left this cursed place, however the dead still roam it.	false
 building_short_description_texts_short_description_dread_settlement_major_2	Nowadays a town of the undead, this place was once an important settlement for trade.	false
-building_short_description_texts_short_description_dread_settlement_major_3	An outpost of a forgotten civilication, used by the Dreadking's servants for their nefarious means.	false
+building_short_description_texts_short_description_dread_settlement_major_3	An outpost of a forgotten civilication, used by the Dread King's servants for their nefarious means.	false
 building_short_description_texts_short_description_dread_settlement_major_4	Many centuries ago this city was filled with the sounds of bustling activity of the living. Now the undead carry out their tasks in eerie silence.	false
 building_short_description_texts_short_description_dread_settlement_major_5	A mighty city-state of the past has now turned into the centre of the machinations of the undead.	false
 building_short_description_texts_short_description_dread_citadel_1	The haunted citadel serves as arsenal and deterrent for attackers alike.	false
@@ -26,3 +26,6 @@ building_short_description_texts_short_description_dread_public_order_1	An uprig
 building_short_description_texts_short_description_dread_public_order_2	A reminder of Nagash's superiority to his more sapient servants.	false
 building_short_description_texts_short_description_dread_public_order_3	There is only one master of this world and all will serve Nagash in due time.	false
 building_short_description_texts_short_description_dread_special_nagashizzar_dread_king	The Dread King went into the chamber alone to gaze upon the husk of Nagash...	false
+building_short_description_texts_short_description_wh3_dlc29_nag_chambers_constructs_dread_king_1	A tumulus of corpses from a long-faded civilisation, now occupied by new denizens.	false
+building_short_description_texts_short_description_wh3_dlc29_nag_chambers_horsemen_dread_king_1	The quicksands the horses died in have cowered away from Nagash’s gaze. Now they have been brought back to their riders.	false
+building_short_description_texts_short_description_wh3_dlc29_nag_chambers_melee_dread_king_1	In the past, they meant a way out into another world. That afterlife is now here, not elsewhere.	false

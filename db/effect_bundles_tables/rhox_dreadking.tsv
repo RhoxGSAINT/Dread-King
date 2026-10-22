@@ -4,5 +4,7 @@ rhox_dk_servants_in_undeath_elephant			faction	1	diplomacy.png	true	false	true
 rhox_dk_servants_in_undeath_minotaur			faction	1	diplomacy.png	true	false	true
 rhox_dk_servants_in_undeath_hydra			faction	1	diplomacy.png	true	false	true
 rhox_dk_servants_in_undeath_colossus			faction	1	diplomacy.png	true	false	true
-rhox_dk_nagash_defeated_reward			faction	1	res_nag_nagash.png	true	false	true
-rhox_dk_nagash_follower_reward			faction	1	res_nag_nagash.png	true	false	true
+rhox_dk_nagash_defeated_reward			faction	1	wh3_dlc29_nagash_endgame_power_level.png	true	false	true
+rhox_dk_nagash_follower_reward			faction	1	wh3_dlc29_nag_mortarchs.png	true	false	true
+rhox_dk_army_ability_enabler_hidden			faction	1	wh3_dlc29_nag_summon_dead.png	true	false	true
+rhox_nag_ritual_payload_mortarch_dk			faction	1		false	false	true

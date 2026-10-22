@@ -2,7 +2,7 @@ key	text	tooltip
 #Loc;1;text/db/ovn_dread_king_only_names.loc		
 names_name_247259235	The Dread	true
 names_name_247259236	King	true
-names_name_247259237	Hand of 	true
+names_name_247259237	The Hand of 	true
 names_name_247259238	Nagash	true
 names_name_3110890049	Hierophant	true
 names_name_311089050	Nicator	true
@@ -87,3 +87,5 @@ names_name_311089128	Omanhan III	true
 names_name_311089129	King	true
 names_name_311089130	PLACEHOLDER	true
 names_name_311089131	PLACEHOLDER	true
+names_name_311089132	{{tr:names_name_247259237}}	false
+names_name_311089133	{{tr:names_name_247259238}}	false

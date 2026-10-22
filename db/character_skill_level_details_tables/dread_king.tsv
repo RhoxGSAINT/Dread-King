@@ -1,4 +1,4 @@
-faction_key	campaign_key	level	skill_key	subculture_key	image_path	unlocked_at_rank
+campaign_key	faction_key	level	skill_key	subculture_key	image_path	unlocked_at_rank
 #character_skill_level_details_tables;1;db/character_skill_level_details_tables/dread_king						
 		1	dread_skeletal_steed		x	7
 		1	dread_pegasus		x	9

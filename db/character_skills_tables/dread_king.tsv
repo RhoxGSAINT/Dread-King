@@ -35,3 +35,4 @@ dread_army_buff_vet_archer	battle_ammo.png	Arrows loosed under the ever-watchful
 dread_army_buff_vet_cav	battle_armour.png	The desert itself is his steed.	Dune Rider	0	false	false	false	0.0000	0
 dread_army_buff_vet_infantry	battle_ward_save.png	A dream of glory attained through conquest great rages still, despite the dying of the light.	Unfading Memory	0	false	false	false	0.0000	0
 dread_army_buff_vet_monsters	battle_damage.png	The very strength of the desert, to stand sentinel over the Tomb Kings' domain and crush their enemies to dust.	Ancient Stone	0	false	false	false	0.0000	0
+dread_skill_magic_hand_of_nagash_dummy	battle_attack.png		Invocation of Nehek + Aspect of the Dread Knight	0	false	false	false	0.0000	0

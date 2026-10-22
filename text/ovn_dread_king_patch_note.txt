@@ -1,3 +1,199 @@
+2026/OCT/22 Lingling
+- added lore of undeath version to Liche Strategos and Corrupted Priest
+- Dread King now uses lore of undeath, adjusted skill tree accordingly
+- Hand of Nagash now uses mixed lore of death and vampires
+- Dread King loyalty dilemma adjusted to support the official Nagash faction, tweaked rewards
+- customized book of nagash effects for Dread King
+- added Dread King roster to Nagash: recruitable from Tomb Kings and necropolis buildings, buffed by custom dread king effects in character skills and black pyramid else by Tomb Kings effects, and much more
+
+The effects have been heavily reworked: if you find any effect that doesn't buff the unit its supposed to or vice versa please let us know
+
+KNOWN ISSUES: Dread King lord and heroes are not using their unique names currently all calles Infernal Legions
+
+2026/OCT/1 Rhox & Ubermorgen
+- All Nagash related things require new game I (Rhox) think
+
+- Removed ancillary_included_subcultures_tables since that would block Nagash from getting the mounts, and vanilla doesn't use it anymore
+- Now hand will also join Nagash on Mortarch absorbing
+- Changed "ovn_dlc29_ritual_nag_unit_capacity_" prefix into "wh3_dlc29_ritual_nag_unit_capacity_" since otherwise it won't count towards the black pyramid
+- Added following to the ritual bonus cost
+-- wh3_dlc29_effect_nag_necromancy_cost_mod_infantry
+-- wh3_dlc29_effect_nag_necromancy_cost_mod_beasts
+-- wh3_dlc29_effect_nag_necromancy_cost_mod_cavalry
+-- wh3_dlc29_effect_nag_necromancy_cost_mod
+- Fixed the issue of Nagash having multiple unit_list restriction with same unit in it, resulting in unit_cap not increasing upon button clicking
+- Update animation stuff for 9.0
+
+2026/SEP/30 Rhox & Ubermorgen
+- Rhox: "I've added the Mortarch system in bones so that other team members can change things with ease. The balance, image, and text is a placeholder. So DO NOT PLAY if you want a full experience"
+
+- Changed mixer_nag_nagash diplo bonus to CA's DLC Nagash
+- Added DK units to Nagash
+-- rhox_nag_mortarchs_dk_arkhan 's "_arkhan" is intentional, and must have for it to appear as "Legendary Lord"
+- Added DK Mortarch to Nagash
+
+2026/SEP/28 Ubermorgen | Wert | AdmiralElon
+- added renown skills to lord skill trees
+- added units + characters to CB for Nagash with mp caps
+- applied vanilla balance changes (cost and stats) to DK vampire units
+- Oracle of Pythos (Skeletal Elephant): added Vigour Mortis passive. +50 cost
+- Screaming Skull Ballista: mp costs +25
+- Skeletal Minotaurs (Summon): unbinding time -12s
+Hand of Nagash: 
+- Chariot Armour from 110 to 90. 
+- Ability "Call of Death": costs -50; cooldown -30s; num uses +1
+- Passive Ability: "Punished One": Discouraged(-16 LD) swapped with Burnt (-8 LD)
+
+2026/SEP/25 Wolfremio
+- Updated to 9.0
+- Technically updated to 9.0 but sorta incomplete until full integration with LOTET's Nagash
+
+2026/AUG/25 Lingling
+- added The as a prefix to Dread Kind and Hand of Nagash, to make it clear they are not a generic Lord
+- added lore of death cooldown to the Necromancer Origin of the Liche Strategos, both lore choices get the same bonus now
+
+2026/MAY/22 Rhox
+- Table schema update
+
+2026/APR/17 Ubermorgen
+- replaced tomb king mp caps with real ones and added missing ones to units
+- Bone Hydra: costs -100; bonus hp +300
+- Corrupted Priest: MD -3; MA +2; CB +2; WS -10; WS AP -10; splash attack targets +1
+- Elephant: costs -50
+- Elephant RoR: costs -300
+- Hoplites RoR: bonus hp -6; MA -4; MD -2; CB -3
+- Mummies RoR: LS -5; MA -2; costs +100
+- Polybolos: costs +100
+- Reikwald Brigands: costs -50; ui group -> crossbows
+- Royal Guard RoR: LS +5; MA -2; MD +3; CB -2; WS -2; bonus hp -6; costs -200 
+- added Realm of Souls abilities to artillery units
+
+2026/MAR/03 Lingling
+- added Kislev to the necromancy mechanic, killing Kislev units now provides units in the necromancy pool
+
+2026/FEB/24 Lingling
+- removed audio files from merging that could potentially cause issues
+
+2025/DEC/31 Rhox
+- Fixed the issue of following techs using wrong scope, and is now using faction_to_province_own_unseen
+dread_king_tech_50
+dread_king_tech_56
+dread_king_tech_36
+dread_king_tech_33
+dread_king_tech_30
+dread_king_tech_15
+dread_king_tech_62
+dread_king_tech_55
+dread_king_tech_37
+dread_king_tech_34
+dread_king_tech_32
+dread_king_tech_29
+dread_king_tech_63
+dread_king_tech_54
+dread_king_tech_38
+dread_king_tech_35
+dread_king_tech_31
+dread_king_tech_18
+
+2025/DEC/08 Rhox
+- Fixed the issue of DK not getting access to the "Servants in Undeath" mercenaries due to the 7.0 update
+
+2025/NOV/20 Lingling
+- shortened unit descriptions short to prevent performance issues
+
+2025/NOV/06 Lingling
+- changed name of Hetairoi to Hetairos
+- complete polishing pass of the loc files (fixed typos, grammar, wording)
+- tweaked Myrmidens minor faction
+
+2025/OCT/23 Rhox -2
+- Added latency in the minor faction region hand-off script so that it gives to the minor faction instead of Ogre when Cataph's TEB is on
+(Reminder: You can turn the minor faction off if you want Minor gore instead of Dread King minor, and the default MCT value is off)
+
+2025/OCT/23 Rhox
+- Added the Dread King minor faction. You need to enable them in MCT in order for them to spawn
+-- Flag is a PH
+-- They don't have LL techs
+-- While they're minor, they still get the effect bundle, and this is for getting mino spawn instead of Ushabti
+- And fixed the issue of the mod using an actual faction string from Mixer that was requested by another person. Sorry if it caused an issue for anyone
+
+2025/OCT/02 Lingling
+- DB preparations for new faction   "ovn_tmb_dread_myrmidens" = placeholder for "ovn_tmb_dread_myrmidens"
+
+2025/SEP/17 Lingling - 6.3.1
+- tweaks to garrisons, tech, crafting & ritual costs
+
+2025/SEP/17 Lingling - 6.3
+- updated for 6.3 (various tech, effect and buidling changes)
+
+2025/JUL/10 Lingling - 6.2.2 Update
+- Royal Guard now have the new elite infantry capture power
+- adjusted ability ranges according to the new patch
+- small balance tweaks matching changes to the vanilla counterparts of some units
+
+2025/JUL/10 Rhox
+Fixed the issue of the Corrupted priest with the shadow and vampire lore not getting the mount
+(dread_skeletal_steed_priest_shadow)
+(dread_skeletal_steed_priest_vampires)
+
+2025/JUN/17 Wolfremio
+- 6.2 Update
+
+2025/APR/08 Lingling
+- Made the mod compatible with VC reskin mods like Uniforms & Herady of the Vampire Counts. The Dread Kings troops will not be reskinned anymore and keep their bronze armour.
+
+2025/JAN/25 Rhox
+- Fixed the issue of 
+
+2025/JAN/25 Wolfremio
+- Added TOW classic compat
+
+2025/JAN/05 Rhox
+- Changed disabling wh2_dlc09_tmb_tomb_king (Tomb King generic lord) via DB rather than the script
+- Changed script's path for easier future maintenance. (It wouldn't affect your game unless your submod overrides ours for some reason)
+
+2024/DEC/30 Lingling
+- added custom voice for the Dread King
+- fixed visual bug with Dread King's dragon saddle
+
+2024/OCT/31 Lingling
+- applied bolt thrower changes to bone thrower units (+ RoR)
+
+2024/SEP/10 Lingling
+- added several missing unit sets to units recruited via the necromancy panel and some RoRs
+- added auto resolve values to land units as added in the latest patch
+- adjusted the AI building values for custom buildings according to the changes in the latest patch
+
+2024/SEP/05 Lingling
+- Changed the stats of Crypt Ghouls, Fell Bats, Dire Wolves and Hexwraiths to the VC variants instead of the Arkhan ones. Arkhans units are stronger and combined with skill and tech buffs these units where getting to strong for the Dread King faction
+
+2024/JULY/24 Rhox
+- Changed the scope of ancillary drop to fit with vanilla's 5.1.2 change
+
+2024/JULY/09 Lingling
+- Added/buffed collision and splash attacks for various units according to the 5.1 changes
+- Adjusted stats for Bone Throwers (+RoR), Cairn Wraiths, Royal Guard Cav, Skeletal Elephants (+RoR) and Dread King on Zombie Dragon according to the vanilla changes
+- removed Mentor from Larenscheld as in the 5.1.1 changes
+
+2024/JUNE/30 Rhox:
+- Some compat thing for the upcoming Nagash patch (Removed most of the ancillary_included_subcultures_tables as Wh3 doesn't use it, remaining tables should be deleted after the patch)
+2024/JUNE/25 Wolfremio:
+- Updated to 5.1
+
+2024/MAY/15 Lingling
+- replaced health increase of heart of blackness with melee defence
+- increased mp cost for hetairoi on chariot matching the change to tomb prince
+- updated outdated faction agent permitted table
+
+2024/APR/16 Lingling
+- added custom battle factions
+
+2024/MAR/7 Lingling
+- fixed a visual issue with the thureos shields
+- lowered Hetairoi mp costs according to the changes to Tomb Prince in 4.2
+- reverted colossal strike to deadly onslaught for hetairoi since he is an anti infantry hero
+- Larenscheld in ghost form got the full vanilla treatment: lowered phys res to 55%, only ap damage, added frostbite contact effect
+
 2024/MAR/7 Rhox
 - Fixed the scope of luthor_the_hunchback's ambush to agent_to_parent_army_own from general to force own
 - Fixed the issue of most veteran effects not affecting Dread King's RoRs

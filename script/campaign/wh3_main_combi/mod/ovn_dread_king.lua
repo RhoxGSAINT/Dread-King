@@ -48,7 +48,7 @@ local function new_game_startup()
     spawn_new_force()
     
     --change the campaign settlement model used
-	cm:override_building_chain_display("wh2_dlc09_tmb_settlement_minor", "ovn_dkl_special_settlement_pools_of_despair", "wh3_main_combi_region_pools_of_despair")
+	cm:override_building_chain_display("wh_main_BRETONNIA_settlement_minor", "ovn_dkl_special_settlement_pools_of_despair", "wh3_main_combi_region_pools_of_despair")
 
     local pools_of_despair = cm:get_region("wh3_main_combi_region_pools_of_despair")
     cm:transfer_region_to_faction("wh3_main_combi_region_pools_of_despair", "ovn_tmb_dread_king")
@@ -96,7 +96,13 @@ local function new_game_startup()
 
             end
 
-    
+    cm:callback(function()
+        local faction = cm:get_faction("ovn_tmb_dread_king")
+        if faction and not faction:is_null_interface() then
+            cm:force_change_cai_faction_personality("ovn_tmb_dread_king", "wh3_combi_tombking_arkhan")
+            out(">>> [OVN Dread King] CAI personality applied to Dread King")
+        end
+    end, 2.0)
     
     local unit_count = 1 -- card32 count
     local rcp = 20 -- float32 replenishment_chance_percentage
@@ -120,7 +126,7 @@ local function new_game_startup()
         cm:add_unit_to_faction_mercenary_pool(
             dread_king,
             unit,
-            "renown",
+            "wh3_main_regiments_of_renown_pool",
             unit_count,
             rcp,
             max_units,
@@ -173,7 +179,6 @@ local function new_game_startup()
     )
     
 end
-
 
 
 cm:add_first_tick_callback(

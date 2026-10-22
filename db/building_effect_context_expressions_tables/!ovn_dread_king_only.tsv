@@ -1,0 +1,11 @@
+key	expression	display_only_active_effects	always_show_display_text
+#building_effect_context_expressions_tables;2;db/building_effect_context_expressions_tables/!ovn_dread_king_only			
+HasFirstDynastyTechDread	Owner.IsTechnologyResearched("dread_king_tech_1_legion")	false	false
+HasMortisTechDread	Owner.IsTechnologyResearched("dread_king_tech_66")	false	false
+HasInfantryTechDread	Owner.IsTechnologyResearched("dread_king_tech_58")	false	false
+HasHydraTechDread	Owner.IsTechnologyResearched("dread_king_tech_65")	false	false
+HasGhostsTechDread	Owner.IsTechnologyResearched("dread_king_tech_21")	false	false
+HasColossusTechDread	Owner.IsTechnologyResearched("dread_king_tech_74")	false	false
+HasCavalryTechDread	Owner.IsTechnologyResearched("dread_king_tech_28")	false	false
+FactionHasBookOfNagash2	GetModelBookContextFromKey("wh2_dlc09_books_of_nagash_2").IsOwnedByFaction(Owner) && Owner.CultureKey == "wh2_dlc09_tmb_tomb_kings"	true	false
+FactionHasBookOfNagash2Dread	GetModelBookContextFromKey("wh2_dlc09_books_of_nagash_2").IsOwnedByFaction(Owner) && Owner.RecordKeyIsOneOf("ovn_tmb_dread_king", "ovn_tmb_dread_myrmidens")	true	false

@@ -1,0 +1,24 @@
+key	chance_to_replenish	max_count	unit_record	use_partial_replenishment	max_replenish_per_turn	ui_order
+#mercenary_unit_groups_tables;3;db/mercenary_unit_groups_tables/ovn_dread_king_nagash_recruitment						
+ovn_dk_inf_mummies_nag	1.0000	999999	ovn_dk_inf_mummies	false	100.0000	34
+ovn_dk_inf_skeleton_hoplites_nag	1.0000	999999	ovn_dk_inf_skeleton_hoplites	false	100.0000	35
+ovn_dk_inf_skeleton_pikemen_nag	1.0000	999999	ovn_dk_inf_skeleton_pikemen	false	100.0000	36
+ovn_dk_inf_skeleton_javelinmen_nag	1.0000	999999	ovn_dk_inf_skeleton_javelinmen	false	100.0000	31
+ovn_dk_inf_tomb_guardian_nag	1.0000	999999	ovn_dk_inf_tomb_guardian	false	100.0000	37
+ovn_dk_inf_tomb_guardian_great_weapons_nag	1.0000	999999	ovn_dk_inf_tomb_guardian_great_weapons	false	100.0000	38
+ovn_dk_inf_tomb_guardian_peltasts_nag	1.0000	999999	ovn_dk_inf_tomb_guardian_peltasts	false	100.0000	39
+ovn_dk_cav_royal_guard_cavalry_nag	1.0000	999999	ovn_dk_cav_royal_guard_cavalry	false	100.0000	44
+ovn_dk_cav_royal_guard_lancers_nag	1.0000	999999	ovn_dk_cav_royal_guard_lancers	false	100.0000	45
+ovn_dk_mon_skeletal_minotaurs_nag	1.0000	999999	ovn_dk_mon_skeletal_minotaurs	false	100.0000	46
+ovn_dk_mon_skeleton_giant_nag	1.0000	999999	ovn_dk_mon_skeleton_giant	false	100.0000	48
+ovn_dk_mon_skeleton_elephant_nag	1.0000	999999	ovn_dk_mon_skeleton_elephant	false	100.0000	47
+ovn_dk_mon_bone_hydra_nag	1.0000	999999	ovn_dk_mon_bone_hydra	false	100.0000	49
+ovn_dk_art_screaming_skull_ballista_nag	1.0000	999999	ovn_dk_art_screaming_skull_ballista	false	100.0000	51
+ovn_dk_art_bone_throwers_nag	1.0000	999999	ovn_dk_art_bone_throwers	false	100.0000	50
+ovn_dk_inf_skeleton_archers_nag	1.0000	999999	ovn_dk_inf_skeleton_archers_0	false	100.0000	30
+ovn_dk_inf_skeleton_spearmen_nag	1.0000	999999	ovn_dk_inf_skeleton_spearmen_0	false	100.0000	33
+ovn_dk_inf_skeleton_warriors_nag	1.0000	999999	ovn_dk_inf_skeleton_warriors_0	false	100.0000	32
+ovn_dk_cav_skeleton_horsemen_0_nag	1.0000	999999	ovn_dk_cav_skeleton_horsemen_0	false	100.0000	40
+ovn_dk_cav_skeleton_horsemen_archers_0_nag	1.0000	999999	ovn_dk_cav_skeleton_horsemen_archers_0	false	100.0000	41
+ovn_dk_veh_skeleton_chariot_nag	1.0000	999999	ovn_dk_veh_skeleton_chariot	false	100.0000	42
+ovn_dk_veh_skeleton_archer_chariot_nag	1.0000	999999	ovn_dk_veh_skeleton_archer_chariot	false	100.0000	43

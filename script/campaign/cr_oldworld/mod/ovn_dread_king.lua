@@ -2,9 +2,9 @@ local function spawn_new_force()
 	cm:create_force_with_general(
 		"ovn_tmb_dread_king", -- faction_key,
 		"ovn_dk_inf_skeleton_hoplites,ovn_dk_inf_skeleton_hoplites,ovn_dk_inf_tomb_guardian_peltasts,ovn_dk_inf_mummies,ovn_dk_mon_skeleton_elephant,ovn_dk_cav_royal_guard_cavalry", -- unit_list,
-		"cr_oldworld_region_fort_straghov", -- region_key,
-		1082, -- x,
-		1177, -- y,
+		"cr_oldworld_region_macadone", -- region_key,
+		1012, -- x,
+		1491, -- y,
 		"general", -- type,
 		"Dread_King", -- subtype,
 		"names_name_247259235", -- name1,
@@ -48,19 +48,19 @@ local function new_game_startup()
     spawn_new_force()
     
     --change the campaign settlement model used
-	cm:override_building_chain_display("wh3_main_ksl_settlement_major", "ovn_dkl_special_settlement_pools_of_despair", "cr_oldworld_region_fort_straghov")
+	-- cm:override_building_chain_display("wh3_main_ksl_settlement_major", "ovn_dkl_special_settlement_pools_of_despair", "cr_oldworld_region_macadone")
 
-    local fort_straghov = cm:get_region("cr_oldworld_region_fort_straghov")
-    cm:transfer_region_to_faction("cr_oldworld_region_fort_straghov", "ovn_tmb_dread_king")
-	cm:instantly_set_settlement_primary_slot_level(fort_straghov:settlement(), 3)
-	cm:heal_garrison(fort_straghov:cqi());
+    local macadone = cm:get_region("cr_oldworld_region_macadone")
+    cm:transfer_region_to_faction("cr_oldworld_region_macadone", "ovn_tmb_dread_king")
+	cm:instantly_set_settlement_primary_slot_level(macadone:settlement(), 3)
+	cm:heal_garrison(macadone:cqi());
     
         local wizard_agent =  cm:create_agent(
         "ovn_tmb_dread_king",
         "wizard",
         "elo_dread_larenscheld",
-        1084, -- x,
-		1178
+        1011, -- x,
+		1492
     )
         
     if wizard_agent then
@@ -71,7 +71,13 @@ local function new_game_startup()
                 cm:force_declare_war("ovn_emp_grudgebringers", "ovn_tmb_dread_king", false, false)
             end
 
-    
+    cm:callback(function()
+        local faction = cm:get_faction("ovn_tmb_dread_king")
+        if faction and not faction:is_null_interface() then
+            cm:force_change_cai_faction_personality("ovn_tmb_dread_king", "wh3_combi_tombking_arkhan")
+            out(">>> [OVN Dread King] CAI personality applied to Dread King")
+        end
+    end, 2.0)
     
     local unit_count = 1 -- card32 count
     local rcp = 20 -- float32 replenishment_chance_percentage
@@ -95,7 +101,7 @@ local function new_game_startup()
         cm:add_unit_to_faction_mercenary_pool(
             dread_king,
             unit,
-            "renown",
+            "wh3_main_regiments_of_renown_pool",
             unit_count,
             rcp,
             max_units,

@@ -1,3 +1,4 @@
 campaign_potential	base_value	random_roll_lower_bound	random_roll_median	random_roll_upper_bound
 #faction_potential_categories_tables;0;db/faction_potential_categories_tables/ovn_dread_king_only				
-ovn_tmb_dread_king_ie	150	0	25	50
+ovn_tmb_dread_king_ie	175	0	30	60
+ovn_tmb_dread_myrmidens	50	0	5	10

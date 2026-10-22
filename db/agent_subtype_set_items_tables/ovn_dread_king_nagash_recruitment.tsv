@@ -1,0 +1,19 @@
+agent_subtype	set	remove
+#agent_subtype_set_items_tables;0;db/agent_subtype_set_items_tables/ovn_dread_king_nagash_recruitment		
+elo_dread_larenscheld	nag_tmb	false
+elo_hand_of_nagash	nag_tmb	false
+Dread_King	nag_tmb	false
+elo_liche_general_vampires	nag_tmb	false
+elo_liche_general_death	nag_tmb	false
+elo_liche_general_undeath	nag_tmb	false
+elo_dread_centurion	nag_tmb	false
+dread_corrupted_priest_death	nag_tmb	false
+dread_corrupted_priest_shadow	nag_tmb	false
+dread_corrupted_priest_vampires	nag_tmb	false
+dread_corrupted_priest_undeath	nag_tmb	false
+dread_hellwraith	nag_tmb	false
+dread_traitor_tomb_king_nebwaneph	nag_tmb	false
+dread_traitor_tomb_king_omanhan_iii	nag_tmb	false
+dread_traitor_tomb_king_haptmose	nag_tmb	false
+dread_possessed_hero_01	nag_tmb	false
+dread_possessed_hero_02	nag_tmb	false

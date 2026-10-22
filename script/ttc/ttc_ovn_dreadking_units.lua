@@ -1,6 +1,9 @@
 local modded_units = {
     
     --CORE
+    {"ovn_dk_inf_skeleton_warriors_0", "core"},
+    {"ovn_dk_inf_skeleton_spearmen_0", "core"},
+    {"ovn_dk_inf_skeleton_archers_0", "core"},
     {"ovn_dk_inf_skeleton_hoplites", "core"},
     {"ovn_dk_inf_skeleton_pikemen", "core"},
     {"ovn_dk_inf_skeleton_javelinmen", "core"},
@@ -8,7 +11,10 @@ local modded_units = {
     {"ovn_dk_veh_skeleton_archer_chariot", "core"},
     {"ovn_dk_veh_skeleton_chariot", "core"},
     {"ovn_dk_cav_skeleton_horsemen_0", "core"},
-    {"ovn_dk_cav_skeleton_horsemen_archers_0", "core"},    
+    {"ovn_dk_cav_skeleton_horsemen_archers_0", "core"},  
+    {"ovn_dk_inf_crypt_ghouls", "core"},
+    {"ovn_dk_mon_dire_wolves", "core"},
+    {"ovn_dk_mon_fell_bats", "core"},    
 
     {"ovn_dk_inf_skeleton_hoplites_no_caps", "core"},
     {"ovn_dk_inf_skeleton_pikemen_no_caps", "core"},
@@ -29,6 +35,7 @@ local modded_units = {
     {"dread_mon_ushabti_1", "special", 2},
     {"dread_inf_tomb_guard_0", "special", 1},
     {"dread_inf_tomb_guard_1", "special", 1},
+    {"ovn_dk_cav_hexwraiths", "special", 2},
 
     {"ovn_dk_mon_skeletal_minotaurs_no_caps", "special", 2},
     
@@ -39,6 +46,8 @@ local modded_units = {
     {"ovn_dk_mon_bone_hydra", "rare", 2},
     {"ovn_dk_veh_mortis_engine_0", "rare", 3},
     {"ovn_dk_art_screaming_skull_ballista", "rare", 1},
+	{"ovn_dk_mon_morghast_archai", "rare", 2},
+    {"ovn_dk_mon_morghast_harbingers", "rare", 2},
 
     {"ovn_dk_mon_skeleton_elephant_no_caps", "rare", 2},
     {"ovn_dk_mon_skeleton_giant_no_caps", "rare", 2},

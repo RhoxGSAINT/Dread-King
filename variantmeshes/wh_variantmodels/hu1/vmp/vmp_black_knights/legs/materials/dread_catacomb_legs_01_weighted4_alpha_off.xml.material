@@ -5,7 +5,7 @@
  <textures>
   <texture>
    <slot version="2">t_xml_base_colour</slot>
-   <source>VariantMeshes/wh_variantmodels/hu1/vmp/vmp_wight_king/body/tex/vmp_wight_king_body_01_base_colour.dds</source>
+   <source>variantmeshes/wh_variantmodels/hu1/vmp/vmp_wight_king/body/tex/dk_vanilla_wight_king_body_01_base_colour.dds</source>
   </texture>
   <texture>
    <slot version="2">t_xml_blood_map</slot>

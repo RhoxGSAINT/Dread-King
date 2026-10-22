@@ -2,3 +2,7 @@ id	incident_key	option_key	value	target
 #cdir_events_incident_option_junctions_tables;1;db/cdir_events_incident_option_junctions_tables/rhox_dreadking				
 1829252304	rhox_dk_after_battle	VAR_CHANCE	100	default
 1829252305	rhox_dk_after_battle	GEN_TARGET_MODEL	100	default
+1829252306	rhox_nag_incident_mortarch_subjugated_dk	GEN_TARGET_CHARACTER		default
+1829252307	rhox_nag_incident_mortarch_subjugated_dk	VAR_CHANCE	100	default
+1829252308	rhox_nag_incident_mortarch_subjugated_dk	GEN_CND_OWNS		default
+1829252309	rhox_nag_incident_mortarch_subjugated_dk	GEN_CND_AGENT_SUBTYPE	Dread_King	default

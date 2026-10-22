@@ -17,7 +17,7 @@
   </texture>
   <texture>
    <slot version="2">t_xml_mask</slot>
-   <source>VariantMeshes/wh_variantmodels/hu1/vmp/vmp_black_knights/tex/vmp_black_knights_torso_01_mask.dds</source>
+   <source>variantmeshes/wh_variantmodels/hu1/vmp/vmp_black_knights/tex/dk_vanilla_black_knights_torso_01_mask.dds</source>
   </texture>
   <texture>
    <slot version="2">t_xml_material_map</slot>

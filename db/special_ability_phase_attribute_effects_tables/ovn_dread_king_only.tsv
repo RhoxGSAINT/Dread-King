@@ -5,3 +5,4 @@ causes_fear	elo_hand_terror_past	negative
 expendable	elo_hand_terror_past	negative
 fatigue_immune	elo_hand_punished_one	positive
 causes_terror	ovn_undead_discipline	positive
+cannot_die	dread_active_kleruchoi	positive

@@ -1,0 +1,7 @@
+key	description_text	faction	header_text	image_path	priority_index
+#campaign_ui_cheatsheet_items_tables;0;db/campaign_ui_cheatsheet_items_tables/ovn_dread_king_only					
+ovn_tmb_dread_king_1	war.camp.hp.books_of_nagash.002	ovn_tmb_dread_king	war.camp.hp.books_of_nagash.001		1
+ovn_tmb_dread_king_2	war.camp.hp.day_of_awakening.002	ovn_tmb_dread_king	war.camp.hp.day_of_awakening.001		2
+ovn_tmb_dread_king_3	war.camp.hp.dynasties.002	ovn_tmb_dread_king	war.camp.hp.dynasties.001		3
+ovn_tmb_dread_king_4	war.camp.hp.mortuary_cult.002	ovn_tmb_dread_king	war.camp.hp.mortuary_cult.001		4
+ovn_tmb_dread_king_5	war.camp.hp.nehekhara_decrees.002	ovn_tmb_dread_king	war.camp.hp.nehekhara_decrees.001		5
